@@ -10,7 +10,7 @@ status: draft
 > All Roblox settings come from the Roblox creator-docs source repo (`main`, 2026-10-31), which create.roblox.com is built from. The site itself was unreachable from the research session. Blender UI names match current docs (Roblox's tutorials reference **Blender 5.2**).
 
 ## TL;DR
-- Blender scene: **Units → Unit System None** (1 BU = 1 stud). FBX export: **Path Mode Copy + Embed Textures**, **Apply Scalings: FBX Unit Scale**, Forward **−Z**/Up **Y** per Roblox's Blender page, **Add Leaf Bones OFF**, **Bake Animation OFF** (ON only for FACS/animation), **Custom Properties ON** for dynamic heads. [1][2][3]
+- Blender scene: **Units → Unit System None** (1 BU = 1 stud). FBX export: **Path Mode Copy + Embed Textures**, **Apply Scalings: FBX Unit Scale**, Forward **Z**, Up **Y** (per Roblox's Blender page), **Add Leaf Bones OFF**, **Bake Animation OFF** (ON only for FACS/animation), **Custom Properties ON** for dynamic heads. [1][2][3]
 - **glTF avoids the FBX 100× scale problem**, and a Roblox engineer suggested glTF (or pre-triangulating) when FBX triangulation breaks custom normals. Note glTF imports with an extra Model level per mesh. [1][4][5]
 - Studio: **File → Import** (3D Importer). Pick **Rig Type** (R15 / Custom / No Rig), **Rig Scale** (Default=Classic, Rthro=Normal, Rthro Narrow=Slender), and **Constraint Type → Joint Upgrade** for avatar bodies. Untick **Upload to Roblox** while iterating. [4][6]
 - Limits to check *before* export: **≤ 20,000 tris per mesh**, **≤ 4 influences per vertex**, **one material per mesh**, **one UV set, UVs inside 0–1**, textures **≤ 1024² recommended for characters** (engine supports up to 4096², Marketplace avatar items ≤ 2048²). [7][8][9]

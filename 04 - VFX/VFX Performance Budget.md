@@ -1,7 +1,7 @@
 ---
 tags: [vfx, performance, mobile, optimization, budget, overdraw]
 updated: 2026-10-31
-sources: 13
+sources: 15
 status: draft
 ---
 # VFX Performance Budget
@@ -67,10 +67,12 @@ Estimate live particles for a burst: `EmitCount`. For a continuous emitter: `Rat
 - **LOD for others' effects:** spawn a reduced version for fights far from the local player.
 
 ### Step 5 — Profile
-1. **MicroProfiler** (Ctrl+F6 in client): watch `Perform/Scene/UpdateView` (rendering prep and particle updates) and `Perform/Scene/RenderView` [5].
-2. **Render stats** (Shift+F2) for draw calls and triangles during a scripted 10-player ult stress test.
+1. **MicroProfiler** (Ctrl+F6 / ⌘F6 in the desktop client and Studio [14]): watch `Perform/Scene/UpdateView` (rendering prep and particle updates) and `Perform/Scene/RenderView` [5].
+2. **Debug Stats** overlays (Shift+Ctrl+F1…F5, graphics/physics/network/FPS [15]) for draw calls and triangles during a scripted 10-player ult stress test.
 3. Studio Settings → **Editor Quality Level**: check effects at the lowest and highest level [1].
-4. **Developer Console → Memory** → `GraphicsTexture` and `GraphicsParticles` while effects play.
+4. **Developer Console → Memory**: watch the graphics/texture categories while effects play.
+   > [!warning] Unverified
+   > Exact memory category names (e.g. `GraphicsTexture`, `GraphicsParticles`) were not checked against current docs.
 5. Write a **stress-test script** that fires every ultimate at once on dummies and logs frame time.
 
 ## Numbers & Settings
@@ -123,3 +125,5 @@ Estimate live particles for a burst: `EmitCount`. For a continuous emitter: `Rat
 11. EasyVFX `docs/sharp-vfx.md` (lowest-quality Rate observation). https://github.com/VuxSussy/EasyVFX/blob/main/docs/sharp-vfx.md
 12. Roblox Creator Docs, Beam.Segments. https://create.roblox.com/docs/reference/engine/classes/Beam
 13. DevForum, "Particles' Flipbook Release". https://devforum.roblox.com/t/particles%E2%80%99-flipbook-release/2029388
+14. Roblox Creator Docs, MicroProfiler (Ctrl+F6 / ⌘F6). https://create.roblox.com/docs/performance-optimization/microprofiler
+15. Roblox Creator Docs, "Identify performance issues" (Debug Stats shortcuts). https://create.roblox.com/docs/performance-optimization/identify
