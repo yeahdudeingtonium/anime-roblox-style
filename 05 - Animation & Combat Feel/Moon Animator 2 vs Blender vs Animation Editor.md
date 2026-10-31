@@ -72,6 +72,14 @@ Ultimates need **character + victim + camera + VFX parts** on one timeline, whic
 | An experienced 3D animator, heavy posing | Blender → bridge → Animation Editor for markers |
 | A team of 3+ animators | Blender/Moon authoring + one "publisher" who owns group upload and the ID registry |
 
+## Hand-off contract between tools
+Whatever tool authored the motion, the asset that ships should pass the same gate in Studio:
+1. Opens cleanly in the Animation Editor on the production rig (R6 or custom). No missing-joint warnings.
+2. Has the marker vocabulary from [[M1 Combo System Design]] (`Hit`, `CanCancel`, `End`, plus cosmetic markers).
+3. Has priority set (see [[Roblox Animation System Reference]]) and looping set correctly.
+4. Is keyframe-optimized (⋯ → Optimize Keyframes), which is especially important for Moon exports with baked easing.
+5. Is published with Creator = the group, and its ID is logged in the registry (see [[Importing, Uploading and Replicating Animations]]).
+
 ## Numbers & Settings
 | Setting | Value | Why |
 |---|---|---|
