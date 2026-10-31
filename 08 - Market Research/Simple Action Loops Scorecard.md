@@ -6,6 +6,14 @@ status: draft
 ---
 # Simple Action Loops Scorecard
 
+> [!warning] Partly superseded by live Roblox data (2026-10-31, later the same day)
+> This scorecard was built from search snippets while tracker sites were blocked. Live data from `tools/roblox_intel.py` corrects three things:
+> - **My Anime Mine is a hit, not a flop.** It has **13,933 live CCU** and 23M visits at 72 days old. The "745 peak" came from a stale snippet.
+> - **The kaiju theme alone isn't pulling.** Kaiju Zero has ~426 CCU at 32 days; Raise a Kaiju has ~4. Hatch a Kaiju needs re-judging.
+> - **"+1 ___" isn't fading.** It's all over Up-and-Coming: +1 Spider Arm (28K, 11 days old), +1 Anime Eyes (31K), +1 Venom Evolution (41K).
+>
+> See [[Idea Ledger Round 1]], [[Live Pattern Report 2026-10-31]] and [[Growth Curves and Timing]] for the data-driven re-ranking.
+
 ## TL;DR
 - **The proven loop right now:** `[VERB] a [THING] → rarity roll → it earns $/sec on your plot (offline too) → better tool → one risk lever (steal / hazard / chaser) → rebirth`. "Steal An Egg" is #1 on Roblox at roughly 745K–986K CCU (Oct 14–27, 2026).
 - **The rising fantasies for ages 8–14** (Christmas 2026): hatching sea monsters and kaiju, squishies, mild mascot horror, and a demon-hunting idol. Anime is **flat for 8–14** as a headline theme but works as a *visual style*.
