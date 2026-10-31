@@ -26,7 +26,7 @@ The black-and-white flash on a Black Flash-style crit, the white-out on an ultim
 | | `Saturation` | >1 vivid, **−1 = full desaturation** [3] | −1 for black-and-white frames |
 | | `TintColor` | Multiplicative per channel; (255,0,0) zeroes G and B [3] | Red tint for rage or crit |
 | `BloomEffect` | `Intensity`, `Size` (px), `Threshold` (1 = only white blooms, 0 = everything) [8] | Spike Intensity for a glow pop |
-| `BlurEffect` | `Size` | Radial-free Gaussian blur of the whole view [4] | 1-frame blur on dash |
+| `BlurEffect` | `Size` | Gaussian blur of the whole 3D view [4] | 1-frame blur on dash |
 | `Camera` | `FieldOfView` | **1–120, default 70** (vertical degrees) [7] | FOV punch |
 | `Highlight` | `FillColor`, `FillTransparency`, `OutlineColor`, `DepthMode` | **Max 255 simultaneous Highlights on a client.** Disabled ones still take a slot [9] | Silhouette characters during the frame |
 
