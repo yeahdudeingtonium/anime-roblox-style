@@ -59,3 +59,4 @@ The engine is the asset. Each title is a cheap bet on a live wave, so a flop cos
 
 ## Change log
 - 2026-10-31: first version, built from [[Live Pattern Report 2026-10-31]] (1,336 games), [[Growth Curves and Timing]] (345 CCU histories), [[Idea Ledger Round 1]] (105 ideas), [[Roblox Discovery Algorithm]] (34 sources) and a manual spot-check of "for eggs" and "fake a" searches. It overturned the earlier snippet-based [[Simple Action Loops Scorecard]], demoting Hatch a Kaiju and correcting My Anime Mine from a flop to a hit.
+- 2026-10-31: [[Idea Ledger Round 2 - Young Waves]] confirmed rules 4 and 6. Noun-swap and chained-title copies launched in the last 2 weeks sit at 12–186 CCU (Fake a Pet, Sell Popcorn, Ride and Steal a Pet).
