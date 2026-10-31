@@ -25,4 +25,5 @@ git clone https://github.com/yeahdudeingtonium/anime-roblox-style
 | 05 | Animation & Combat Feel | Frame timing, posing, hitstop, cameras, M1 combos, ultimates |
 | 06 | Top Modelers & Studios | How top Roblox artists and studios work, case studies, commissioning |
 | 07 | Core Loops & Game Design | Simulators, survivors-likes, tower defense, battlegrounds, grind RPGs, gacha, roguelites, tycoons, viral social loops, comparison matrix |
+| 08 | Market Research | Graded scorecard of simple action loops, plus dated evidence logs (Roblox velocity, mechanics, Steam and mobile, kid culture) |
 | 90 | References | Link library and tools |

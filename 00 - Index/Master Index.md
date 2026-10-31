@@ -5,7 +5,7 @@ status: solid
 ---
 # Master Index
 
-Every note in the vault, grouped by section. Start with [[Roadmap]], read [[Vault Conventions]] before adding notes, and check [[Open Questions and Verification Queue]] before trusting a number.
+Every note in the vault, grouped by section. Check [[Owner Decisions]] first, then start with [[Roadmap]], read [[Vault Conventions]] before adding notes, and check [[Open Questions and Verification Queue]] before trusting a number.
 
 ## 01 - Style Foundations
 
@@ -89,3 +89,11 @@ Every note in the vault, grouped by section. Start with [[Roadmap]], read [[Vaul
 - [[Survivors-Like Horde Loop]]: **Loop line:** `move (attacks are automatic) -> kill hordes -> pick up XP gems -> level up -> choose 1 of 3 upgrades -> build snowballs -> survive the timer or boss…
 - [[Tower Defense and Unit Collecting Loop]]: **Loop line:** `summon units (gacha) -> place on path -> upgrade during waves -> clear stage/raid -> earn gems + materials -> summon/evolve units -> harder content`.…
 - [[Tycoon and Idle Loop]]: **Loop line (tycoon):** `claim plot -> droppers make money -> conveyor -> collector -> buy next button/upgrade -> base grows -> rebirth for multiplier`.…
+
+## 08 - Market Research
+
+- [[Simple Action Loops Scorecard]]: 12 simple one-action loops graded on 6 axes, with Hatch a Kaiju as the top pick (2026-10-31)
+- [[Tier A - Roblox Velocity]]: what's rising on Roblox (Steal ___ Egg wave, Ride A Pet, Anime Dice)
+- [[Tier B - Action Loop Mechanics]]: 25 one-action games dissected, the pattern template, 10 untapped verbs
+- [[Tier D - Steam Mobile Cross-Platform]]: Steam and mobile loops not yet on Roblox, with clone counts
+- [[Tier C+E - Kid Culture]]: what kids aged 8–14 are into for Christmas 2026, and the anime verdict
