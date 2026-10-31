@@ -105,6 +105,7 @@ Topology rules for deformation (standard practice, and the reason Roblox asks fo
 - **Heads that don't fill 50% of their box** (e.g. a tiny head inside giant hair geometry modelled as part of the head). Put the hair on an accessory instead. [1]
 
 ## Related
+- [[Roblox Character Limits Cheat Sheet]]
 - [[Shonen Anime Shape Language]]
 - [[Anime Faces and Eyes on Roblox]]
 - [[Anime Hair Modeling]]

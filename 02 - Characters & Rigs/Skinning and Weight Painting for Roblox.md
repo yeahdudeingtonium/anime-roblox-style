@@ -104,6 +104,7 @@ Anime fight animation pushes joints far past T-pose: arms fully overhead for a c
 - **Asymmetric weights** on a symmetric character show up as one elbow collapsing in mirrored animations. [1]
 
 ## Related
+- [[Roblox Character Limits Cheat Sheet]]
 - [[Roblox Character Rigs R6 vs R15 vs Custom]]
 - [[Anime Character Modeling in Blender]]
 - [[Blender to Roblox Studio Export Pipeline]]

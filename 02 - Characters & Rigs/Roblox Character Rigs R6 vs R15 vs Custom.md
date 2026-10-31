@@ -93,6 +93,7 @@ The rig decides **(1)** which animation library you can use (R6 packs vs R15 pac
 - **Extra cape/hair bones in a "Platform Avatar" body** get rejected or ignored. Keep them for in-game custom rigs. [17]
 
 ## Related
+- [[Roblox Character Limits Cheat Sheet]]
 - [[Skinning and Weight Painting for Roblox]]
 - [[Blender to Roblox Studio Export Pipeline]]
 - [[Anime Combat Animation Timing]]

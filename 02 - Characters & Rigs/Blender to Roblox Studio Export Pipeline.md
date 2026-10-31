@@ -132,6 +132,7 @@ Home/File → **Import** → choose file → **Import Preview**:
 - **Imported quads after normal editing** get FBX re-triangulation, breaking the face shading. [5]
 
 ## Related
+- [[Roblox Character Limits Cheat Sheet]]
 - [[Anime Character Modeling in Blender]]
 - [[Skinning and Weight Painting for Roblox]]
 - [[Roblox Character Rigs R6 vs R15 vs Custom]]
