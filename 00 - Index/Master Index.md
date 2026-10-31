@@ -92,6 +92,11 @@ Every note in the vault, grouped by section. Check [[Owner Decisions]] first, th
 
 ## 08 - Market Research
 
+- [[Idea Judgement Rules]]: **start here**. A living rulebook from live data: engine plus wave-riding strategy, 17 rules
+- [[Roblox Discovery Algorithm]]: how Home/RFY, the charts and search rank games; the 16+ launch gate; a 10-point test
+- [[Live Pattern Report 2026-10-31]]: 1,336 live games mined for title, theme, age and update patterns
+- [[Growth Curves and Timing]]: 345 CCU histories; days to 1K/10K, half-life, flop signatures
+- [[Idea Ledger Round 1]]: 105 ideas checked against live Roblox; Top 15 with the test scores
 - [[Simple Action Loops Scorecard]]: 12 simple one-action loops graded on 6 axes, with Hatch a Kaiju as the top pick (2026-10-31)
 - [[Tier A - Roblox Velocity]]: what's rising on Roblox (Steal ___ Egg wave, Ride A Pet, Anime Dice)
 - [[Tier B - Action Loop Mechanics]]: 25 one-action games dissected, the pattern template, 10 untapped verbs
