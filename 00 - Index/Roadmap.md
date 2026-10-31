@@ -7,6 +7,11 @@ status: solid
 
 The order to learn and build in for a shonen battlegrounds game. Each phase ends with something you can put in Studio and judge.
 
+## Phase 0: Pick the loop (a few days)
+- [ ] Read [[Core Loop Fundamentals]], then [[Core Loop Comparison Matrix]] and [[Hybrid Loops for Anime Games]].
+- [ ] Decide the main loop and write a one-paragraph pitch. Battlegrounds is this vault's default.
+- [ ] Work through the design questions in [[Open Questions and Verification Queue]].
+
 ## Phase 1: Look target (1 week)
 - [ ] Read [[Shonen Anime Shape Language]] and the battlegrounds visual analysis in `01 - Style Foundations`.
 - [ ] Build a PureRef board: 3 characters, 1 arena, 5 abilities you want to match.

@@ -11,6 +11,8 @@ git clone https://github.com/yeahdudeingtonium/anime-roblox-style
 ## Start here
 - [Master Index](00%20-%20Index/Master%20Index.md): every note, grouped by topic
 - [Roadmap](00%20-%20Index/Roadmap.md): the order to learn and build in
+- [Open Questions](00%20-%20Index/Open%20Questions%20and%20Verification%20Queue.md): everything still unverified
+- [Source Library](90%20-%20References/Source%20Library.md): all 877 cited sources, grouped by site
 - [Vault Conventions](00%20-%20Index/Vault%20Conventions.md): how notes are written
 
 ## Sections
