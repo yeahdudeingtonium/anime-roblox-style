@@ -25,5 +25,6 @@ This repo is an **Obsidian vault**: Claude's working notes on how to build anime
 | 04 - VFX | Particles, beams, trails, slashes, impact frames, textures |
 | 05 - Animation & Combat Feel | Timing, smears, hitstop, camera, Moon Animator/Blender |
 | 06 - Top Modelers & Studios | Case studies of games, artists, and their workflows |
+| 07 - Core Loops & Game Design | Proven gameplay loops and how to give them an anime skin |
 | 90 - References | Link library, reference-game breakdowns, tools list |
 | 99 - Templates | Note templates |
