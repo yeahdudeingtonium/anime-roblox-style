@@ -5,6 +5,8 @@ status: solid
 ---
 # Master Index
 
+**New session? Read [[HANDOFF]] first.**
+
 Every note in the vault, grouped by section. Check [[Owner Decisions]] first, then start with [[Roadmap]], read [[Vault Conventions]] before adding notes, and check [[Open Questions and Verification Queue]] before trusting a number.
 
 ## 01 - Style Foundations
