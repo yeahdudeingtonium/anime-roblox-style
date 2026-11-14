@@ -1,0 +1,2123 @@
+[
+ {
+  "title": "Throw Snowballs For Animals",
+  "parent": "Throw Food For Animals",
+  "type": "REWARD+SETTING",
+  "loop": "Roll a snowball bigger, throw it, winter animals come; igloo income",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Throw Ball For Animals",
+   "playing": 161,
+   "age_d": 14,
+   "like_pct": 85,
+   "universeId": 10773794575
+  },
+  "near": {
+   "name": "Throw Food For Animals",
+   "playing": 441868,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  }
+ },
+ {
+  "title": "Throw Candy For Monsters",
+  "parent": "Throw Food For Animals",
+  "type": "REWARD",
+  "loop": "Throw candy, cute monsters come; monster pen earns",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83c\udf0d2]Throw Candy for Monsters",
+   "playing": 1,
+   "age_d": 15,
+   "like_pct": 77,
+   "universeId": 10773683544
+  },
+  "near": {
+   "name": "[\ud83c\udf84] Throw Food For Sea Monsters",
+   "playing": 1482,
+   "age_d": 15,
+   "like_pct": 65,
+   "universeId": 10773748361
+  }
+ },
+ {
+  "title": "Throw Bones For Dogs",
+  "parent": "Throw Food For Animals",
+  "type": "REWARD",
+  "loop": "Throw bones far, rare dog breeds run to it; kennel income",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Throw Bones to Tame Dinos",
+   "playing": 32,
+   "age_d": 13,
+   "like_pct": 81,
+   "universeId": 10773984914
+  },
+  "near": {
+   "name": "Throw Bones to Tame Dinos",
+   "playing": 32,
+   "age_d": 13,
+   "like_pct": 81,
+   "universeId": 10773984914
+  }
+ },
+ {
+  "title": "Throw Bait For Sharks",
+  "parent": "Throw Food For Animals",
+  "type": "REWARD+RISK",
+  "loop": "Throw bait off a pier, sharks come; risk: one bites your dock",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Throw Bait for Fish",
+   "playing": 79,
+   "age_d": 12,
+   "like_pct": 63,
+   "universeId": 10774146181
+  },
+  "near": {
+   "name": "[12H] Throw Bait For Sea Monsters",
+   "playing": 442,
+   "age_d": 14,
+   "like_pct": 80,
+   "universeId": 10773841685
+  }
+ },
+ {
+  "title": "Throw Food For Dinos",
+  "parent": "Throw Food For Animals",
+  "type": "NOUN",
+  "loop": "Throw meat, dinos come; dino park income",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Throw Food For Dinos",
+   "playing": 18,
+   "age_d": 14,
+   "like_pct": 69,
+   "universeId": 10773830892
+  },
+  "near": {
+   "name": "Throw Food For Animals",
+   "playing": 442484,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  }
+ },
+ {
+  "title": "Throw Treats For Cats",
+  "parent": "Throw Food For Animals",
+  "type": "NOUN",
+  "loop": "Throw treats, cats come; cat caf\u00e9 income",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Throw Key for Cars",
+   "playing": 2582,
+   "age_d": 15,
+   "like_pct": 90,
+   "universeId": 10773711031
+  },
+  "near": null
+ },
+ {
+  "title": "Throw Coins For Wishes",
+  "parent": "Throw Food For Animals",
+  "type": "REWARD",
+  "loop": "Throw coins into wells across zones, wishes grant pets/items",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Throw Coins For NPCs",
+   "playing": 14,
+   "age_d": 11,
+   "like_pct": 70,
+   "universeId": 10774349303
+  },
+  "near": {
+   "name": "Throw Coins For NPCs",
+   "playing": 14,
+   "age_d": 11,
+   "like_pct": 70,
+   "universeId": 10774349303
+  }
+ },
+ {
+  "title": "Kick Food For Animals",
+  "parent": "Throw Food For Animals",
+  "type": "VERB",
+  "loop": "Kick food (soccer-style power meter) to attract animals",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Throw Food For Animals",
+   "playing": 441868,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  },
+  "near": {
+   "name": "Throw Food For Animals",
+   "playing": 441868,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  }
+ },
+ {
+  "title": "Launch Food For Animals",
+  "parent": "Throw Food For Animals",
+  "type": "TOOL",
+  "loop": "Catapult/cannon launches food; upgrade the cannon",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Launch Food For Animals",
+   "playing": 0,
+   "age_d": 411,
+   "like_pct": 79,
+   "universeId": 8827308630
+  },
+  "near": {
+   "name": "Throw Food For Animals",
+   "playing": 441868,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  }
+ },
+ {
+  "title": "Fling Food For Animals",
+  "parent": "Throw Food For Animals",
+  "type": "TOOL",
+  "loop": "Slingshot food, pull-back aim; animals come",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Throw Food For Animals",
+   "playing": 441868,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  },
+  "near": {
+   "name": "Throw Food For Animals",
+   "playing": 441868,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  }
+ },
+ {
+  "title": "Throw Food For Giants",
+  "parent": "Throw Food For Animals",
+  "type": "SCALE",
+  "loop": "Feed giant creatures across mountains; giants earn",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Throw Food For Dinos",
+   "playing": 21,
+   "age_d": 13,
+   "like_pct": 65,
+   "universeId": 10774068974
+  },
+  "near": {
+   "name": "Throw Food For Animals",
+   "playing": 442484,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  }
+ },
+ {
+  "title": "Throw Food Into Space",
+  "parent": "Throw Food For Animals",
+  "type": "SETTING",
+  "loop": "Throw so hard it reaches orbit; aliens come",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Throw Food For Dinos",
+   "playing": 12,
+   "age_d": 14,
+   "like_pct": 69,
+   "universeId": 10773830892
+  },
+  "near": {
+   "name": "Throw Food For Spooky Animals",
+   "playing": 3082,
+   "age_d": 15,
+   "like_pct": 95,
+   "universeId": 10773663140
+  }
+ },
+ {
+  "title": "Throw Food For Pets Together",
+  "parent": "Throw Food For Animals",
+  "type": "SOCIAL",
+  "loop": "Co-op chained throws; shared zoo",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Throw Food for Pets [CO-OP]",
+   "playing": 23,
+   "age_d": 12,
+   "like_pct": 82,
+   "universeId": 10774283890
+  },
+  "near": {
+   "name": "Throw Food for Pets [CO-OP]",
+   "playing": 23,
+   "age_d": 12,
+   "like_pct": 82,
+   "universeId": 10774283890
+  }
+ },
+ {
+  "title": "Stop Animals Eating Food",
+  "parent": "Throw Food For Animals",
+  "type": "INVERSION",
+  "loop": "Defend your crops from animals by throwing them away; tower-defense-lite",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Throw Food For Anime Pets",
+  "parent": "Throw Food For Animals",
+  "type": "REWARD+ANIME",
+  "loop": "Throw food, anime spirit-pets come with auras",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Throw Food For Anime!",
+   "playing": 35,
+   "age_d": 11,
+   "like_pct": 49,
+   "universeId": 10774460899
+  },
+  "near": {
+   "name": "Throw Food For Anime!",
+   "playing": 35,
+   "age_d": 11,
+   "like_pct": 49,
+   "universeId": 10774460899
+  }
+ },
+ {
+  "title": "Throw Rice For Spirits",
+  "parent": "Throw Food For Animals",
+  "type": "REWARD+ANIME",
+  "loop": "Throw rice balls, yokai spirits come; shrine income",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Throw a Snowball",
+  "parent": "Throw a Seed",
+  "type": "REWARD",
+  "loop": "Throw a snowball down the slope; a snow creature forms where it lands",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Roll A Snowball",
+   "playing": 0,
+   "age_d": 50,
+   "like_pct": 50,
+   "universeId": 10767926514
+  },
+  "near": {
+   "name": "Throw Food For Animals",
+   "playing": 442484,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  }
+ },
+ {
+  "title": "Throw an Egg",
+  "parent": "Throw a Seed",
+  "type": "REWARD",
+  "loop": "Throw egg, it hatches where it lands; farther = rarer",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Throw An Egg!",
+   "playing": 476,
+   "age_d": 58,
+   "like_pct": 97,
+   "universeId": 10766687809
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 993724,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Throw a Dice",
+  "parent": "Throw a Seed",
+  "type": "GRAFT RNG",
+  "loop": "Throw a giant die across zones; face + zone = reward",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Throw a Seed",
+   "playing": 16423,
+   "age_d": 6,
+   "like_pct": 96,
+   "universeId": 10775182046
+  },
+  "near": {
+   "name": "Throw Food For Animals",
+   "playing": 442484,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  }
+ },
+ {
+  "title": "Throw a Bomb",
+  "parent": "Throw a Seed",
+  "type": "REWARD",
+  "loop": "Throw a bomb down the canyon; crater reveals loot",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Volley Bomb",
+   "playing": 8364,
+   "age_d": 12,
+   "like_pct": 95,
+   "universeId": 10774204862
+  }
+ },
+ {
+  "title": "Throw a Magnet",
+  "parent": "Throw a Seed",
+  "type": "REWARD",
+  "loop": "Throw a magnet; whatever it sticks to is yours",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Throw Food For Animals",
+   "playing": 442484,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  }
+ },
+ {
+  "title": "Throw a Wish",
+  "parent": "Throw a Seed",
+  "type": "REWARD",
+  "loop": "Throw a star; where it lands a wish/pet appears",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Throw a Seed",
+   "playing": 16423,
+   "age_d": 6,
+   "like_pct": 96,
+   "universeId": 10775182046
+  },
+  "near": {
+   "name": "Throw a Seed",
+   "playing": 16423,
+   "age_d": 6,
+   "like_pct": 96,
+   "universeId": 10775182046
+  }
+ },
+ {
+  "title": "Throw a Paper Plane",
+  "parent": "Throw a Seed",
+  "type": "TOOL",
+  "loop": "Glide-throw a paper plane; distance = luck; delivers letters",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Throw a Paper Plane! \u2708\ufe0f",
+   "playing": 5,
+   "age_d": 32,
+   "like_pct": 91,
+   "universeId": 10770592448
+  },
+  "near": {
+   "name": "[W8] +1 Plane Throw",
+   "playing": 1141,
+   "age_d": 48,
+   "like_pct": 96,
+   "universeId": 10768187641
+  }
+ },
+ {
+  "title": "Steal a Snowman",
+  "parent": "Steal An Egg",
+  "type": "REWARD+SETTING",
+  "loop": "Steal snowmen from other bases, they earn; melt risk in sun",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 990542,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal a Present",
+  "parent": "Steal An Egg",
+  "type": "REWARD",
+  "loop": "Steal presents off a sleigh, open for rarity; base income",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83c\udf83] STEAL PRESENTS! \ud83c\udf81",
+   "playing": 0,
+   "age_d": 52,
+   "like_pct": 81,
+   "universeId": 10767676149
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 990542,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal a Superpower",
+  "parent": "Steal a Brainrot",
+  "type": "REWARD",
+  "loop": "(exists) packs of powers fight bosses",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Steal A Superpower",
+   "playing": 3,
+   "age_d": 39,
+   "like_pct": 45,
+   "universeId": 10769568123
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 990542,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal an Aura",
+  "parent": "Steal a Brainrot",
+  "type": "REWARD+ANIME",
+  "loop": "Steal glowing auras from players; auras stack multipliers",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Steal an Aura Egg",
+   "playing": 0,
+   "age_d": 92,
+   "like_pct": 80,
+   "universeId": 10701815488
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 990542,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal a Ghost",
+  "parent": "Steal An Egg",
+  "type": "REWARD",
+  "loop": "Vacuum ghosts out of houses; ghost jars earn",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Steal a Ghost",
+   "playing": 0,
+   "age_d": 40,
+   "like_pct": 60,
+   "universeId": 10769377525
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 990542,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal a Dragon Egg",
+  "parent": "Steal An Egg",
+  "type": "NOUN",
+  "loop": "Steal dragon eggs from a sleeping dragon; risk it wakes",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Steal a Dragon Egg \ud83d\udc09",
+   "playing": 5,
+   "age_d": 72,
+   "like_pct": 95,
+   "universeId": 10764877046
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 990542,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal a Treasure",
+  "parent": "Steal An Egg",
+  "type": "REWARD",
+  "loop": "Steal chests from pirate ships; chest income",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83c\udf83] Steal the Treasure!",
+   "playing": 0,
+   "age_d": 53,
+   "like_pct": 74,
+   "universeId": 10767397663
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 990542,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal a Car Part",
+  "parent": "Steal An Egg",
+  "type": "REWARD",
+  "loop": "Steal parts, build a car that earns races",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Steal a Car RNG",
+   "playing": 20,
+   "age_d": 48,
+   "like_pct": 84,
+   "universeId": 10768205065
+  },
+  "near": {
+   "name": "Steal A Car",
+   "playing": 623,
+   "age_d": 70,
+   "like_pct": 90,
+   "universeId": 10765153945
+  }
+ },
+ {
+  "title": "Steal From Santa",
+  "parent": "Steal An Egg",
+  "type": "SETTING",
+  "loop": "Sneak into the workshop, steal toys, elves patrol",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Steal From Eggs!",
+   "playing": 508,
+   "age_d": 58,
+   "like_pct": 88,
+   "universeId": 10766671290
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 990542,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Guard Your Egg",
+  "parent": "Steal An Egg",
+  "type": "INVERSION",
+  "loop": "You're the guard: catch thieves stealing eggs; catches earn",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 990542,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal Eggs With Friends",
+  "parent": "Steal An Egg",
+  "type": "SOCIAL",
+  "loop": "Co-op heists for bigger eggs; split income",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Steal with Friends",
+   "playing": 1,
+   "age_d": 49,
+   "like_pct": 59,
+   "universeId": 10768064689
+  },
+  "near": {
+   "name": "[UPD] Steal KPOP Eggs!",
+   "playing": 3351,
+   "age_d": 83,
+   "like_pct": 96,
+   "universeId": 10754403543
+  }
+ },
+ {
+  "title": "Steal a Sword",
+  "parent": "Steal a Brainrot",
+  "type": "REWARD+GRAFT",
+  "loop": "Steal swords, equip to fight; swords on racks earn",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 990542,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Net a Butterfly",
+  "parent": "Net a Fish",
+  "type": "SETTING",
+  "loop": "Net butterflies in meadows; display case income",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83d\udc1f] Net a Fish!",
+   "playing": 32346,
+   "age_d": 29,
+   "like_pct": 93,
+   "universeId": 10771053183
+  }
+ },
+ {
+  "title": "Net a Ghost",
+  "parent": "Net a Fish",
+  "type": "SETTING",
+  "loop": "Net ghosts in a haunted mansion; ghost jars earn",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Steal a Ghost",
+   "playing": 0,
+   "age_d": 40,
+   "like_pct": 60,
+   "universeId": 10769377525
+  },
+  "near": {
+   "name": "[\ud83d\udc1f] Net a Fish!",
+   "playing": 32346,
+   "age_d": 29,
+   "like_pct": 93,
+   "universeId": 10771053183
+  }
+ },
+ {
+  "title": "Net a Star",
+  "parent": "Net a Fish",
+  "type": "SCALE",
+  "loop": "Net falling stars from a sky island; constellation income",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83d\udc1f] Net a Fish!",
+   "playing": 31854,
+   "age_d": 29,
+   "like_pct": 93,
+   "universeId": 10771053183
+  }
+ },
+ {
+  "title": "Lasso a Fish",
+  "parent": "Net a Fish",
+  "type": "TOOL",
+  "loop": "Lasso giant fish from a boat; aquarium income",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Lasso a Fish! \ud83d\udc1f",
+   "playing": 0,
+   "age_d": 391,
+   "like_pct": 98,
+   "universeId": 8978144684
+  },
+  "near": {
+   "name": "[\ud83e\udd96] Harpoon a Fish",
+   "playing": 14613,
+   "age_d": 77,
+   "like_pct": 97,
+   "universeId": 10764240948
+  }
+ },
+ {
+  "title": "Ice Fish a Monster",
+  "parent": "Net a Fish",
+  "type": "SETTING+RISK",
+  "loop": "Drill ice holes, fish up monsters; ice cracks risk",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Fish a Monster \ud83e\udd88",
+   "playing": 159,
+   "age_d": 46,
+   "like_pct": 90,
+   "universeId": 10768514716
+  },
+  "near": {
+   "name": "Fish a Monster \ud83e\udd88",
+   "playing": 159,
+   "age_d": 46,
+   "like_pct": 90,
+   "universeId": 10768514716
+  }
+ },
+ {
+  "title": "Magnet a Fish",
+  "parent": "Net a Fish",
+  "type": "TOOL",
+  "loop": "Drop magnets for metal fish and treasure",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83d\udc1f] Net a Fish!",
+   "playing": 32346,
+   "age_d": 29,
+   "like_pct": 93,
+   "universeId": 10771053183
+  }
+ },
+ {
+  "title": "Vacuum a Fish",
+  "parent": "Net a Fish",
+  "type": "TOOL",
+  "loop": "Vacuum fish out of a lake; tank income",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Vacuum A Fish",
+   "playing": 0,
+   "age_d": 6,
+   "like_pct": null,
+   "universeId": 10775218854
+  },
+  "near": {
+   "name": "[\ud83d\udc1f] Net a Fish!",
+   "playing": 31854,
+   "age_d": 29,
+   "like_pct": 93,
+   "universeId": 10771053183
+  }
+ },
+ {
+  "title": "Spear a Fish",
+  "parent": "Harpoon a Fish",
+  "type": "TOOL",
+  "loop": "Dive and spearfish; deeper = rarer",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83e\udd96] Harpoon a Fish",
+   "playing": 14613,
+   "age_d": 77,
+   "like_pct": 97,
+   "universeId": 10764240948
+  }
+ },
+ {
+  "title": "Vacuum the Moon",
+  "parent": "Sweep The Moon",
+  "type": "VERB",
+  "loop": "Vacuum moon dust; upgrade vacuums to rovers",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Sweep The Moon \ud83c\udf15",
+   "playing": 22662,
+   "age_d": 21,
+   "like_pct": 98,
+   "universeId": 10772543706
+  }
+ },
+ {
+  "title": "Paint the Moon",
+  "parent": "Sweep The Moon",
+  "type": "VERB",
+  "loop": "Paint the moon tile by tile; color = rarity",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Sweep The Moon \ud83c\udf15",
+   "playing": 22662,
+   "age_d": 21,
+   "like_pct": 98,
+   "universeId": 10772543706
+  }
+ },
+ {
+  "title": "Mine the Moon",
+  "parent": "Sweep The Moon",
+  "type": "VERB",
+  "loop": "Mine moon rock, find space gems",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Sweep The Moon \ud83c\udf15",
+   "playing": 22662,
+   "age_d": 21,
+   "like_pct": 98,
+   "universeId": 10772543706
+  }
+ },
+ {
+  "title": "Melt the Glacier",
+  "parent": "Sweep The Moon",
+  "type": "VERB+SETTING",
+  "loop": "Blowtorch a glacier tile by tile; frozen animals inside",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\ud83e\uddca Melt a Glacier!",
+   "playing": 0,
+   "age_d": 101,
+   "like_pct": 74,
+   "universeId": 10634545236
+  },
+  "near": {
+   "name": "[\ud83c\udf83]Melt All The Ice!\ud83e\uddca",
+   "playing": 1669,
+   "age_d": 61,
+   "like_pct": 97,
+   "universeId": 10766309747
+  }
+ },
+ {
+  "title": "Defrost the Planet",
+  "parent": "Sweep The Moon",
+  "type": "SCALE+SETTING",
+  "loop": "Defrost a frozen world; thawed creatures join you",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Destroy The Planet",
+   "playing": 39,
+   "age_d": 39,
+   "like_pct": 80,
+   "universeId": 10769521359
+  },
+  "near": {
+   "name": "[\ud83c\udf0dWORLD 3] Lift A Planet",
+   "playing": 628,
+   "age_d": 61,
+   "like_pct": 94,
+   "universeId": 10766344691
+  }
+ },
+ {
+  "title": "Polish the Sun",
+  "parent": "Sweep The Moon",
+  "type": "SCALE",
+  "loop": "Polish the sun; heat risk",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Destroy The Sun \u2600\ufe0f",
+   "playing": 2871,
+   "age_d": 124,
+   "like_pct": 95,
+   "universeId": 10493707858
+  }
+ },
+ {
+  "title": "Wash the Earth",
+  "parent": "Sweep The Moon",
+  "type": "SCALE",
+  "loop": "Wash continents; pollution blobs fight back",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Wash the Car \ud83e\uddfd",
+   "playing": 5402,
+   "age_d": 89,
+   "like_pct": 89,
+   "universeId": 10725799494
+  },
+  "near": {
+   "name": "Wash the Car \ud83e\uddfd",
+   "playing": 5402,
+   "age_d": 89,
+   "like_pct": 89,
+   "universeId": 10725799494
+  }
+ },
+ {
+  "title": "Plant the Moon",
+  "parent": "Sweep The Moon",
+  "type": "VERB",
+  "loop": "Terraform the moon by planting; plants earn",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Sweep The Moon \ud83c\udf15",
+   "playing": 22662,
+   "age_d": 21,
+   "like_pct": 98,
+   "universeId": 10772543706
+  }
+ },
+ {
+  "title": "Shovel the North Pole",
+  "parent": "Sweep The Moon",
+  "type": "SETTING",
+  "loop": "Shovel snow off the North Pole, find buried gifts",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Clean the North Pole! \ud83c\udf85",
+   "playing": 3,
+   "age_d": 6,
+   "like_pct": 53,
+   "universeId": 10775202164
+  },
+  "near": {
+   "name": "Build a North Pole \ud83c\udf85",
+   "playing": 7,
+   "age_d": 6,
+   "like_pct": 91,
+   "universeId": 10775264944
+  }
+ },
+ {
+  "title": "Cut a Present",
+  "parent": "Cut a Rock",
+  "type": "REWARD+SETTING",
+  "loop": "Saw presents open, reveal toys; toy shelf income",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Cut a Rock",
+   "playing": 19787,
+   "age_d": 60,
+   "like_pct": 94,
+   "universeId": 10766468833
+  }
+ },
+ {
+  "title": "Cut a Geode",
+  "parent": "Cut a Rock",
+  "type": "NOUN",
+  "loop": "Cut geodes for crystals",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Cut a Rock",
+   "playing": 19787,
+   "age_d": 60,
+   "like_pct": 94,
+   "universeId": 10766468833
+  }
+ },
+ {
+  "title": "Cut an Iceberg",
+  "parent": "Cut a Rock",
+  "type": "SETTING",
+  "loop": "Chainsaw icebergs, frozen creatures inside",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Destroy an Iceberg",
+   "playing": 7,
+   "age_d": 10,
+   "like_pct": 83,
+   "universeId": 10774523513
+  },
+  "near": {
+   "name": "Cut a Rock",
+   "playing": 19846,
+   "age_d": 60,
+   "like_pct": 94,
+   "universeId": 10766468833
+  }
+ },
+ {
+  "title": "Cut a Cake",
+  "parent": "Cut a Rock",
+  "type": "REWARD",
+  "loop": "Slice cakes, surprise items inside",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Cut a Rock",
+   "playing": 19787,
+   "age_d": 60,
+   "like_pct": 94,
+   "universeId": 10766468833
+  },
+  "near": {
+   "name": "Cut a Rock",
+   "playing": 19787,
+   "age_d": 60,
+   "like_pct": 94,
+   "universeId": 10766468833
+  }
+ },
+ {
+  "title": "Crack an Egg Open",
+  "parent": "Cut a Rock",
+  "type": "REWARD",
+  "loop": "Crack giant eggs with tools; reveal",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Crack the Egg Open \ud83e\udd5a",
+   "playing": 0,
+   "age_d": 55,
+   "like_pct": 88,
+   "universeId": 10767135314
+  },
+  "near": {
+   "name": "[\ud83e\udd5a] Crack an Egg",
+   "playing": 65,
+   "age_d": 54,
+   "like_pct": 93,
+   "universeId": 10767283406
+  }
+ },
+ {
+  "title": "Smash a Piggy Bank",
+  "parent": "Cut a Rock",
+  "type": "REWARD",
+  "loop": "Smash piggy banks, coins + rare pets fall out",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Smash a Piggy",
+   "playing": 32,
+   "age_d": 85,
+   "like_pct": 96,
+   "universeId": 10744690792
+  },
+  "near": {
+   "name": "Smash a Piggy",
+   "playing": 32,
+   "age_d": 85,
+   "like_pct": 96,
+   "universeId": 10744690792
+  }
+ },
+ {
+  "title": "Ragdoll For Eggs",
+  "parent": "Hyper Realistic Ragdoll",
+  "type": "GRAFT incremental",
+  "loop": "Fling yourself down a mountain; distance earns eggs",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Ragdoll For Eggs!",
+   "playing": 45,
+   "age_d": 10,
+   "like_pct": 82,
+   "universeId": 10774570335
+  },
+  "near": {
+   "name": "Hyper Realistic Ragdoll",
+   "playing": 141228,
+   "age_d": 15,
+   "like_pct": 89,
+   "universeId": 10773618503
+  }
+ },
+ {
+  "title": "+1 Ragdoll Distance",
+  "parent": "Hyper Realistic Ragdoll",
+  "type": "GRAFT +1",
+  "loop": "Launch your ragdoll; each run +1 power",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Ragdoll Down the Stairs",
+  "parent": "Hyper Realistic Ragdoll",
+  "type": "SETTING",
+  "loop": "Fall down infinite stairs; bones broken = cash",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Hyper Realistic Ragdoll",
+   "playing": 141228,
+   "age_d": 15,
+   "like_pct": 89,
+   "universeId": 10773618503
+  }
+ },
+ {
+  "title": "Ragdoll Snowboarding",
+  "parent": "Hyper Realistic Ragdoll",
+  "type": "SETTING",
+  "loop": "Wipe out on a snowboard; crash score",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Hyper Realistic Ragdoll",
+   "playing": 141228,
+   "age_d": 15,
+   "like_pct": 89,
+   "universeId": 10773618503
+  }
+ },
+ {
+  "title": "Ragdoll Your Friends",
+  "parent": "Hyper Realistic Ragdoll",
+  "type": "SOCIAL",
+  "loop": "Multiplayer version: toss friends around",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Break your Friends \ud83e\uddb4",
+   "playing": 37,
+   "age_d": 388,
+   "like_pct": 96,
+   "universeId": 8997111763
+  },
+  "near": {
+   "name": "Bloody Ragdoll Physics \ud83e\ude78",
+   "playing": 34132,
+   "age_d": 14,
+   "like_pct": 86,
+   "universeId": 10773926254
+  }
+ },
+ {
+  "title": "Break Every Bone",
+  "parent": "Hyper Realistic Ragdoll",
+  "type": "GRAFT Index",
+  "loop": "Collect every bone-break type (index); unlock weapons",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Break a Bone",
+   "playing": 7,
+   "age_d": 26,
+   "like_pct": 70,
+   "universeId": 10771862280
+  },
+  "near": {
+   "name": "Break your Bones \u2620\ufe0f",
+   "playing": 1052,
+   "age_d": 526,
+   "like_pct": 98,
+   "universeId": 7848646653
+  }
+ },
+ {
+  "title": "Crash Test Dummy",
+  "parent": "Hyper Realistic Ragdoll",
+  "type": "GRAFT tycoon",
+  "loop": "Sell crash data; upgrade the test lab",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Survive Your Drawings",
+  "parent": "Survive Your Ideas",
+  "type": "VERB",
+  "loop": "(exists, 31% likes) draw it, it comes alive",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "[UPD] Survive Your Drawing",
+   "playing": 2349,
+   "age_d": 6,
+   "like_pct": 31,
+   "universeId": 10775162649
+  },
+  "near": {
+   "name": "Survive Your Ideas",
+   "playing": 67550,
+   "age_d": 38,
+   "like_pct": 89,
+   "universeId": 10769671316
+  }
+ },
+ {
+  "title": "Build Your Ideas",
+  "parent": "Survive Your Ideas",
+  "type": "INVERSION",
+  "loop": "Type a word, it spawns as a building block for an obby race",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Survive Your Ideas",
+   "playing": 67710,
+   "age_d": 38,
+   "like_pct": 89,
+   "universeId": 10769671316
+  },
+  "near": {
+   "name": "Survive Your Ideas",
+   "playing": 67710,
+   "age_d": 38,
+   "like_pct": 89,
+   "universeId": 10769671316
+  }
+ },
+ {
+  "title": "Fight Your Ideas",
+  "parent": "Survive Your Ideas",
+  "type": "GRAFT PvP",
+  "loop": "Type a word, it becomes your fighter",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Survive Your Ideas",
+   "playing": 67710,
+   "age_d": 38,
+   "like_pct": 89,
+   "universeId": 10769671316
+  }
+ },
+ {
+  "title": "Guess Their Idea",
+  "parent": "Survive Your Ideas",
+  "type": "GRAFT",
+  "loop": "One types, it spawns, others guess",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Survive Your Wishes",
+  "parent": "Survive Your Ideas",
+  "type": "NOUN",
+  "loop": "Wishes come true... badly",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Survive Your Ideas",
+   "playing": 67550,
+   "age_d": 38,
+   "like_pct": 89,
+   "universeId": 10769671316
+  },
+  "near": {
+   "name": "Survive Your Ideas",
+   "playing": 67550,
+   "age_d": 38,
+   "like_pct": 89,
+   "universeId": 10769671316
+  }
+ },
+ {
+  "title": "Type To Summon",
+  "parent": "Survive Your Ideas",
+  "type": "GRAFT collect",
+  "loop": "Type words, summon creatures, keep the rare ones",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\u2728 NEW ZONES] Summon a Pet Army \ud83d\udc32",
+   "playing": 2889,
+   "age_d": 24,
+   "like_pct": 85,
+   "universeId": 10772133952
+  }
+ },
+ {
+  "title": "Stop the Avalanche",
+  "parent": "Stop The Tsunami",
+  "type": "SETTING",
+  "loop": "Build walls to stop an avalanche; survive waves",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Stop The Tsunami!",
+   "playing": 25548,
+   "age_d": 33,
+   "like_pct": 78,
+   "universeId": 10770463307
+  }
+ },
+ {
+  "title": "Stop the Meteor",
+  "parent": "Stop The Tsunami",
+  "type": "SETTING",
+  "loop": "Shoot down meteors; upgrade cannons",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Stop The Train",
+   "playing": 1788,
+   "age_d": 43,
+   "like_pct": 92,
+   "universeId": 10768843989
+  },
+  "near": {
+   "name": "Stop The Tsunami!",
+   "playing": 25548,
+   "age_d": 33,
+   "like_pct": 78,
+   "universeId": 10770463307
+  }
+ },
+ {
+  "title": "Stop the Zombies",
+  "parent": "Stop The Tsunami",
+  "type": "SETTING",
+  "loop": "Wall up vs zombie waves",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Stop the zombies",
+   "playing": 0,
+   "age_d": 161,
+   "like_pct": 72,
+   "universeId": 10276858892
+  },
+  "near": {
+   "name": "Defend Bunker from Zombies \ud83e\udddf",
+   "playing": 2046,
+   "age_d": 472,
+   "like_pct": 95,
+   "universeId": 8296765616
+  }
+ },
+ {
+  "title": "Stop the Lava",
+  "parent": "Stop The Tsunami",
+  "type": "SETTING",
+  "loop": "Freeze the lava flood",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Escape The Lava \ud83d\udd25",
+   "playing": 2212,
+   "age_d": 449,
+   "like_pct": 92,
+   "universeId": 8504461817
+  },
+  "near": {
+   "name": "Stop The Tsunami!",
+   "playing": 25788,
+   "age_d": 33,
+   "like_pct": 78,
+   "universeId": 10770463307
+  }
+ },
+ {
+  "title": "+1 Aura Every Click",
+  "parent": "+1 Anime Eyes",
+  "type": "FANTASY+ANIME",
+  "loop": "Click for aura; auras evolve anime-style",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "+1 Aura Per Click",
+   "playing": 2377,
+   "age_d": 206,
+   "like_pct": 99,
+   "universeId": 10067258922
+  },
+  "near": {
+   "name": "+1 Aura Per Click",
+   "playing": 2377,
+   "age_d": 206,
+   "like_pct": 99,
+   "universeId": 10067258922
+  }
+ },
+ {
+  "title": "+1 Hair Evolution",
+  "parent": "+1 Sukuna Evolution",
+  "type": "FANTASY+ANIME",
+  "loop": "Hair grows spikier per level, super-saiyan-style tiers",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "+1 Baddie Evolution \ud83d\udc85",
+   "playing": 3852,
+   "age_d": 26,
+   "like_pct": 96,
+   "universeId": 10771797050
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31647,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Ninja Evolution",
+  "parent": "+1 Sukuna Evolution",
+  "type": "FANTASY+ANIME",
+  "loop": "Evolve from academy kid to legendary ninja",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Ninja Evolution",
+   "playing": 0,
+   "age_d": 208,
+   "like_pct": 94,
+   "universeId": 10059134648
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31647,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Snowman Evolution",
+  "parent": "+1 Venom Evolution",
+  "type": "FANTASY+SEASON",
+  "loop": "Evolve into a giant frost monster",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Dino Evolution",
+   "playing": 262,
+   "age_d": 96,
+   "like_pct": 90,
+   "universeId": 10664667515
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31647,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Yeti Evolution",
+  "parent": "+1 Venom Evolution",
+  "type": "FANTASY",
+  "loop": "Evolve into a yeti",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Thor Evolution",
+   "playing": 32,
+   "age_d": 8,
+   "like_pct": 90,
+   "universeId": 10774802509
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31647,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Robot Arm",
+  "parent": "+1 Spider Arm",
+  "type": "FANTASY",
+  "loop": "Grow robot arms per second",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Robot Arms\ud83e\uddbe",
+   "playing": 122,
+   "age_d": 14,
+   "like_pct": 70,
+   "universeId": 10773900214
+  },
+  "near": {
+   "name": "+1 Spider Arm\ud83d\udd77\ufe0f",
+   "playing": 16556,
+   "age_d": 25,
+   "like_pct": 98,
+   "universeId": 10771997908
+  }
+ },
+ {
+  "title": "+1 Dragon Wings",
+  "parent": "+1 Spider Arm",
+  "type": "FANTASY",
+  "loop": "Wings grow per second; fly to new worlds",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "+1 Wings Obby Escape",
+   "playing": 1487,
+   "age_d": 161,
+   "like_pct": 88,
+   "universeId": 10274447949
+  }
+ },
+ {
+  "title": "Roll Anime Swords",
+  "parent": "Anime Dice",
+  "type": "REWARD+ANIME",
+  "loop": "Roll for anime swords; display rack income",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\u23f3NOW] Anime Swords",
+   "playing": 6,
+   "age_d": 623,
+   "like_pct": 96,
+   "universeId": 7307421339
+  },
+  "near": {
+   "name": "[\u2694\ufe0f BLEACH PT. 3] Roll Anime to Fight!",
+   "playing": 503,
+   "age_d": 157,
+   "like_pct": 97,
+   "universeId": 10298144467
+  }
+ },
+ {
+  "title": "Roll a Domain",
+  "parent": "Anime Dice",
+  "type": "REWARD+ANIME",
+  "loop": "Roll domain expansions; fight bosses",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Roll Army to Fight!",
+   "playing": 356,
+   "age_d": 81,
+   "like_pct": 86,
+   "universeId": 10759534802
+  }
+ },
+ {
+  "title": "Roll a Snowman",
+  "parent": "Anime Dice",
+  "type": "REWARD",
+  "loop": "Roll snowman parts; build combos",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Grow a Snowman \u2744\ufe0f",
+   "playing": 429,
+   "age_d": 28,
+   "like_pct": 84,
+   "universeId": 10771298299
+  },
+  "near": {
+   "name": "Grow a Snowman \u2744\ufe0f",
+   "playing": 429,
+   "age_d": 28,
+   "like_pct": 84,
+   "universeId": 10771298299
+  }
+ },
+ {
+  "title": "Roll a Hero Team",
+  "parent": "Roll A Stickman",
+  "type": "REWARD",
+  "loop": "Roll heroes, build a squad, fight bosses",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Stack a Pancake",
+  "parent": "Stack A Butter Squishy",
+  "type": "NOUN",
+  "loop": "Stack pancakes higher; topping rarity",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\u23f3 12H] \ud83e\uddc8 Stack A Butter Squishy [ASMR]",
+   "playing": 14135,
+   "age_d": 100,
+   "like_pct": 89,
+   "universeId": 10638886777
+  }
+ },
+ {
+  "title": "Squish a Squishy",
+  "parent": "Stack A Butter Squishy",
+  "type": "VERB",
+  "loop": "Squeeze squishies, rare ones pop out",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\u23f3 12H] \ud83e\uddc8 Stack A Butter Squishy [ASMR]",
+   "playing": 14135,
+   "age_d": 100,
+   "like_pct": 89,
+   "universeId": 10638886777
+  }
+ },
+ {
+  "title": "Stack Snowballs",
+  "parent": "Stack A Butter Squishy",
+  "type": "REWARD+SEASON",
+  "loop": "Stack snowballs into the tallest snowman",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\u23f3 12H] \ud83e\uddc8 Stack A Butter Squishy [ASMR]",
+   "playing": 14135,
+   "age_d": 100,
+   "like_pct": 89,
+   "universeId": 10638886777
+  }
+ },
+ {
+  "title": "Sled for Cases",
+  "parent": "Jump for Cases",
+  "type": "VERB+SEASON",
+  "loop": "Sled downhill, grab cases; case opening",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Jump for Cases\ud83c\udfb2",
+   "playing": 14063,
+   "age_d": 52,
+   "like_pct": 96,
+   "universeId": 10767621216
+  }
+ },
+ {
+  "title": "Dive for Cases",
+  "parent": "Jump for Cases",
+  "type": "VERB",
+  "loop": "Dive into the ocean for cases",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Dive for Eggs",
+   "playing": 217,
+   "age_d": 27,
+   "like_pct": 77,
+   "universeId": 10771648190
+  },
+  "near": {
+   "name": "Jump for Cases\ud83c\udfb2",
+   "playing": 14116,
+   "age_d": 52,
+   "like_pct": 96,
+   "universeId": 10767621216
+  }
+ },
+ {
+  "title": "Ski For Presents",
+  "parent": "Jump for Cases",
+  "type": "VERB+REWARD",
+  "loop": "Ski for presents; open for rarity",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "(NEW) +1 Ski Jump\u26f7\ufe0f",
+   "playing": 387,
+   "age_d": 9,
+   "like_pct": 93,
+   "universeId": 10774653410
+  }
+ },
+ {
+  "title": "Sell Stolen Loot",
+  "parent": "Probably Stolen (Steam)",
+  "type": "PORT",
+  "loop": "Open loot crates, shelve, pawn shop income; police raids",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Bonk the Horde",
+  "parent": "Megabonk (Steam)",
+  "type": "PORT",
+  "loop": "Auto-bonk hordes, +1 power, monster loot income",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[BETA] BONK! Ragdoll Boxing \ud83e\udd4a",
+   "playing": 3115,
+   "age_d": 27,
+   "like_pct": 91,
+   "universeId": 10771520659
+  }
+ },
+ {
+  "title": "Bounce Lucky Balls",
+  "parent": "BALL x PIT (Steam)",
+  "type": "PORT",
+  "loop": "Fire balls, break bricks, lucky ball rolls",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Shoot the Pixels",
+  "parent": "Pixel Flow (mobile)",
+  "type": "PORT",
+  "loop": "Shoot color shooters at a shared pixel wall",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[UPD 4] Shoot That Fish",
+   "playing": 2154,
+   "age_d": 58,
+   "like_pct": 89,
+   "universeId": 10766667627
+  }
+ },
+ {
+  "title": "Pack the Bus",
+  "parent": "Bus Fever (mobile)",
+  "type": "PORT",
+  "loop": "Physically pack passengers into buses",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Bus Driver Vietnam 2",
+   "playing": 3936,
+   "age_d": 1253,
+   "like_pct": 78,
+   "universeId": 4756434078
+  }
+ },
+ {
+  "title": "Bonk a Fish",
+  "parent": "How to Fish (Steam)",
+  "type": "PORT",
+  "loop": "Bonk fish out of the air",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83d\udc1f] Net a Fish!",
+   "playing": 32075,
+   "age_d": 29,
+   "like_pct": 93,
+   "universeId": 10771053183
+  }
+ },
+ {
+  "title": "Rob the Bank",
+  "parent": "ROB RUN (Steam)",
+  "type": "PORT",
+  "loop": "Heist runs, loot bags, upgrade getaway",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83c\udf83] \ud83d\udc8e ROB IT",
+   "playing": 2429,
+   "age_d": 318,
+   "like_pct": 96,
+   "universeId": 9472441390
+  }
+ },
+ {
+  "title": "Spitball the Teacher",
+  "parent": "Worst Class Ever (Steam)",
+  "type": "PORT+RISK",
+  "loop": "Throw spitballs while teacher's back is turned",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Be a Teacher!",
+   "playing": 3734,
+   "age_d": 15,
+   "like_pct": 63,
+   "universeId": 10773667387
+  }
+ },
+ {
+  "title": "Clean the Ocean",
+  "parent": "Moon Sweepers (Steam)",
+  "type": "SETTING",
+  "loop": "Vacuum trash from the ocean floor, find sea creatures",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83c\udf83] Clean the Ocean!",
+   "playing": 2,
+   "age_d": 19,
+   "like_pct": 48,
+   "universeId": 10772998147
+  },
+  "near": {
+   "name": "Clean The Bugs \ud83d\udc1c",
+   "playing": 11404,
+   "age_d": 19,
+   "like_pct": 87,
+   "universeId": 10773059991
+  }
+ },
+ {
+  "title": "Build a Snowman",
+  "parent": "seasonal",
+  "type": "GRAFT",
+  "loop": "Build snowmen that come alive and earn",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Build a Snowman \u2603\ufe0f",
+   "playing": 0,
+   "age_d": 381,
+   "like_pct": 53,
+   "universeId": 9053202871
+  },
+  "near": {
+   "name": "Build Your World! \ud83d\udd28",
+   "playing": 20343,
+   "age_d": 43,
+   "like_pct": 68,
+   "universeId": 10768905764
+  }
+ },
+ {
+  "title": "Decorate the Tree",
+  "parent": "seasonal",
+  "type": "VERB",
+  "loop": "Decorate a giant tree; ornaments roll rarity",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Decorate Me!",
+   "playing": 4191,
+   "age_d": 35,
+   "like_pct": 92,
+   "universeId": 10770062977
+  },
+  "near": {
+   "name": "Skate Tree",
+   "playing": 6481,
+   "age_d": 42,
+   "like_pct": 91,
+   "universeId": 10769083726
+  }
+ },
+ {
+  "title": "Deliver Presents",
+  "parent": "seasonal",
+  "type": "VERB",
+  "loop": "Deliver presents down chimneys; sleigh upgrades",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Deliver Packages! \ud83d\udce6 ",
+   "playing": 787,
+   "age_d": 39,
+   "like_pct": 86,
+   "universeId": 10769464406
+  }
+ },
+ {
+  "title": "Feed the Reindeer",
+  "parent": "seasonal",
+  "type": "REWARD",
+  "loop": "Feed reindeer to make them fly; reindeer stable income",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Feed the Fire \ud83d\udd25",
+   "playing": 660,
+   "age_d": 106,
+   "like_pct": 96,
+   "universeId": 10599406058
+  }
+ },
+ {
+  "title": "Catch Snowflakes",
+  "parent": "seasonal",
+  "type": "VERB",
+  "loop": "Catch snowflakes, rare flakes earn",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[NOW] Catch a Monster",
+   "playing": 3389,
+   "age_d": 369,
+   "like_pct": 98,
+   "universeId": 9141743926
+  }
+ },
+ {
+  "title": "Hatch a Penguin",
+  "parent": "seasonal",
+  "type": "REWARD",
+  "loop": "Hatch penguin eggs; colony income",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Hatch a Penguin! \ud83d\udc27",
+   "playing": 17,
+   "age_d": 29,
+   "like_pct": 75,
+   "universeId": 10771019136
+  },
+  "near": {
+   "name": "\ud83d\udc51 HATCH EGGZ! OWNER PLAYTIME",
+   "playing": 2163,
+   "age_d": 41,
+   "like_pct": 93,
+   "universeId": 10769162680
+  }
+ },
+ {
+  "title": "Sled Down Everest",
+  "parent": "seasonal",
+  "type": "SCALE",
+  "loop": "Sled the tallest mountain; distance rewards",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Sled Obby [QOL]",
+   "playing": 43,
+   "age_d": 1108,
+   "like_pct": 55,
+   "universeId": 5253648332
+  }
+ },
+ {
+  "title": "Escape the Blizzard",
+  "parent": "seasonal",
+  "type": "RISK",
+  "loop": "Outrun the blizzard, grab loot",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Escape The Lava \ud83d\udd25",
+   "playing": 2212,
+   "age_d": 449,
+   "like_pct": 92,
+   "universeId": 8504461817
+  },
+  "near": {
+   "name": "\u26cf\ufe0fDig to Escape",
+   "playing": 6212,
+   "age_d": 368,
+   "like_pct": 98,
+   "universeId": 9145063979
+  }
+ },
+ {
+  "title": "Inflate a Balloon",
+  "parent": "wildcard",
+  "type": "VERB",
+  "loop": "Pump a balloon bigger, float to new zones",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[NEW] Inflate A Balloon",
+   "playing": 3,
+   "age_d": 18,
+   "like_pct": 100,
+   "universeId": 10773163731
+  },
+  "near": {
+   "name": "[\ud83c\udf88] Blow Up a Greedy Balloon",
+   "playing": 100,
+   "age_d": 98,
+   "like_pct": 99,
+   "universeId": 10647488333
+  }
+ },
+ {
+  "title": "Grow a Giant",
+  "parent": "wildcard",
+  "type": "REWARD",
+  "loop": "Feed a giant to grow; it stomps things for cash",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Grow a Giant",
+   "playing": 1,
+   "age_d": 21,
+   "like_pct": 71,
+   "universeId": 10772627299
+  },
+  "near": {
+   "name": "Grow As Anomaly",
+   "playing": 4238,
+   "age_d": 57,
+   "like_pct": 80,
+   "universeId": 10766787166
+  }
+ },
+ {
+  "title": "Shake the Tree",
+  "parent": "wildcard",
+  "type": "VERB",
+  "loop": "Shake trees, things drop; rarity",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Shake a Tree",
+   "playing": 10,
+   "age_d": 6,
+   "like_pct": 78,
+   "universeId": 10775234782
+  },
+  "near": {
+   "name": "Chop a GIANT Tree!",
+   "playing": 136,
+   "age_d": 26,
+   "like_pct": 83,
+   "universeId": 10771706392
+  }
+ },
+ {
+  "title": "Pop the Bubble",
+  "parent": "wildcard",
+  "type": "VERB",
+  "loop": "Pop bubbles, creatures inside",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83c\udf83] Pop A Bubble",
+   "playing": 0,
+   "age_d": 23,
+   "like_pct": 46,
+   "universeId": 10772316898
+  },
+  "near": {
+   "name": "[\ud83e\udd11EARN] Pop For Free",
+   "playing": 1160,
+   "age_d": 229,
+   "like_pct": 91,
+   "universeId": 9961389755
+  }
+ },
+ {
+  "title": "Wake the Dragon",
+  "parent": "wildcard",
+  "type": "RISK",
+  "loop": "Sneak treasure from a sleeping dragon",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Don't Wake The Dragon",
+   "playing": 0,
+   "age_d": 17,
+   "like_pct": 78,
+   "universeId": 10773311679
+  },
+  "near": {
+   "name": "[GUILDS] Dragon Adventures \ud83d\udc09",
+   "playing": 9390,
+   "age_d": 2678,
+   "like_pct": 93,
+   "universeId": 1235188606
+  }
+ },
+ {
+  "title": "Blow Up the Moon",
+  "parent": "wildcard",
+  "type": "SCALE",
+  "loop": "Destroy the moon piece by piece, loot falls",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[PROXIMA!] The Moon Wakes Up",
+   "playing": 445,
+   "age_d": 420,
+   "like_pct": 78,
+   "universeId": 8751492147
+  }
+ },
+ {
+  "title": "Dig to the Core",
+  "parent": "wildcard",
+  "type": "VERB",
+  "loop": "Dig down; deeper layers = rarer finds",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\u26cf\ufe0f] Dig To The Core",
+   "playing": 19,
+   "age_d": 13,
+   "like_pct": 75,
+   "universeId": 10774047599
+  },
+  "near": {
+   "name": "Drill to Earth\u2019s Core \ud83c\udf0e",
+   "playing": 12836,
+   "age_d": 261,
+   "like_pct": 92,
+   "universeId": 9796898051
+  }
+ },
+ {
+  "title": "Tame a Monster",
+  "parent": "wildcard",
+  "type": "VERB",
+  "loop": "Tame wild monsters, they earn on your ranch",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Paint a Monster",
+   "playing": 357,
+   "age_d": 24,
+   "like_pct": 77,
+   "universeId": 10772086287
+  },
+  "near": {
+   "name": "Monster Maker",
+   "playing": 4574,
+   "age_d": 22,
+   "like_pct": 95,
+   "universeId": 10772440379
+  }
+ }
+]
