@@ -1,0 +1,1109 @@
+[
+ {
+  "title": "Ragdoll Skydive Score",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Ragdoll Bridge Jump",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Ragdoll Ski Jump",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "(NEW) +1 Ski Jump\u26f7\ufe0f",
+   "playing": 409,
+   "age_d": 9,
+   "like_pct": 93,
+   "universeId": 10774653410
+  }
+ },
+ {
+  "title": "Ragdoll Delivery",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Ragdoll Reality \ud83e\ude78",
+   "playing": 9580,
+   "age_d": 32,
+   "like_pct": 83,
+   "universeId": 10770605947
+  },
+  "near": {
+   "name": "Hyper Realistic Ragdoll",
+   "playing": 145466,
+   "age_d": 16,
+   "like_pct": 89,
+   "universeId": 10773618503
+  }
+ },
+ {
+  "title": "Topple the Ragdoll Tower",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83d\udca5] Troll Ragdoll Tower",
+   "playing": 7533,
+   "age_d": 328,
+   "like_pct": 85,
+   "universeId": 9395278151
+  }
+ },
+ {
+  "title": "Wreck a Car for Parts",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Demolish the House",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Demolish The World",
+   "playing": 34,
+   "age_d": 6,
+   "like_pct": 91,
+   "universeId": 10775204150
+  },
+  "near": {
+   "name": "Burn A House",
+   "playing": 597,
+   "age_d": 52,
+   "like_pct": 83,
+   "universeId": 10767640248
+  }
+ },
+ {
+  "title": "Topple the Tower",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "TROLL Hug Tower",
+   "playing": 12018,
+   "age_d": 130,
+   "like_pct": 86,
+   "universeId": 10460801145
+  }
+ },
+ {
+  "title": "Shatter the Glass",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Easy Glass Bridge (Possible Squid Game)",
+   "playing": 2382,
+   "age_d": 1821,
+   "like_pct": 63,
+   "universeId": 3097803944
+  }
+ },
+ {
+  "title": "Bulldoze the Town",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "In This Town...",
+   "playing": 1247,
+   "age_d": 8,
+   "like_pct": 75,
+   "universeId": 10774894770
+  }
+ },
+ {
+  "title": "Melt the Snowman",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Melt The Snow",
+   "playing": 1,
+   "age_d": 127,
+   "like_pct": 84,
+   "universeId": 10474094460
+  },
+  "near": {
+   "name": "[\ud83c\udf83]Melt All The Ice!\ud83e\uddca",
+   "playing": 1674,
+   "age_d": 61,
+   "like_pct": 97,
+   "universeId": 10766309747
+  }
+ },
+ {
+  "title": "Flood the House",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[UPD] Build a REAL House",
+   "playing": 25084,
+   "age_d": 23,
+   "like_pct": 76,
+   "universeId": 10772266488
+  }
+ },
+ {
+  "title": "Crush the City",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "+1 Crush The Floor!",
+   "playing": 1762,
+   "age_d": 42,
+   "like_pct": 88,
+   "universeId": 10768969308
+  }
+ },
+ {
+  "title": "Paint the Planet",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Paint the Flag",
+   "playing": 2086,
+   "age_d": 37,
+   "like_pct": 67,
+   "universeId": 10769765300
+  },
+  "near": {
+   "name": "Paint and Hide! \ud83c\udfa8",
+   "playing": 11363,
+   "age_d": 63,
+   "like_pct": 72,
+   "universeId": 10766044605
+  }
+ },
+ {
+  "title": "Plant Mars",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[MARS] Clean the Moon!",
+   "playing": 5229,
+   "age_d": 33,
+   "like_pct": 94,
+   "universeId": 10770466814
+  }
+ },
+ {
+  "title": "Clean Saturn's Rings",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Polish the Stars",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Soccer Stars 26",
+   "playing": 3725,
+   "age_d": 166,
+   "like_pct": 80,
+   "universeId": 10254680421
+  }
+ },
+ {
+  "title": "Defrost Pluto",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Rebuild the Moon",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\ud83c\udf19 Build To The Moon",
+   "playing": 9,
+   "age_d": 135,
+   "like_pct": 84,
+   "universeId": 10428075680
+  },
+  "near": {
+   "name": "Sweep The Moon \ud83c\udf15",
+   "playing": 23597,
+   "age_d": 21,
+   "like_pct": 98,
+   "universeId": 10772543706
+  }
+ },
+ {
+  "title": "Fish in Lava",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Fish the Clouds",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83c\udf19UPD] Fish It! \ud83d\udc1f",
+   "playing": 64744,
+   "age_d": 754,
+   "like_pct": 83,
+   "universeId": 6701277882
+  }
+ },
+ {
+  "title": "Trap a Crab",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Trap a thief ",
+   "playing": 46,
+   "age_d": 403,
+   "like_pct": 91,
+   "universeId": 8887931183
+  }
+ },
+ {
+  "title": "Ice Fish the Glacier",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Throw a Boomerang",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Throw Food For Animals",
+   "playing": 447914,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  }
+ },
+ {
+  "title": "Throw a Grappling Hook",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Throw a Bowling Ball",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Be a Bowling Ball",
+   "playing": 50,
+   "age_d": 74,
+   "like_pct": 93,
+   "universeId": 10764665412
+  },
+  "near": {
+   "name": "+1 Throw a Ball",
+   "playing": 242,
+   "age_d": 39,
+   "like_pct": 92,
+   "universeId": 10769583130
+  }
+ },
+ {
+  "title": "Bounce a Ball Up the Mountain",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Stop the Meteor",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Stop The Train",
+   "playing": 1944,
+   "age_d": 43,
+   "like_pct": 92,
+   "universeId": 10768843989
+  },
+  "near": {
+   "name": "Stop The Tsunami!",
+   "playing": 27367,
+   "age_d": 33,
+   "like_pct": 78,
+   "universeId": 10770463307
+  }
+ },
+ {
+  "title": "Stop the Lava",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Escape The Lava \ud83d\udd25",
+   "playing": 2221,
+   "age_d": 449,
+   "like_pct": 92,
+   "universeId": 8504461817
+  },
+  "near": {
+   "name": "Stop The Tsunami!",
+   "playing": 27367,
+   "age_d": 33,
+   "like_pct": 78,
+   "universeId": 10770463307
+  }
+ },
+ {
+  "title": "Catch the Thief",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83c\udfa8] Catch the Artist: Color Party!",
+   "playing": 169,
+   "age_d": 20,
+   "like_pct": 61,
+   "universeId": 10772891542
+  }
+ },
+ {
+  "title": "Defend the Garden",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Defend Your Garden",
+   "playing": 0,
+   "age_d": 83,
+   "like_pct": 71,
+   "universeId": 10752996661
+  },
+  "near": {
+   "name": "[\u23f3\ud83d\udc41\ufe0f\ud83c\udf40] Garden Tower Defense \ud83c\udf3b",
+   "playing": 6769,
+   "age_d": 548,
+   "like_pct": 98,
+   "universeId": 7703614594
+  }
+ },
+ {
+  "title": "Be the Monster",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Roll to be Monster",
+   "playing": 178,
+   "age_d": 36,
+   "like_pct": 95,
+   "universeId": 10769866447
+  }
+ },
+ {
+  "title": "Save the Animals",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Save Animals",
+   "playing": 222,
+   "age_d": 11,
+   "like_pct": 87,
+   "universeId": 10774449394
+  },
+  "near": {
+   "name": "Save Animals",
+   "playing": 222,
+   "age_d": 11,
+   "like_pct": 87,
+   "universeId": 10774449394
+  }
+ },
+ {
+  "title": "Be the Tsunami",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Be a Tsunami",
+   "playing": 15,
+   "age_d": 841,
+   "like_pct": 80,
+   "universeId": 6320626263
+  },
+  "near": {
+   "name": "Stop The Tsunami!",
+   "playing": 27367,
+   "age_d": 33,
+   "like_pct": 78,
+   "universeId": 10770463307
+  }
+ },
+ {
+  "title": "Guard the Vault",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Hack Vault for Eggs",
+   "playing": 1698,
+   "age_d": 53,
+   "like_pct": 90,
+   "universeId": 10767441396
+  }
+ },
+ {
+  "title": "Vote the Disaster",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Natural Disaster Survival",
+   "playing": 6281,
+   "age_d": 6804,
+   "like_pct": 91,
+   "universeId": 65241
+  }
+ },
+ {
+  "title": "Type a Pet",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Type a Pet!",
+   "playing": 151,
+   "age_d": 45,
+   "like_pct": 72,
+   "universeId": 10768657341
+  },
+  "near": {
+   "name": "Pet Story \ud83d\udc36",
+   "playing": 353,
+   "age_d": 1953,
+   "like_pct": 95,
+   "universeId": 2727447177
+  }
+ },
+ {
+  "title": "Spawn the Boss",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Boss Fight For Eggs",
+   "playing": 2706,
+   "age_d": 48,
+   "like_pct": 92,
+   "universeId": 10768114929
+  }
+ },
+ {
+  "title": "Sumo Push Arena",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Tug of War Simulator",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Tug of War Simulator",
+   "playing": 2,
+   "age_d": 979,
+   "like_pct": 95,
+   "universeId": 5737255898
+  },
+  "near": {
+   "name": "+1 Strength to Tug of War\ud83d\udcaa",
+   "playing": 49,
+   "age_d": 159,
+   "like_pct": 97,
+   "universeId": 10289822998
+  }
+ },
+ {
+  "title": "Snowball Fight League",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Hockey Brawl",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[RANKED!] RHL HOCKEY",
+   "playing": 410,
+   "age_d": 44,
+   "like_pct": 86,
+   "universeId": 10768781283
+  }
+ },
+ {
+  "title": "Slime Soccer",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Ragdoll Soccer",
+   "playing": 27503,
+   "age_d": 31,
+   "like_pct": 72,
+   "universeId": 10770730129
+  }
+ },
+ {
+  "title": "Dodgeball Evolution",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31752,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "Unwrap the Mystery Gift",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83c\udf84] Unwrap A Gift",
+   "playing": 31,
+   "age_d": 24,
+   "like_pct": 83,
+   "universeId": 10772144956
+  }
+ },
+ {
+  "title": "Light the Christmas Tree",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Light a Christmas Tree!\ud83c\udf84",
+   "playing": 8,
+   "age_d": 3,
+   "like_pct": 86,
+   "universeId": 10775852750
+  },
+  "near": {
+   "name": "Run a Christmas Tree Lot",
+   "playing": 7329,
+   "age_d": 9,
+   "like_pct": 95,
+   "universeId": 10774646539
+  }
+ },
+ {
+  "title": "Escape the Yeti",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Escape The Rake",
+   "playing": 178,
+   "age_d": 25,
+   "like_pct": 87,
+   "universeId": 10771997477
+  },
+  "near": {
+   "name": "Escape Running Head",
+   "playing": 6457,
+   "age_d": 2136,
+   "like_pct": 75,
+   "universeId": 2274830359
+  }
+ },
+ {
+  "title": "Slice the Soap",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Peel the Orange",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Peel THE Egg",
+   "playing": 33,
+   "age_d": 39,
+   "like_pct": 81,
+   "universeId": 10769501587
+  },
+  "near": {
+   "name": "Peel THE Potato",
+   "playing": 5106,
+   "age_d": 53,
+   "like_pct": 94,
+   "universeId": 10767408330
+  }
+ },
+ {
+  "title": "Pour the Wax",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83c\udf08\ud83d\ude82UPDATE] Wax ASMR Tower",
+   "playing": 14784,
+   "age_d": 512,
+   "like_pct": 91,
+   "universeId": 7948426536
+  }
+ },
+ {
+  "title": "Stack the Sushi",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\u23f3 12H] \ud83e\uddc8 Stack A Butter Squishy [ASMR]",
+   "playing": 13944,
+   "age_d": 100,
+   "like_pct": 89,
+   "universeId": 10638886777
+  }
+ },
+ {
+  "title": "Scoop the Slime",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\ud83e\uddea My Slime Lab (Test Playground) [\ud83d\udc49\ud83d\udd35\ud83d\udc48]",
+   "playing": 212,
+   "age_d": 114,
+   "like_pct": 88,
+   "universeId": 10549129889
+  }
+ },
+ {
+  "title": "Bake the Biggest Cookie",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Wash the Dog",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Wash the Car \ud83e\uddfd",
+   "playing": 5281,
+   "age_d": 89,
+   "like_pct": 89,
+   "universeId": 10725799494
+  }
+ },
+ {
+  "title": "Train Your Aura",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Train Your Aura \ud83d\udcaa",
+   "playing": 7,
+   "age_d": 365,
+   "like_pct": 97,
+   "universeId": 9163193926
+  },
+  "near": {
+   "name": "+1 Aura Per Click",
+   "playing": 2393,
+   "age_d": 206,
+   "like_pct": 99,
+   "universeId": 10067258922
+  }
+ },
+ {
+  "title": "My Anime Farm",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "My Anime Farm ",
+   "playing": 0,
+   "age_d": 210,
+   "like_pct": 95,
+   "universeId": 10048164058
+  },
+  "near": {
+   "name": "\u26cf\ufe0f My Anime Mine",
+   "playing": 16109,
+   "age_d": 86,
+   "like_pct": 99,
+   "universeId": 10740316645
+  }
+ },
+ {
+  "title": "Hatch Anime Spirits",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83c\udf0cTRUE ZENO + 4X] Anime Spirits",
+   "playing": 12,
+   "age_d": 1439,
+   "like_pct": 92,
+   "universeId": 4161970303
+  }
+ },
+ {
+  "title": "Roll Anime Eyes",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Draw Anime Eyes",
+   "playing": 42,
+   "age_d": 11,
+   "like_pct": 65,
+   "universeId": 10774436903
+  },
+  "near": {
+   "name": "[\ud83d\udc79 BOSS] +1 Anime Eyes",
+   "playing": 5275,
+   "age_d": 30,
+   "like_pct": 96,
+   "universeId": 10770933473
+  }
+ },
+ {
+  "title": "Steal an Anime Sword",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Steal An Anime",
+   "playing": 1,
+   "age_d": 45,
+   "like_pct": 87,
+   "universeId": 10768633824
+  },
+  "near": {
+   "name": "[\u231b] Steal an Anime Pack",
+   "playing": 15425,
+   "age_d": 92,
+   "like_pct": 96,
+   "universeId": 10701622575
+  }
+ },
+ {
+  "title": "Anime Ragdoll Arena",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Anime Ragdoll\ud83e\ude78",
+   "playing": 1369,
+   "age_d": 18,
+   "like_pct": 75,
+   "universeId": 10773200083
+  },
+  "near": {
+   "name": "[UPD]Anime Ragdoll Engine \ud83e\ude78",
+   "playing": 9011,
+   "age_d": 13,
+   "like_pct": 81,
+   "universeId": 10774140929
+  }
+ },
+ {
+  "title": "Domain Every Second",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Gain Size Every Second",
+   "playing": 7,
+   "age_d": 260,
+   "like_pct": 90,
+   "universeId": 9802485460
+  },
+  "near": {
+   "name": "+1 Domain Expansion",
+   "playing": 258,
+   "age_d": 15,
+   "like_pct": 88,
+   "universeId": 10773773873
+  }
+ },
+ {
+  "title": "Charge Your Ki",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[NEW WORLD 5] +1 Ki Evolution",
+   "playing": 869,
+   "age_d": 34,
+   "like_pct": 95,
+   "universeId": 10770218291
+  }
+ },
+ {
+  "title": "Appraise the Junk",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Junk Mechanics",
+   "playing": 2694,
+   "age_d": 246,
+   "like_pct": 88,
+   "universeId": 9872734936
+  }
+ },
+ {
+  "title": "Flip the Burgers",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Cook Burgers",
+   "playing": 483,
+   "age_d": 2798,
+   "like_pct": 82,
+   "universeId": 1073273083
+  }
+ },
+ {
+  "title": "Repair the Car",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Repair My Car!",
+   "playing": 971,
+   "age_d": 19,
+   "like_pct": 95,
+   "universeId": 10772961996
+  },
+  "near": {
+   "name": "a dusty trip [\ud83d\ude97CAR]",
+   "playing": 19206,
+   "age_d": 1001,
+   "like_pct": 90,
+   "universeId": 5650396773
+  }
+ },
+ {
+  "title": "Launch a Rocket",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Steal and Launch a Nuke",
+   "playing": 906,
+   "age_d": 75,
+   "like_pct": 84,
+   "universeId": 10764539302
+  }
+ },
+ {
+  "title": "Tap a Volcano",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\ud83c\udf0bErupt a Volcano!",
+   "playing": 0,
+   "age_d": 98,
+   "like_pct": 74,
+   "universeId": 10649052780
+  },
+  "near": {
+   "name": "Survive Volcano for Brainrots!",
+   "playing": 101,
+   "age_d": 155,
+   "like_pct": 97,
+   "universeId": 10309869486
+  }
+ },
+ {
+  "title": "Open the Vault",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[UPD \ud83e\ude96] Storage Hunters: Open World",
+   "playing": 9391,
+   "age_d": 164,
+   "like_pct": 95,
+   "universeId": 10261267004
+  }
+ },
+ {
+  "title": "Dig Up Dinosaurs",
+  "parent": "r3",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[EGG UPD \ud83e\udd5a] Dig Up Dinosaurs",
+   "playing": 1,
+   "age_d": 51,
+   "like_pct": 69,
+   "universeId": 10767782426
+  },
+  "near": {
+   "name": "Dig and Steal Dinosaurs \ud83e\udd96 ",
+   "playing": 167,
+   "age_d": 38,
+   "like_pct": 90,
+   "universeId": 10769606605
+  }
+ }
+]
