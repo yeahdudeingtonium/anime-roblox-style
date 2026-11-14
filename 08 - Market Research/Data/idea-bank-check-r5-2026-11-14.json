@@ -1,0 +1,1790 @@
+[
+ {
+  "title": "+1 Speed Volcano Escape",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Speed Elytra Escape",
+   "playing": 111,
+   "age_d": 307,
+   "like_pct": 93,
+   "universeId": 9539167048
+  },
+  "near": {
+   "name": "+1 Speed Keyboard Escape | Candy & Chocolate",
+   "playing": 30421,
+   "age_d": 299,
+   "like_pct": 97,
+   "universeId": 9584852943
+  }
+ },
+ {
+  "title": "+1 Speed Tsunami Escape",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Speed Car Tsunami Escape",
+   "playing": 0,
+   "age_d": 313,
+   "like_pct": 96,
+   "universeId": 9504891564
+  },
+  "near": {
+   "name": "[\ud83c\udf83HALLOWEEN] +1 Speed Motorcycle Tsunami Escape ",
+   "playing": 318,
+   "age_d": 285,
+   "like_pct": 95,
+   "universeId": 9660713566
+  }
+ },
+ {
+  "title": "+1 Speed Lava Escape",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Speed Lava Escape",
+   "playing": 0,
+   "age_d": 158,
+   "like_pct": 71,
+   "universeId": 10292788708
+  },
+  "near": {
+   "name": "+1 Speed Keyboard Escape | Candy & Chocolate",
+   "playing": 30421,
+   "age_d": 299,
+   "like_pct": 97,
+   "universeId": 9584852943
+  }
+ },
+ {
+  "title": "+1 Jump Sky Escape",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Jump Skate Escape",
+   "playing": 48,
+   "age_d": 32,
+   "like_pct": 80,
+   "universeId": 10770586926
+  },
+  "near": {
+   "name": "+1 Jump Squishy ASMR Escape!",
+   "playing": 1585,
+   "age_d": 87,
+   "like_pct": 98,
+   "universeId": 10739283055
+  }
+ },
+ {
+  "title": "+1 Speed Prison Escape",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[UPD25] +1 Speed Prison Escape\u26a1",
+   "playing": 127,
+   "age_d": 534,
+   "like_pct": 96,
+   "universeId": 7789353543
+  },
+  "near": {
+   "name": "+1 Speed Keyboard Escape | Candy & Chocolate",
+   "playing": 30297,
+   "age_d": 299,
+   "like_pct": 97,
+   "universeId": 9584852943
+  }
+ },
+ {
+  "title": "+1 Speed Zombie Escape",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Speed Zombie Keyboard Escape ",
+   "playing": 51,
+   "age_d": 116,
+   "like_pct": 89,
+   "universeId": 10536401008
+  },
+  "near": {
+   "name": "+1 Speed Keyboard Escape | Candy & Chocolate",
+   "playing": 30421,
+   "age_d": 299,
+   "like_pct": 97,
+   "universeId": 9584852943
+  }
+ },
+ {
+  "title": "+1 Speed Candy Escape",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 speed candy escape",
+   "playing": 217,
+   "age_d": 8,
+   "like_pct": 56,
+   "universeId": 10774782513
+  },
+  "near": {
+   "name": "+1 Speed Keyboard Escape | Candy & Chocolate",
+   "playing": 30421,
+   "age_d": 299,
+   "like_pct": 97,
+   "universeId": 9584852943
+  }
+ },
+ {
+  "title": "+1 Speed Ice Escape",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Speed Ice Skate Escape",
+   "playing": 9,
+   "age_d": 236,
+   "like_pct": 93,
+   "universeId": 9925321566
+  },
+  "near": {
+   "name": "+1 Speed Keyboard Escape | Candy & Chocolate",
+   "playing": 30297,
+   "age_d": 299,
+   "like_pct": 97,
+   "universeId": 9584852943
+  }
+ },
+ {
+  "title": "+1 Speed Dino Escape",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Speed Dragon Escape",
+   "playing": 5,
+   "age_d": 267,
+   "like_pct": 97,
+   "universeId": 9762224678
+  },
+  "near": {
+   "name": "+1 Speed Keyboard Escape | Candy & Chocolate",
+   "playing": 30421,
+   "age_d": 299,
+   "like_pct": 97,
+   "universeId": 9584852943
+  }
+ },
+ {
+  "title": "+1 Speed Haunted Escape",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Speedster Escape",
+   "playing": 134,
+   "age_d": 132,
+   "like_pct": 89,
+   "universeId": 10447471170
+  },
+  "near": {
+   "name": "+1 Speed Keyboard Escape | Candy & Chocolate",
+   "playing": 30421,
+   "age_d": 299,
+   "like_pct": 97,
+   "universeId": 9584852943
+  }
+ },
+ {
+  "title": "+1 Ninja Leveling",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Ninja Leveling",
+   "playing": 4,
+   "age_d": 45,
+   "like_pct": 82,
+   "universeId": 10768647420
+  },
+  "near": {
+   "name": "+1 Assassin Leveling",
+   "playing": 6522,
+   "age_d": 51,
+   "like_pct": 96,
+   "universeId": 10767824942
+  }
+ },
+ {
+  "title": "+1 Samurai Leveling",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "+1 Assassin Leveling",
+   "playing": 6522,
+   "age_d": 51,
+   "like_pct": 96,
+   "universeId": 10767824942
+  },
+  "near": {
+   "name": "+1 Assassin Leveling",
+   "playing": 6522,
+   "age_d": 51,
+   "like_pct": 96,
+   "universeId": 10767824942
+  }
+ },
+ {
+  "title": "+1 Hunter Leveling",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Hammer Leveling",
+   "playing": 6,
+   "age_d": 13,
+   "like_pct": 79,
+   "universeId": 10774061183
+  },
+  "near": {
+   "name": "+1 Gun Leveling ",
+   "playing": 284,
+   "age_d": 41,
+   "like_pct": 89,
+   "universeId": 10769264184
+  }
+ },
+ {
+  "title": "+1 Knight Leveling",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Gun Leveling ",
+   "playing": 284,
+   "age_d": 41,
+   "like_pct": 89,
+   "universeId": 10769264184
+  },
+  "near": {
+   "name": "+1 Assassin Leveling",
+   "playing": 6522,
+   "age_d": 51,
+   "like_pct": 96,
+   "universeId": 10767824942
+  }
+ },
+ {
+  "title": "+1 Mage Leveling",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Gun Leveling ",
+   "playing": 284,
+   "age_d": 41,
+   "like_pct": 89,
+   "universeId": 10769264184
+  },
+  "near": {
+   "name": "+1 Assassin Leveling",
+   "playing": 6522,
+   "age_d": 51,
+   "like_pct": 96,
+   "universeId": 10767824942
+  }
+ },
+ {
+  "title": "+1 Sword Per Kill",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\u2764\ufe0f +1 Heart Per Kill",
+   "playing": 408,
+   "age_d": 42,
+   "like_pct": 43,
+   "universeId": 10769069172
+  }
+ },
+ {
+  "title": "+1 Power Per Kill",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\u2764\ufe0f +1 Heart Per Kill",
+   "playing": 404,
+   "age_d": 42,
+   "like_pct": 43,
+   "universeId": 10769069172
+  },
+  "near": {
+   "name": "\u2764\ufe0f +1 Heart Per Kill",
+   "playing": 404,
+   "age_d": 42,
+   "like_pct": 43,
+   "universeId": 10769069172
+  }
+ },
+ {
+  "title": "+1 Damage Per Kill",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\u2694\ufe0f +1 Damage Per Kill",
+   "playing": 0,
+   "age_d": 123,
+   "like_pct": 65,
+   "universeId": 10497972608
+  },
+  "near": {
+   "name": "\u2764\ufe0f +1 Heart Per Kill",
+   "playing": 404,
+   "age_d": 42,
+   "like_pct": 43,
+   "universeId": 10769069172
+  }
+ },
+ {
+  "title": "+1 Size Per Kill",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "+1 Size Per Step",
+   "playing": 1385,
+   "age_d": 83,
+   "like_pct": 92,
+   "universeId": 10755740733
+  },
+  "near": {
+   "name": "+1 Size Per Step",
+   "playing": 1385,
+   "age_d": 83,
+   "like_pct": 92,
+   "universeId": 10755740733
+  }
+ },
+ {
+  "title": "+1 Aura Per Kill",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "+1 Aura Per Click",
+   "playing": 2420,
+   "age_d": 206,
+   "like_pct": 99,
+   "universeId": 10067258922
+  },
+  "near": {
+   "name": "+1 Aura Per Click",
+   "playing": 2420,
+   "age_d": 206,
+   "like_pct": 99,
+   "universeId": 10067258922
+  }
+ },
+ {
+  "title": "+1 Phoenix Evolution",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Phonk Evolution",
+   "playing": 495,
+   "age_d": 115,
+   "like_pct": 98,
+   "universeId": 10544327471
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Golem Evolution",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83d\ude80UPD]+1  Golem Evolution",
+   "playing": 3,
+   "age_d": 11,
+   "like_pct": 43,
+   "universeId": 10774430856
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Cyborg Evolution",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Robot Car Evolution",
+   "playing": 65,
+   "age_d": 47,
+   "like_pct": 82,
+   "universeId": 10768414559
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Skeleton Evolution",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 SCP Evolution",
+   "playing": 0,
+   "age_d": 55,
+   "like_pct": 82,
+   "universeId": 10767113282
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Pirate Evolution",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Pirate Evolution",
+   "playing": 18,
+   "age_d": 10,
+   "like_pct": 40,
+   "universeId": 10774537312
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Viking Evolution",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\u2694\ufe0f +1 Viking Evolution",
+   "playing": 8,
+   "age_d": 53,
+   "like_pct": 82,
+   "universeId": 10767575749
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Ninja Evolution",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Ninja Evolution",
+   "playing": 0,
+   "age_d": 208,
+   "like_pct": 94,
+   "universeId": 10059134648
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Mutant Evolution",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Ant Evolution \ud83d\udc1c",
+   "playing": 39,
+   "age_d": 43,
+   "like_pct": 83,
+   "universeId": 10768844188
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Bee Evolution",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Bee Evolution \ud83d\udc1d",
+   "playing": 893,
+   "age_d": 162,
+   "like_pct": 96,
+   "universeId": 10272178661
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Slime Evolution",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Slime Evolution",
+   "playing": 4,
+   "age_d": 18,
+   "like_pct": 89,
+   "universeId": 10773155348
+  },
+  "near": {
+   "name": "+1 Power Fruit Evolution",
+   "playing": 13635,
+   "age_d": 51,
+   "like_pct": 97,
+   "universeId": 10767749891
+  }
+ },
+ {
+  "title": "+1 Fire Power",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Golf Power",
+   "playing": 265,
+   "age_d": 41,
+   "like_pct": 95,
+   "universeId": 10769252063
+  },
+  "near": {
+   "name": "+1 Power Fruit Evolution",
+   "playing": 13635,
+   "age_d": 51,
+   "like_pct": 97,
+   "universeId": 10767749891
+  }
+ },
+ {
+  "title": "+1 Lightning Power",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "+1 Power Fruit Evolution",
+   "playing": 13635,
+   "age_d": 51,
+   "like_pct": 97,
+   "universeId": 10767749891
+  }
+ },
+ {
+  "title": "+1 Ice Power",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Ice Powers \u2744\ufe0f",
+   "playing": 57,
+   "age_d": 13,
+   "like_pct": 76,
+   "universeId": 10774077876
+  },
+  "near": {
+   "name": "+1 Power Fruit Evolution",
+   "playing": 13635,
+   "age_d": 51,
+   "like_pct": 97,
+   "universeId": 10767749891
+  }
+ },
+ {
+  "title": "+1 Speed Punch",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "+1 Speed Keyboard Escape | Candy & Chocolate",
+   "playing": 30421,
+   "age_d": 299,
+   "like_pct": 97,
+   "universeId": 9584852943
+  }
+ },
+ {
+  "title": "+1 Kick Power",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Kick Power",
+   "playing": 1,
+   "age_d": 8,
+   "like_pct": 75,
+   "universeId": 10774828165
+  },
+  "near": {
+   "name": "[\ud83c\udf0dUPD] +1 Kick Power \u26bd",
+   "playing": 911,
+   "age_d": 21,
+   "like_pct": 80,
+   "universeId": 10772556867
+  }
+ },
+ {
+  "title": "+1 Sword Length",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Sword Leveling",
+   "playing": 5,
+   "age_d": 19,
+   "like_pct": 75,
+   "universeId": 10772997939
+  },
+  "near": {
+   "name": "[\ud83c\udfdc\ufe0fW7] +1 Arm Length \ud83d\udcaa",
+   "playing": 4359,
+   "age_d": 55,
+   "like_pct": 97,
+   "universeId": 10767110259
+  }
+ },
+ {
+  "title": "+1 Strength Per Step",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83d\udc36] +1 Strength per Step \ud83d\udcaa",
+   "playing": 9,
+   "age_d": 218,
+   "like_pct": 87,
+   "universeId": 10014408826
+  },
+  "near": {
+   "name": "+1 Domino Per Step",
+   "playing": 1638,
+   "age_d": 37,
+   "like_pct": 81,
+   "universeId": 10769842326
+  }
+ },
+ {
+  "title": "+1 Laser Power",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "+1 Power Fruit Evolution",
+   "playing": 13635,
+   "age_d": 51,
+   "like_pct": 97,
+   "universeId": 10767749891
+  }
+ },
+ {
+  "title": "+1 Shield Every Second",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Size Every Second",
+   "playing": 31,
+   "age_d": 741,
+   "like_pct": 77,
+   "universeId": 6752440425
+  },
+  "near": {
+   "name": "+1 Blocks Every Second",
+   "playing": 105,
+   "age_d": 1383,
+   "like_pct": 94,
+   "universeId": 4341358490
+  }
+ },
+ {
+  "title": "+1 Clone Every Second",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Strong Every Second \ud83d\udcaa",
+   "playing": 66,
+   "age_d": 1489,
+   "like_pct": 94,
+   "universeId": 4025872087
+  },
+  "near": {
+   "name": "+1 Clone Evolution",
+   "playing": 170,
+   "age_d": 81,
+   "like_pct": 94,
+   "universeId": 10760163096
+  }
+ },
+ {
+  "title": "Roll an Aura",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Aura Craft",
+   "playing": 276,
+   "age_d": 931,
+   "like_pct": 96,
+   "universeId": 5918399007
+  }
+ },
+ {
+  "title": "Roll a Rank",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Roll a Tank",
+   "playing": 1,
+   "age_d": 194,
+   "like_pct": 70,
+   "universeId": 10121938858
+  },
+  "near": {
+   "name": "[\ud83c\udfc6RANK] DROPZONE",
+   "playing": 1267,
+   "age_d": 36,
+   "like_pct": 75,
+   "universeId": 10769850944
+  }
+ },
+ {
+  "title": "Roll a Title",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83e\udd96] roll the world \ud83c\udf0e",
+   "playing": 728,
+   "age_d": 39,
+   "like_pct": 86,
+   "universeId": 10769594564
+  }
+ },
+ {
+  "title": "Roll a Power",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[PART 1/2] Power RNG \ud83d\udc4a",
+   "playing": 1346,
+   "age_d": 485,
+   "like_pct": 65,
+   "universeId": 8177572912
+  }
+ },
+ {
+  "title": "Roll a Race",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Roll a PC",
+   "playing": 82,
+   "age_d": 75,
+   "like_pct": 97,
+   "universeId": 10764530878
+  },
+  "near": {
+   "name": "[\ud83e\udd96] roll the world \ud83c\udf0e",
+   "playing": 728,
+   "age_d": 39,
+   "like_pct": 86,
+   "universeId": 10769594564
+  }
+ },
+ {
+  "title": "Roll a Bloodline",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "[\ud83c\udf83] Bloodlines",
+   "playing": 3654,
+   "age_d": 2280,
+   "like_pct": 82,
+   "universeId": 1946714362
+  },
+  "near": {
+   "name": "Roll A Phonk For Aura \ud83d\udd25",
+   "playing": 34,
+   "age_d": 162,
+   "like_pct": 81,
+   "universeId": 10271699968
+  }
+ },
+ {
+  "title": "Roll a Spell",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Roll A SCP!",
+   "playing": 8,
+   "age_d": 40,
+   "like_pct": 75,
+   "universeId": 10769325698
+  },
+  "near": {
+   "name": "[\ud83e\udd96] roll the world \ud83c\udf0e",
+   "playing": 729,
+   "age_d": 39,
+   "like_pct": 86,
+   "universeId": 10769594564
+  }
+ },
+ {
+  "title": "Roll a Mutation",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83c\udf89UPD 3] Roll A Stickman!",
+   "playing": 5490,
+   "age_d": 64,
+   "like_pct": 96,
+   "universeId": 10765938934
+  }
+ },
+ {
+  "title": "Roll a Kingdom",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Clone Kingdom Tycoon \u2694\ufe0f ",
+   "playing": 1211,
+   "age_d": 1319,
+   "like_pct": 86,
+   "universeId": 4543855070
+  }
+ },
+ {
+  "title": "Roll a Boss",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Roll A SCP!",
+   "playing": 8,
+   "age_d": 40,
+   "like_pct": 75,
+   "universeId": 10769325698
+  },
+  "near": {
+   "name": "[404+UPD!]Titans ultra boss rush ",
+   "playing": 2476,
+   "age_d": 218,
+   "like_pct": 87,
+   "universeId": 10013052337
+  }
+ },
+ {
+  "title": "TROLL Slap Tower",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Troll slap tower 2",
+   "playing": 240,
+   "age_d": 556,
+   "like_pct": 92,
+   "universeId": 7655011882
+  },
+  "near": {
+   "name": "TROLL Hug Tower",
+   "playing": 12191,
+   "age_d": 130,
+   "like_pct": 86,
+   "universeId": 10460801145
+  }
+ },
+ {
+  "title": "TROLL Fling Tower",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "TROLL Hugging Tower",
+   "playing": 296,
+   "age_d": 57,
+   "like_pct": 87,
+   "universeId": 10766788626
+  },
+  "near": {
+   "name": "TROLL Hug Tower",
+   "playing": 12233,
+   "age_d": 130,
+   "like_pct": 86,
+   "universeId": 10460801145
+  }
+ },
+ {
+  "title": "TROLL Banana Tower",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "TROLL Hug Tower",
+   "playing": 12191,
+   "age_d": 130,
+   "like_pct": 86,
+   "universeId": 10460801145
+  },
+  "near": {
+   "name": "TROLL Hug Tower",
+   "playing": 12191,
+   "age_d": 130,
+   "like_pct": 86,
+   "universeId": 10460801145
+  }
+ },
+ {
+  "title": "TROLL Ice Tower",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "TROLL Hug Tower",
+   "playing": 12191,
+   "age_d": 130,
+   "like_pct": 86,
+   "universeId": 10460801145
+  },
+  "near": {
+   "name": "TROLL Hug Tower",
+   "playing": 12191,
+   "age_d": 130,
+   "like_pct": 86,
+   "universeId": 10460801145
+  }
+ },
+ {
+  "title": "TROLL Candy Tower",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "TROLL Cat Tower \ud83d\udc31",
+   "playing": 290,
+   "age_d": 241,
+   "like_pct": 93,
+   "universeId": 9897098788
+  },
+  "near": {
+   "name": "TROLL Hug Tower",
+   "playing": 12191,
+   "age_d": 130,
+   "like_pct": 86,
+   "universeId": 10460801145
+  }
+ },
+ {
+  "title": "TROLL Glass Tower",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "TROLL Hug Tower",
+   "playing": 12191,
+   "age_d": 130,
+   "like_pct": 86,
+   "universeId": 10460801145
+  },
+  "near": {
+   "name": "TROLL Hug Tower",
+   "playing": 12191,
+   "age_d": 130,
+   "like_pct": 86,
+   "universeId": 10460801145
+  }
+ },
+ {
+  "title": "TROLL Lava Tower",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "TROLL Carry Tower",
+   "playing": 43,
+   "age_d": 13,
+   "like_pct": 71,
+   "universeId": 10774035445
+  },
+  "near": {
+   "name": "TROLL Hug Tower",
+   "playing": 12233,
+   "age_d": 130,
+   "like_pct": 86,
+   "universeId": 10460801145
+  }
+ },
+ {
+  "title": "TROLL Admin Tower",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "TROLL Hug Admin Tower",
+   "playing": 50,
+   "age_d": 467,
+   "like_pct": 73,
+   "universeId": 8339999039
+  },
+  "near": {
+   "name": "Hug TROLL Tower \ud83e\udd17",
+   "playing": 4397,
+   "age_d": 207,
+   "like_pct": 75,
+   "universeId": 10062673104
+  }
+ },
+ {
+  "title": "Pizza Delivery Anomaly",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Highway Pizza [Anomaly]",
+   "playing": 35,
+   "age_d": 29,
+   "like_pct": 84,
+   "universeId": 10771142807
+  }
+ },
+ {
+  "title": "Night Shift Gas Station Anomaly",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\u26fd] Gas Station (Anomaly) \ud83c\udf19",
+   "playing": 6,
+   "age_d": 16,
+   "like_pct": 76,
+   "universeId": 10773512611
+  },
+  "near": null
+ },
+ {
+  "title": "Hotel Front Desk Anomaly",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Cinema Usher Anomaly",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Ice Cream Truck Anomaly",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Scary Ice Cream Truck\ud83c\udf66 (Anomaly)",
+   "playing": 188,
+   "age_d": 34,
+   "like_pct": 95,
+   "universeId": 10770239988
+  },
+  "near": {
+   "name": "[CH2] Ice Cream Shop [Anomaly] \ud83c\udf66",
+   "playing": 3903,
+   "age_d": 31,
+   "like_pct": 86,
+   "universeId": 10770674395
+  }
+ },
+ {
+  "title": "Babysitter Anomaly",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Clone Baby Care (Anomaly)",
+   "playing": 11513,
+   "age_d": 35,
+   "like_pct": 89,
+   "universeId": 10770018231
+  }
+ },
+ {
+  "title": "Mall Security Anomaly",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Mall Security Simulator",
+   "playing": 46,
+   "age_d": 1160,
+   "like_pct": 92,
+   "universeId": 5082567812
+  },
+  "near": {
+   "name": "[\ud83d\udc79] Airport Security (Anomaly) \u2708\ufe0f",
+   "playing": 2194,
+   "age_d": 44,
+   "like_pct": 93,
+   "universeId": 10768761562
+  }
+ },
+ {
+  "title": "Car Wash Anomaly",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "3AM Car Wash (Anomaly)",
+   "playing": 2,
+   "age_d": 19,
+   "like_pct": 64,
+   "universeId": 10772913388
+  },
+  "near": {
+   "name": "Wash the Car \ud83e\uddfd",
+   "playing": 5090,
+   "age_d": 89,
+   "like_pct": 89,
+   "universeId": 10725799494
+  }
+ },
+ {
+  "title": "Bus Driver Anomaly",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Bus Driver Vietnam 2",
+   "playing": 3963,
+   "age_d": 1253,
+   "like_pct": 78,
+   "universeId": 4756434078
+  }
+ },
+ {
+  "title": "Toy Store Anomaly",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\ud83c\udf84 Run A Christmas Toy Store! \ud83c\udf84 ",
+   "playing": 41,
+   "age_d": 11,
+   "like_pct": 77,
+   "universeId": 10774471838
+  }
+ },
+ {
+  "title": "Be a Basketball Legend",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\ud83c\udfc0 Be a Basketball Legend",
+   "playing": 3,
+   "age_d": 6,
+   "like_pct": 52,
+   "universeId": 10775194814
+  },
+  "near": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17550,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  }
+ },
+ {
+  "title": "Be a Boxer",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17460,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  }
+ },
+ {
+  "title": "Be a Racing Legend",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17550,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  }
+ },
+ {
+  "title": "Be a Ninja",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[UPD] Be a Ninja",
+   "playing": 29,
+   "age_d": 462,
+   "like_pct": 87,
+   "universeId": 8379124282
+  },
+  "near": {
+   "name": "Be Ninja to Steal Eggs \ud83e\udd77",
+   "playing": 1873,
+   "age_d": 37,
+   "like_pct": 85,
+   "universeId": 10769735991
+  }
+ },
+ {
+  "title": "Be a Superhero",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Build a Superhero",
+   "playing": 610,
+   "age_d": 16,
+   "like_pct": 89,
+   "universeId": 10773610400
+  },
+  "near": {
+   "name": "Superhero Arena",
+   "playing": 5051,
+   "age_d": 68,
+   "like_pct": 89,
+   "universeId": 10765491459
+  }
+ },
+ {
+  "title": "Be a Wrestler",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17550,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  }
+ },
+ {
+  "title": "Be a Hacker",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Be A Hacker [\ud83d\udc7e]",
+   "playing": 5,
+   "age_d": 280,
+   "like_pct": 79,
+   "universeId": 9686610181
+  },
+  "near": {
+   "name": "[NEW] +1 Hacker Evolve",
+   "playing": 3090,
+   "age_d": 24,
+   "like_pct": 91,
+   "universeId": 10772139684
+  }
+ },
+ {
+  "title": "Be a Gang Boss",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Anime Hunters TD",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Anime Ninja Defense",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83c\udf83]Anime Ninja ",
+   "playing": 7,
+   "age_d": 1202,
+   "like_pct": 92,
+   "universeId": 4928844563
+  }
+ },
+ {
+  "title": "Curse Defenders",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Horde Defenders",
+   "playing": 8,
+   "age_d": 63,
+   "like_pct": 81,
+   "universeId": 10766114988
+  },
+  "near": {
+   "name": "Anime Defenders",
+   "playing": 171,
+   "age_d": 953,
+   "like_pct": 97,
+   "universeId": 5836869368
+  }
+ },
+ {
+  "title": "Shinobi Tower Defense",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "SpongeBob Tower Defense\ud83c\udf4d",
+   "playing": 516,
+   "age_d": 780,
+   "like_pct": 98,
+   "universeId": 6594435384
+  },
+  "near": {
+   "name": "[\u23f3\ud83d\udc41\ufe0f\ud83c\udf40] Garden Tower Defense \ud83c\udf3b",
+   "playing": 6776,
+   "age_d": 548,
+   "like_pct": 98,
+   "universeId": 7703614594
+  }
+ },
+ {
+  "title": "Demon Slayers TD",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Demon Slayer Quiz",
+   "playing": 22,
+   "age_d": 222,
+   "like_pct": 73,
+   "universeId": 9994405571
+  },
+  "near": null
+ },
+ {
+  "title": "Anime Kingdom Defense",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[UPD 2 \ud83c\udf6d] Candy Kingdom Defense",
+   "playing": 302,
+   "age_d": 46,
+   "like_pct": 96,
+   "universeId": 10768556372
+  }
+ },
+ {
+  "title": "Anime Titans TD",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Anime Spirits TD",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "7 Days to Escape",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "\u26cf\ufe0fDig to Escape",
+   "playing": 6279,
+   "age_d": 368,
+   "like_pct": 98,
+   "universeId": 9145063979
+  },
+  "near": {
+   "name": "13 Days to Escape [ALPHA]",
+   "playing": 20660,
+   "age_d": 36,
+   "like_pct": 81,
+   "universeId": 10769941703
+  }
+ },
+ {
+  "title": "30 Days to Survive",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Survive 7 Days In Desert \ud83c\udf35",
+   "playing": 1947,
+   "age_d": 109,
+   "like_pct": 92,
+   "universeId": 10578398333
+  }
+ },
+ {
+  "title": "10 Days in Prison",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "5 Nights on the Island",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "99 Days in the Desert",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "98 Days in the Desert \ud83c\udfdc\ufe0f",
+   "playing": 6,
+   "age_d": 377,
+   "like_pct": 85,
+   "universeId": 9079501539
+  },
+  "near": {
+   "name": "Survive 7 Days In Desert \ud83c\udf35",
+   "playing": 1947,
+   "age_d": 109,
+   "like_pct": 92,
+   "universeId": 10578398333
+  }
+ },
+ {
+  "title": "7 Days in the Arctic",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Survive 7 Days In Desert \ud83c\udf35",
+   "playing": 1912,
+   "age_d": 109,
+   "like_pct": 92,
+   "universeId": 10578398333
+  }
+ },
+ {
+  "title": "13 Nights at the Hotel",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "100 Days as King",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Survive 100 Days As King",
+   "playing": 67,
+   "age_d": 55,
+   "like_pct": 88,
+   "universeId": 10767201377
+  },
+  "near": {
+   "name": "Survive 100 Days As King",
+   "playing": 67,
+   "age_d": 55,
+   "like_pct": 88,
+   "universeId": 10767201377
+  }
+ },
+ {
+  "title": "30 Days as a Ninja",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "7 Days to Graduate",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "7 Days Cat-Sitting",
+   "playing": 6564,
+   "age_d": 60,
+   "like_pct": 74,
+   "universeId": 10766506199
+  }
+ },
+ {
+  "title": "Race to the Top",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Math Tower Race",
+   "playing": 3220,
+   "age_d": 906,
+   "like_pct": 88,
+   "universeId": 6015491985
+  }
+ },
+ {
+  "title": "Speed Run Legends",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Legends Of Speed \u26a1",
+   "playing": 410,
+   "age_d": 2762,
+   "like_pct": 92,
+   "universeId": 1119466531
+  }
+ },
+ {
+  "title": "Become the Strongest",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[HALLOWEEN] The Strongest Battlegrounds",
+   "playing": 57840,
+   "age_d": 1564,
+   "like_pct": 84,
+   "universeId": 3808081382
+  }
+ },
+ {
+  "title": "Upgrade Per Lap",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Forge Legendary Swords",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Climb the World Tree",
+  "parent": "r5",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ }
+]
