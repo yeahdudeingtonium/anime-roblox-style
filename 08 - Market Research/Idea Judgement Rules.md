@@ -73,8 +73,11 @@ Every call gets checked against what happened. Use the hit rate to weight future
 
 **Rule 19 (from the Fish It miss):** before calling a lane open, check the **mechanics inside the top 3 games in the genre** (wiki or pets page), not just titles and descriptions. A big game often already has your idea as a side feature.
 
+**Rule 20 (from the anime cash-grab batches):** in +1 / Forge cash-grab formats the fantasy must be a **specific, iconic power or weapon** (Sukuna 21K, Power Fruit 13.8K, Ghoul 6.8K), not a generic category (Cursed 0, Aura 17, Sword 42, "Anime" 50). See [[Anime Core Ideas 2026-11-14]].
+
 ## Change log
 - 2026-10-31: first version, built from [[Live Pattern Report 2026-10-31]] (1,336 games), [[Growth Curves and Timing]] (345 CCU histories), [[Idea Ledger Round 1]] (105 ideas), [[Roblox Discovery Algorithm]] (34 sources) and a manual spot-check of "for eggs" and "fake a" searches. It overturned the earlier snippet-based [[Simple Action Loops Scorecard]], demoting Hatch a Kaiju and correcting My Anime Mine from a flop to a hit.
 - 2026-10-31: [[Idea Ledger Round 2 - Young Waves]] confirmed rules 4 and 6. Noun-swap and chained-title copies launched in the last 2 weeks sit at 12–186 CCU (Fake a Pet, Sell Popcorn, Ride and Steal a Pet).
 - 2026-11-14: added the prediction track record and rule 18 (only ride growing ≥20K originators), based on a 2-week chart diff (`Data/charts-2026-11-14-0811.json` vs `charts-2026-10-31-0854.json`).
 - 2026-11-14: rule 19 added after the Hatch Animals That Fish miss (Fish It's auto-catch pets).
+- 2026-11-14: rule 20 added from 200 live-checked anime and front-page cash-grab ideas.

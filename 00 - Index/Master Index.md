@@ -98,6 +98,7 @@ Every note in the vault, grouped by section. Check [[Owner Decisions]] first, th
 - [[Roblox Discovery Algorithm]]: how Home/RFY, the charts and search rank games; the 16+ launch gate; a 10-point test
 - [[Live Pattern Report 2026-10-31]]: 1,336 live games mined for title, theme, age and update patterns
 - [[Growth Curves and Timing]]: 345 CCU histories; days to 1K/10K, half-life, flop signatures
+- [[Anime Core Ideas 2026-11-14]]: **anime-core cash-grab ideas**, live-checked. Iconic-power rule, Forge family, graveyard
 - [[Idea Bank 2026-11-14]]: **154 ideas, live-checked**. Tiers, a graveyard list, the ragdoll-wave gap
 - [[Market Check - Hatch Animals That Fish]]: **owner's idea, verdict: yes, it can succeed**. Open lane in an evergreen ~248K-CCU genre
 - [[Mutation Shortlist 2026-11-14]]: **current picks**. Throw Snowballs For Animals, Spitball the Teacher, Sell Stolen Loot (with how each plays)

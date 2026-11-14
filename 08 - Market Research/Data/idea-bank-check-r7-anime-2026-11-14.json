@@ -1,0 +1,1592 @@
+[
+ {
+  "title": "+1 Cursed Energy Evolution",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Cursed Evolution",
+   "playing": 0,
+   "age_d": 19,
+   "like_pct": 80,
+   "universeId": 10772954903
+  },
+  "near": {
+   "name": "[\ud83c\udf0dUPDATE 1] +1 Cursed Energy Evolution",
+   "playing": 13,
+   "age_d": 14,
+   "like_pct": 71,
+   "universeId": 10773857376
+  }
+ },
+ {
+  "title": "+1 Curse Per Kill",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\u2764\ufe0f +1 Heart Per Kill",
+   "playing": 407,
+   "age_d": 42,
+   "like_pct": 43,
+   "universeId": 10769069172
+  }
+ },
+ {
+  "title": "Cursed Tool Forge",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "My Cursed Mine",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "PETAPETA Cursed Mine Island",
+   "playing": 251,
+   "age_d": 236,
+   "like_pct": 80,
+   "universeId": 9927516783
+  }
+ },
+ {
+  "title": "Throw a Cursed Spear",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Cut a Cursed Finger",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Cursed Fishing",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83c\udf1f] Cursed Fishing",
+   "playing": 1,
+   "age_d": 53,
+   "like_pct": 80,
+   "universeId": 10767570068
+  },
+  "near": {
+   "name": "[UPD] Ice Fishing Simulator \ud83d\udc1f",
+   "playing": 9021,
+   "age_d": 1194,
+   "like_pct": 90,
+   "universeId": 4960950398
+  }
+ },
+ {
+  "title": "Roll a Cursed Technique",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "+1 Chakra Every Second",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Blocks Every Second",
+   "playing": 96,
+   "age_d": 1383,
+   "like_pct": 94,
+   "universeId": 4341358490
+  },
+  "near": {
+   "name": "+1 Speed And +1 Jump Every Second",
+   "playing": 102,
+   "age_d": 1052,
+   "like_pct": 94,
+   "universeId": 5453253131
+  }
+ },
+ {
+  "title": "+1 Ninja Leveling",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Ninja Leveling",
+   "playing": 3,
+   "age_d": 45,
+   "like_pct": 82,
+   "universeId": 10768647420
+  },
+  "near": {
+   "name": "+1 Assassin Leveling",
+   "playing": 6577,
+   "age_d": 51,
+   "like_pct": 96,
+   "universeId": 10767824942
+  }
+ },
+ {
+  "title": "Kunai Forge",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "The Forge [\ud83e\udebdx\ud83d\udc79]",
+   "playing": 23449,
+   "age_d": 553,
+   "like_pct": 94,
+   "universeId": 7671049560
+  }
+ },
+ {
+  "title": "Throw a Shuriken Far",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Raise a Ninja Clan",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Be a Shinobi Legend",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17616,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  }
+ },
+ {
+  "title": "My Ninja Village",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Roll a Clan",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Roll a Tank",
+   "playing": 1,
+   "age_d": 194,
+   "like_pct": 70,
+   "universeId": 10121938858
+  },
+  "near": {
+   "name": "\ud83c\udfadRoll An Army!",
+   "playing": 447,
+   "age_d": 122,
+   "like_pct": 98,
+   "universeId": 10504837200
+  }
+ },
+ {
+  "title": "Chakra Fishing",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "BRO FISHING",
+   "playing": 1370,
+   "age_d": 35,
+   "like_pct": 86,
+   "universeId": 10769973437
+  },
+  "near": {
+   "name": "[UPD] Ice Fishing Simulator \ud83d\udc1f",
+   "playing": 9021,
+   "age_d": 1194,
+   "like_pct": 90,
+   "universeId": 4960950398
+  }
+ },
+ {
+  "title": "+1 Ki Evolution",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "+1 Kitsune Evolution",
+   "playing": 1199,
+   "age_d": 49,
+   "like_pct": 60,
+   "universeId": 10768005424
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31774,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Power Level Per Kill",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Power Level ",
+   "playing": 2,
+   "age_d": 19,
+   "like_pct": 69,
+   "universeId": 10772971082
+  },
+  "near": {
+   "name": "[\u26a12X] +1 Power Level Per Click",
+   "playing": 158,
+   "age_d": 26,
+   "like_pct": 86,
+   "universeId": 10771812023
+  }
+ },
+ {
+  "title": "Charge a Ki Blast",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Ki Blast Empire",
+   "playing": 34,
+   "age_d": 10,
+   "like_pct": 93,
+   "universeId": 10774559146
+  }
+ },
+ {
+  "title": "Raise a Saiyan Warrior",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Roll a Transformation",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Anime Transformations",
+   "playing": 6,
+   "age_d": 13,
+   "like_pct": 75,
+   "universeId": 10774060788
+  },
+  "near": {
+   "name": "Roll to be Monster",
+   "playing": 211,
+   "age_d": 36,
+   "like_pct": 94,
+   "universeId": 10769866447
+  }
+ },
+ {
+  "title": "Ki Training Arena",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83d\udd25UPD] Kaiju Training Arena",
+   "playing": 254,
+   "age_d": 112,
+   "like_pct": 88,
+   "universeId": 10557075339
+  },
+  "near": {
+   "name": "[\ud83d\udd25UPD] Kaiju Training Arena",
+   "playing": 254,
+   "age_d": 112,
+   "like_pct": 88,
+   "universeId": 10557075339
+  }
+ },
+ {
+  "title": "+1 Power Fruit Evolution",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "+1 Power Fruit Evolution",
+   "playing": 13792,
+   "age_d": 51,
+   "like_pct": 97,
+   "universeId": 10767749891
+  },
+  "near": {
+   "name": "+1 Power Fruit Evolution",
+   "playing": 13792,
+   "age_d": 51,
+   "like_pct": 97,
+   "universeId": 10767749891
+  }
+ },
+ {
+  "title": "Cut a Power Fruit",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "+1 Power Fruit Evolution",
+   "playing": 13792,
+   "age_d": 51,
+   "like_pct": 97,
+   "universeId": 10767749891
+  }
+ },
+ {
+  "title": "Fish for Power Fruits",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Roll a Devil Fruit",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Be a Devil Fruit! \ud83d\ude08",
+   "playing": 4,
+   "age_d": 231,
+   "like_pct": 96,
+   "universeId": 9947797452
+  },
+  "near": {
+   "name": "Devil Fruit Arena \ud83d\udca5",
+   "playing": 77,
+   "age_d": 115,
+   "like_pct": 97,
+   "universeId": 10544856124
+  }
+ },
+ {
+  "title": "Pirate Crew Mine",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Raise a Pirate Crew",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "+1 Bounty Per Kill",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\u2764\ufe0f +1 Heart Per Kill",
+   "playing": 405,
+   "age_d": 42,
+   "like_pct": 43,
+   "universeId": 10769069172
+  }
+ },
+ {
+  "title": "Throw an Anchor Far",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[UPD] Throw an Anchor \u2693",
+   "playing": 5,
+   "age_d": 41,
+   "like_pct": 82,
+   "universeId": 10769166113
+  },
+  "near": {
+   "name": "[UPD] Throw an Anchor \u2693",
+   "playing": 5,
+   "age_d": 41,
+   "like_pct": 82,
+   "universeId": 10769166113
+  }
+ },
+ {
+  "title": "+1 Ghoul Evolution",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "[\ud83d\udc79] +1 Ghoul Evolution",
+   "playing": 6806,
+   "age_d": 18,
+   "like_pct": 88,
+   "universeId": 10773097147
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31774,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Kagune Per Kill",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\u2764\ufe0f +1 Heart Per Kill",
+   "playing": 405,
+   "age_d": 42,
+   "like_pct": 43,
+   "universeId": 10769069172
+  }
+ },
+ {
+  "title": "Raise a Ghoul",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Raise The Biggest Family",
+   "playing": 25153,
+   "age_d": 31,
+   "like_pct": 73,
+   "universeId": 10770699460
+  }
+ },
+ {
+  "title": "Ghoul Mask Forge",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Roll a Kagune",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Roll A Gnome",
+   "playing": 78,
+   "age_d": 120,
+   "like_pct": 93,
+   "universeId": 10514280922
+  },
+  "near": {
+   "name": "Roll Army to Fight!",
+   "playing": 363,
+   "age_d": 81,
+   "like_pct": 86,
+   "universeId": 10759534802
+  }
+ },
+ {
+  "title": "+1 Shadow Army",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Shadow Army",
+   "playing": 204,
+   "age_d": 14,
+   "like_pct": 94,
+   "universeId": 10773842965
+  },
+  "near": {
+   "name": "+1 Shadow Army",
+   "playing": 204,
+   "age_d": 14,
+   "like_pct": 94,
+   "universeId": 10773842965
+  }
+ },
+ {
+  "title": "Arise Shadows",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Arise Shadows ",
+   "playing": 163,
+   "age_d": 46,
+   "like_pct": 86,
+   "universeId": 10768522184
+  },
+  "near": {
+   "name": "[LIMIT BREAK\ud83e\udd87] ARISE CROSSOVER",
+   "playing": 4208,
+   "age_d": 671,
+   "like_pct": 97,
+   "universeId": 7074860883
+  }
+ },
+ {
+  "title": "+1 Hunter Rank",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Hunter Era",
+   "playing": 5,
+   "age_d": 974,
+   "like_pct": 94,
+   "universeId": 5754877170
+  },
+  "near": null
+ },
+ {
+  "title": "Dungeon Gate Mine",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Roll a Hunter Rank",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83c\udf83] Roll A Hunter! \ud83e\udd86",
+   "playing": 0,
+   "age_d": 39,
+   "like_pct": 72,
+   "universeId": 10769537347
+  },
+  "near": {
+   "name": "[\ud83c\udf83] Roll A Hunter! \ud83e\udd86",
+   "playing": 0,
+   "age_d": 39,
+   "like_pct": 72,
+   "universeId": 10769537347
+  }
+ },
+ {
+  "title": "Shadow Dagger Forge",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Be an S-Rank Hunter",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "+1 Breathing Evolution",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Dino Evolution",
+   "playing": 289,
+   "age_d": 96,
+   "like_pct": 90,
+   "universeId": 10664667515
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31774,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "Nichirin Sword Forge",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\u2692\ufe0f] +1 Sword Forge",
+   "playing": 2166,
+   "age_d": 81,
+   "like_pct": 95,
+   "universeId": 10758912149
+  }
+ },
+ {
+  "title": "+1 Demon Per Kill",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\u2764\ufe0f +1 Heart Per Kill",
+   "playing": 405,
+   "age_d": 42,
+   "like_pct": 43,
+   "universeId": 10769069172
+  }
+ },
+ {
+  "title": "Raise a Demon Slayer",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Demon Slayer Morph Roleplay",
+   "playing": 362,
+   "age_d": 591,
+   "like_pct": 94,
+   "universeId": 7475154859
+  }
+ },
+ {
+  "title": "Roll a Breathing Style",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Cut a Demon Rock",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Cut a Rock",
+   "playing": 19806,
+   "age_d": 60,
+   "like_pct": 94,
+   "universeId": 10766468833
+  },
+  "near": {
+   "name": "Cut a Rock",
+   "playing": 19806,
+   "age_d": 60,
+   "like_pct": 94,
+   "universeId": 10766468833
+  }
+ },
+ {
+  "title": "+1 Titan Evolution",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "[\u26a1] +1 Titan Evolution! ",
+   "playing": 2133,
+   "age_d": 39,
+   "like_pct": 91,
+   "universeId": 10769541317
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31774,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Titan Size Per Kill",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Throw a Boulder",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Push a Boulder",
+   "playing": 5,
+   "age_d": 54,
+   "like_pct": 76,
+   "universeId": 10767247094
+  },
+  "near": {
+   "name": "Throw Food For Animals",
+   "playing": 456715,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  }
+ },
+ {
+  "title": "Raise a Titan",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Raise A Catboy",
+   "playing": 7732,
+   "age_d": 31,
+   "like_pct": 88,
+   "universeId": 10770707307
+  }
+ },
+ {
+  "title": "+1 Spirit Evolution",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 SCP Evolution",
+   "playing": 91,
+   "age_d": 63,
+   "like_pct": 89,
+   "universeId": 10766064142
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "Roll a Spirit Stand",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Roll a Spirit \ud83d\udc7b",
+   "playing": 14,
+   "age_d": 137,
+   "like_pct": 95,
+   "universeId": 10420596794
+  },
+  "near": {
+   "name": "Roll a Spirit \ud83d\udc7b",
+   "playing": 14,
+   "age_d": 137,
+   "like_pct": 95,
+   "universeId": 10420596794
+  }
+ },
+ {
+  "title": "My Spirit Mine",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "My Prison Mine \u26cf\ufe0f",
+   "playing": 0,
+   "age_d": 342,
+   "like_pct": 94,
+   "universeId": 9311475310
+  }
+ },
+ {
+  "title": "Spirit Fishing",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "BRO FISHING",
+   "playing": 1376,
+   "age_d": 35,
+   "like_pct": 86,
+   "universeId": 10769973437
+  },
+  "near": {
+   "name": "[UPD] Ice Fishing Simulator \ud83d\udc1f",
+   "playing": 9093,
+   "age_d": 1194,
+   "like_pct": 90,
+   "universeId": 4960950398
+  }
+ },
+ {
+  "title": "Throw an Arrow Get a Stand",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "+1 Eye Evolution",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Bee Evolution \ud83d\udc1d",
+   "playing": 885,
+   "age_d": 162,
+   "like_pct": 96,
+   "universeId": 10272178661
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31774,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "Roll an Anime Eye",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Roll an Anime [\ud83c\udfb2]",
+   "playing": 17,
+   "age_d": 226,
+   "like_pct": 98,
+   "universeId": 9974910633
+  },
+  "near": {
+   "name": "Roll an Anime [\ud83c\udfb2]",
+   "playing": 17,
+   "age_d": 226,
+   "like_pct": 98,
+   "universeId": 9974910633
+  }
+ },
+ {
+  "title": "Eye Power Forge",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Expand Your Domain",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "+1 Domain Expansion",
+   "playing": 285,
+   "age_d": 15,
+   "like_pct": 88,
+   "universeId": 10773773873
+  }
+ },
+ {
+  "title": "Roll a Domain",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Roll Army to Fight!",
+   "playing": 372,
+   "age_d": 81,
+   "like_pct": 86,
+   "universeId": 10759534802
+  }
+ },
+ {
+  "title": "Domain Mine",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Domain Size",
+   "playing": 14,
+   "age_d": 9,
+   "like_pct": 58,
+   "universeId": 10774644265
+  },
+  "near": {
+   "name": "+1 Mine Per Click \u26cf\ufe0f",
+   "playing": 1034,
+   "age_d": 181,
+   "like_pct": 94,
+   "universeId": 10178802449
+  }
+ },
+ {
+  "title": "+1 Quirk Evolution",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Age Evolution",
+   "playing": 5,
+   "age_d": 90,
+   "like_pct": 78,
+   "universeId": 10718212509
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "Roll a Quirk",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Roll to be Monster",
+   "playing": 211,
+   "age_d": 36,
+   "like_pct": 94,
+   "universeId": 10769866447
+  }
+ },
+ {
+  "title": "Be a Pro Hero Legend",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83c\udf83] Hero Legends",
+   "playing": 31,
+   "age_d": 388,
+   "like_pct": 91,
+   "universeId": 8997725599
+  },
+  "near": null
+ },
+ {
+  "title": "Raise a Hero Student",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Hero Academy Leveling",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "+1 Sword Release Evolution",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Sword Evolution\u2694\ufe0f",
+   "playing": 42,
+   "age_d": 196,
+   "like_pct": 99,
+   "universeId": 10109852223
+  },
+  "near": {
+   "name": "+1 Sword Evolution\u2694\ufe0f",
+   "playing": 42,
+   "age_d": 196,
+   "like_pct": 99,
+   "universeId": 10109852223
+  }
+ },
+ {
+  "title": "Soul Sword Forge",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\u2692\ufe0f] +1 Sword Forge",
+   "playing": 2166,
+   "age_d": 81,
+   "like_pct": 95,
+   "universeId": 10758912149
+  }
+ },
+ {
+  "title": "Roll a Zanpakuto",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\u2694\ufe0f BLEACH PT. 3] Roll Anime to Fight!",
+   "playing": 492,
+   "age_d": 157,
+   "like_pct": 97,
+   "universeId": 10298144467
+  }
+ },
+ {
+  "title": "+1 Reiatsu Per Kill",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\u2764\ufe0f +1 Heart Per Kill",
+   "playing": 427,
+   "age_d": 42,
+   "like_pct": 43,
+   "universeId": 10769069172
+  }
+ },
+ {
+  "title": "Be an Anime Soccer Legend",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17602,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  },
+  "near": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17602,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  }
+ },
+ {
+  "title": "Be an Anime Volleyball Legend",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "[UPD] Volleyball Legends",
+   "playing": 34290,
+   "age_d": 697,
+   "like_pct": 95,
+   "universeId": 6931042565
+  },
+  "near": null
+ },
+ {
+  "title": "Be an Anime Basketball Legend",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "[UPD]\ud83c\udfc0Basketball Legends\ud83c\udfc0",
+   "playing": 2282,
+   "age_d": 1202,
+   "like_pct": 86,
+   "universeId": 4931927012
+  },
+  "near": null
+ },
+ {
+  "title": "Anime Super Shot",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Anime Sword Forge",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Anime Sword Master",
+   "playing": 26,
+   "age_d": 610,
+   "like_pct": 98,
+   "universeId": 7371940034
+  },
+  "near": {
+   "name": "[\u2692\ufe0f] +1 Sword Forge",
+   "playing": 2152,
+   "age_d": 81,
+   "like_pct": 95,
+   "universeId": 10758912149
+  }
+ },
+ {
+  "title": "My Anime Farm",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "My Anime Farm ",
+   "playing": 0,
+   "age_d": 210,
+   "like_pct": 95,
+   "universeId": 10048164058
+  },
+  "near": {
+   "name": "\u26cf\ufe0f My Anime Mine",
+   "playing": 16192,
+   "age_d": 86,
+   "like_pct": 99,
+   "universeId": 10740316645
+  }
+ },
+ {
+  "title": "Anime Fishing Crew",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\ud83c\udfa3 Anime Fishing",
+   "playing": 7,
+   "age_d": 27,
+   "like_pct": 86,
+   "universeId": 10771634064
+  },
+  "near": {
+   "name": "Anime Girl Fishing",
+   "playing": 27,
+   "age_d": 77,
+   "like_pct": 64,
+   "universeId": 10764315058
+  }
+ },
+ {
+  "title": "Cut an Anime Crystal",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Throw Anime Kunai",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Throw Fruits For Anime",
+   "playing": 170,
+   "age_d": 6,
+   "like_pct": 61,
+   "universeId": 10775105961
+  }
+ },
+ {
+  "title": "Cursed Battlegrounds",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Curse Battlegrounds",
+   "playing": 1,
+   "age_d": 1203,
+   "like_pct": 71,
+   "universeId": 4928259417
+  },
+  "near": {
+   "name": "[HALLOWEEN] The Strongest Battlegrounds",
+   "playing": 57983,
+   "age_d": 1564,
+   "like_pct": 84,
+   "universeId": 3808081382
+  }
+ },
+ {
+  "title": "Ninja Battlegrounds",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\u26a1] Ninja Battlegrounds",
+   "playing": 308,
+   "age_d": 1058,
+   "like_pct": 96,
+   "universeId": 5426911953
+  },
+  "near": {
+   "name": "[HALLOWEEN] The Strongest Battlegrounds",
+   "playing": 57983,
+   "age_d": 1564,
+   "like_pct": 84,
+   "universeId": 3808081382
+  }
+ },
+ {
+  "title": "Ghoul Battlegrounds",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Chaos Battlegrounds",
+   "playing": 7524,
+   "age_d": 238,
+   "like_pct": 90,
+   "universeId": 9910794201
+  },
+  "near": {
+   "name": "[HALLOWEEN] The Strongest Battlegrounds",
+   "playing": 57983,
+   "age_d": 1564,
+   "like_pct": 84,
+   "universeId": 3808081382
+  }
+ },
+ {
+  "title": "Shadow Battlegrounds",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Chaos Battlegrounds",
+   "playing": 7524,
+   "age_d": 238,
+   "like_pct": 90,
+   "universeId": 9910794201
+  },
+  "near": {
+   "name": "[HALLOWEEN] The Strongest Battlegrounds",
+   "playing": 57983,
+   "age_d": 1564,
+   "like_pct": 84,
+   "universeId": 3808081382
+  }
+ },
+ {
+  "title": "Anime Boss Raid",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83d\udc79 BOSS] +1 Anime Eyes",
+   "playing": 5291,
+   "age_d": 30,
+   "like_pct": 96,
+   "universeId": 10770933473
+  }
+ },
+ {
+  "title": "Anime Arena Leveling",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Anime Ability Arena",
+   "playing": 7661,
+   "age_d": 140,
+   "like_pct": 88,
+   "universeId": 10399136326
+  }
+ },
+ {
+  "title": "+1 Monster Hunter Rank",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83c\udf0dW7] +1 Monster Hunter",
+   "playing": 242,
+   "age_d": 37,
+   "like_pct": 91,
+   "universeId": 10769813994
+  },
+  "near": {
+   "name": "[\ud83c\udf0dW7] +1 Monster Hunter",
+   "playing": 242,
+   "age_d": 37,
+   "like_pct": 91,
+   "universeId": 10769813994
+  }
+ },
+ {
+  "title": "Hunt Anime Bosses",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Fight Anime Bosses \u2694\ufe0f",
+   "playing": 3,
+   "age_d": 497,
+   "like_pct": 99,
+   "universeId": 8067966563
+  },
+  "near": {
+   "name": "Fight Anime Bosses \u2694\ufe0f",
+   "playing": 3,
+   "age_d": 497,
+   "like_pct": 99,
+   "universeId": 8067966563
+  }
+ },
+ {
+  "title": "Cut a Monster Core",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Raise a Monster Tamer",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "+1 Aura Evolution",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Aura Evolution",
+   "playing": 17,
+   "age_d": 63,
+   "like_pct": 88,
+   "universeId": 10766061942
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Speed Blur",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "+1 Speed Keyboard Escape | Candy & Chocolate",
+   "playing": 30229,
+   "age_d": 299,
+   "like_pct": 97,
+   "universeId": 9584852943
+  }
+ },
+ {
+  "title": "Charge Your Final Form",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "+1 Spirit Bomb Size",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\ud83d\udcaaSpirit Bomb Simulator",
+   "playing": 0,
+   "age_d": 875,
+   "like_pct": 98,
+   "universeId": 6153301575
+  },
+  "near": null
+ },
+ {
+  "title": "Anime Mech Forge",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[UPD] +1 Forge for Anime",
+   "playing": 50,
+   "age_d": 44,
+   "like_pct": 95,
+   "universeId": 10768785991
+  }
+ },
+ {
+  "title": "Raise an Anime Mech",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "+1 Mech Evolution",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Age Evolution",
+   "playing": 8,
+   "age_d": 90,
+   "like_pct": 78,
+   "universeId": 10718212509
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31750,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "Roll an Anime Weapon",
+  "parent": "r7",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\u2694\ufe0f BLEACH PT. 3] Roll Anime to Fight!",
+   "playing": 492,
+   "age_d": 157,
+   "like_pct": 97,
+   "universeId": 10298144467
+  }
+ }
+]
