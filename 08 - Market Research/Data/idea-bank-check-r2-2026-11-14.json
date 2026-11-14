@@ -1,0 +1,617 @@
+[
+ {
+  "title": "Ragdoll Down the Stairs",
+  "parent": "Hyper Realistic Ragdoll",
+  "type": "SETTING+incremental",
+  "loop": "Fall down endless stairs; damage = cash; upgrade the fall",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Hyper Realistic Ragdoll",
+   "playing": 144552,
+   "age_d": 16,
+   "like_pct": 89,
+   "universeId": 10773618503
+  }
+ },
+ {
+  "title": "Ragdoll Bowling",
+  "parent": "Ragdoll Soccer",
+  "type": "GRAFT sport",
+  "loop": "Bowl your ragdoll into pins; strikes earn",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Hyper Realistic Ragdoll",
+   "playing": 144552,
+   "age_d": 16,
+   "like_pct": 89,
+   "universeId": 10773618503
+  }
+ },
+ {
+  "title": "Ragdoll Golf",
+  "parent": "Ragdoll Soccer",
+  "type": "GRAFT sport",
+  "loop": "Golf-swing your own ragdoll across a course",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Hyper Realistic Ragdoll",
+   "playing": 144552,
+   "age_d": 16,
+   "like_pct": 89,
+   "universeId": 10773618503
+  }
+ },
+ {
+  "title": "Ragdoll Basketball",
+  "parent": "Ragdoll Soccer",
+  "type": "GRAFT sport",
+  "loop": "Throw ragdolls into hoops",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Ragdoll Football",
+   "playing": 702,
+   "age_d": 56,
+   "like_pct": 83,
+   "universeId": 10766921988
+  },
+  "near": {
+   "name": "Hyper Realistic Ragdoll",
+   "playing": 144552,
+   "age_d": 16,
+   "like_pct": 89,
+   "universeId": 10773618503
+  }
+ },
+ {
+  "title": "Ragdoll Dodgeball",
+  "parent": "Ragdoll Soccer",
+  "type": "GRAFT sport",
+  "loop": "Dodgeball with full ragdoll hits",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Prison Dodgeball",
+   "playing": 2660,
+   "age_d": 144,
+   "like_pct": 71,
+   "universeId": 10378493761
+  },
+  "near": {
+   "name": "Hyper Realistic Ragdoll",
+   "playing": 144552,
+   "age_d": 16,
+   "like_pct": 89,
+   "universeId": 10773618503
+  }
+ },
+ {
+  "title": "Fix the Ragdoll",
+  "parent": "Hyper Realistic Ragdoll",
+  "type": "INVERSION",
+  "loop": "Be the doctor: X-ray and fix broken ragdolls; hospital upgrades",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Hyper Realistic Ragdoll",
+   "playing": 144552,
+   "age_d": 16,
+   "like_pct": 89,
+   "universeId": 10773618503
+  }
+ },
+ {
+  "title": "Ragdoll Hospital",
+  "parent": "Hyper Realistic Ragdoll",
+  "type": "INVERSION",
+  "loop": "Patients arrive broken; heal them for cash",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Hyper Realistic Ragdoll",
+   "playing": 144552,
+   "age_d": 16,
+   "like_pct": 89,
+   "universeId": 10773618503
+  }
+ },
+ {
+  "title": "Crash Test Dummy",
+  "parent": "Hyper Realistic Ragdoll",
+  "type": "GRAFT tycoon",
+  "loop": "Crash dummies into walls; sell crash data; upgrade lab",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Ragdoll Stunt Show",
+  "parent": "Hyper Realistic Ragdoll",
+  "type": "GRAFT score",
+  "loop": "Launch for stunts; audience pays",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Ragdoll Sledding",
+  "parent": "Hyper Realistic Ragdoll",
+  "type": "SETTING+SEASON",
+  "loop": "Sled crashes down a mountain; bones = score",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Ragdoll Awakening",
+   "playing": 1216,
+   "age_d": 9,
+   "like_pct": 71,
+   "universeId": 10774741497
+  },
+  "near": {
+   "name": "Hyper Realistic Ragdoll",
+   "playing": 144874,
+   "age_d": 16,
+   "like_pct": 89,
+   "universeId": 10773618503
+  }
+ },
+ {
+  "title": "Ragdoll Snowboarding",
+  "parent": "Hyper Realistic Ragdoll",
+  "type": "SETTING+SEASON",
+  "loop": "Snowboard wipeouts",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Hyper Realistic Ragdoll",
+   "playing": 144552,
+   "age_d": 16,
+   "like_pct": 89,
+   "universeId": 10773618503
+  }
+ },
+ {
+  "title": "Ragdoll Cannon",
+  "parent": "Hyper Realistic Ragdoll",
+  "type": "TOOL",
+  "loop": "Fire yourself from a cannon; distance upgrades",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Hyper Realistic Ragdoll",
+   "playing": 144552,
+   "age_d": 16,
+   "like_pct": 89,
+   "universeId": 10773618503
+  }
+ },
+ {
+  "title": "Ragdoll Racing",
+  "parent": "Ragdoll Soccer",
+  "type": "GRAFT race",
+  "loop": "Tumble-race to the finish",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Hyper Realistic Ragdoll",
+   "playing": 144552,
+   "age_d": 16,
+   "like_pct": 89,
+   "universeId": 10773618503
+  }
+ },
+ {
+  "title": "Fight Your Ideas",
+  "parent": "Survive Your Ideas",
+  "type": "GRAFT PvP",
+  "loop": "Type a word; it becomes your fighter",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Survive Your Ideas",
+   "playing": 67581,
+   "age_d": 38,
+   "like_pct": 89,
+   "universeId": 10769671316
+  }
+ },
+ {
+  "title": "Guess Their Idea",
+  "parent": "Survive Your Ideas",
+  "type": "GRAFT party",
+  "loop": "One types, it spawns, others guess",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Type To Summon",
+  "parent": "Survive Your Ideas",
+  "type": "GRAFT collect",
+  "loop": "Type words to summon creatures; keep rares",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\u2728 NEW ZONES] Summon a Pet Army \ud83d\udc32",
+   "playing": 3015,
+   "age_d": 24,
+   "like_pct": 85,
+   "universeId": 10772133952
+  }
+ },
+ {
+  "title": "Build Against Ideas",
+  "parent": "Survive Your Ideas",
+  "type": "INVERSION",
+  "loop": "One player types a disaster, others build shelters to survive it",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Hide From Ideas",
+  "parent": "Survive Your Ideas",
+  "type": "GRAFT hide",
+  "loop": "Typed monsters hunt hiders",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83d\udc6e]Hide from Giant",
+   "playing": 70,
+   "age_d": 501,
+   "like_pct": 85,
+   "universeId": 8042767491
+  },
+  "near": {
+   "name": "Survive Your Ideas",
+   "playing": 67836,
+   "age_d": 38,
+   "like_pct": 89,
+   "universeId": 10769671316
+  }
+ },
+ {
+  "title": "Catch Bugs",
+  "parent": "Bug Evolution",
+  "type": "VERB",
+  "loop": "Catch bugs with a net; bug terrarium income",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\ud83d\udc1bCatch Bugs!",
+   "playing": 55,
+   "age_d": 285,
+   "like_pct": 97,
+   "universeId": 9663757076
+  },
+  "near": {
+   "name": "Catch Your Poke ",
+   "playing": 443,
+   "age_d": 27,
+   "like_pct": 92,
+   "universeId": 10771585086
+  }
+ },
+ {
+  "title": "Ant Colony Tycoon",
+  "parent": "Ant Evolution",
+  "type": "GRAFT tycoon",
+  "loop": "Grow an ant colony; ants gather for you",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Ant Colony Tycoon [ANT RUSH]",
+   "playing": 2,
+   "age_d": 27,
+   "like_pct": 55,
+   "universeId": 10771580430
+  },
+  "near": {
+   "name": "[TERMITES] Ant Colony Sim \ud83d\udc1c",
+   "playing": 72,
+   "age_d": 227,
+   "like_pct": 72,
+   "universeId": 9968770437
+  }
+ },
+ {
+  "title": "Steal a Bug",
+  "parent": "Steal An Egg / Bug wave",
+  "type": "REWARD",
+  "loop": "Steal rare bugs from other bases",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Steal a Bug",
+   "playing": 5,
+   "age_d": 38,
+   "like_pct": 74,
+   "universeId": 10769596597
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 967790,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "+1 Beetle Evolution",
+  "parent": "Bug Evolution",
+  "type": "NOUN",
+  "loop": "Evolve as a beetle",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Bee Evolution \ud83d\udc1d",
+   "playing": 946,
+   "age_d": 162,
+   "like_pct": 96,
+   "universeId": 10272178661
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31505,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "Can You Pass A Cooking Test?",
+  "parent": "Can You Pass A Driving Test?",
+  "type": "SETTING",
+  "loop": "Pass cooking tests; fail = chaos",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Can You Pass A Driving Test?",
+   "playing": 22870,
+   "age_d": 26,
+   "like_pct": 85,
+   "universeId": 10771680162
+  },
+  "near": {
+   "name": "Can You Pass A Driving Test?",
+   "playing": 22870,
+   "age_d": 26,
+   "like_pct": 85,
+   "universeId": 10771680162
+  }
+ },
+ {
+  "title": "Can You Pass A Flying Test?",
+  "parent": "Can You Pass A Driving Test?",
+  "type": "SETTING",
+  "loop": "Pass pilot tests",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Can You Pass A Driving Test?",
+   "playing": 22870,
+   "age_d": 26,
+   "like_pct": 85,
+   "universeId": 10771680162
+  },
+  "near": {
+   "name": "Can You Pass A Driving Test?",
+   "playing": 22870,
+   "age_d": 26,
+   "like_pct": 85,
+   "universeId": 10771680162
+  }
+ },
+ {
+  "title": "Can You Pass A Ninja Test?",
+  "parent": "Can You Pass A Driving Test?",
+  "type": "SETTING+ANIME",
+  "loop": "Pass anime ninja academy exams",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Can You Pass A Driving Test?",
+   "playing": 22870,
+   "age_d": 26,
+   "like_pct": 85,
+   "universeId": 10771680162
+  },
+  "near": {
+   "name": "Can You Pass A Driving Test?",
+   "playing": 22870,
+   "age_d": 26,
+   "like_pct": 85,
+   "universeId": 10771680162
+  }
+ },
+ {
+  "title": "Don't Fall Through the Ice",
+  "parent": "DONT SPLASH",
+  "type": "SETTING+SEASON",
+  "loop": "Cross cracking ice rooms; fall = out",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "DONT SLIP",
+  "parent": "DONT SPLASH",
+  "type": "SETTING",
+  "loop": "Icy rooms; slipping = out",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "DONT SLIP!",
+   "playing": 108,
+   "age_d": 20,
+   "like_pct": 80,
+   "universeId": 10772775779
+  },
+  "near": {
+   "name": "DONT SPLASH",
+   "playing": 49764,
+   "age_d": 28,
+   "like_pct": 86,
+   "universeId": 10771421858
+  }
+ },
+ {
+  "title": "Build a REAL Boat",
+  "parent": "Build a REAL House",
+  "type": "NOUN",
+  "loop": "Physics boat build; sail it",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Build A Boat",
+   "playing": 56,
+   "age_d": 472,
+   "like_pct": 97,
+   "universeId": 8292444771
+  },
+  "near": {
+   "name": "[UPD] Build a REAL House",
+   "playing": 25179,
+   "age_d": 23,
+   "like_pct": 76,
+   "universeId": 10772266488
+  }
+ },
+ {
+  "title": "Build a REAL Snowman",
+  "parent": "Build a REAL House",
+  "type": "NOUN+SEASON",
+  "loop": "Physics snowman building contest",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[UPD] Build a REAL House",
+   "playing": 25179,
+   "age_d": 23,
+   "like_pct": 76,
+   "universeId": 10772266488
+  }
+ },
+ {
+  "title": "Vacuum the Moon",
+  "parent": "Sweep The Moon",
+  "type": "VERB",
+  "loop": "Vacuum moon dust; rovers",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Sweep The Moon \ud83c\udf15",
+   "playing": 23390,
+   "age_d": 21,
+   "like_pct": 98,
+   "universeId": 10772543706
+  }
+ },
+ {
+  "title": "Mine the Moon",
+  "parent": "Sweep The Moon",
+  "type": "VERB",
+  "loop": "Mine moon rock; space gems",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Sweep The Moon \ud83c\udf15",
+   "playing": 23390,
+   "age_d": 21,
+   "like_pct": 98,
+   "universeId": 10772543706
+  }
+ },
+ {
+  "title": "Spear a Fish",
+  "parent": "Harpoon a Fish",
+  "type": "TOOL",
+  "loop": "Dive and spearfish",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83e\udd96] Harpoon a Fish",
+   "playing": 14312,
+   "age_d": 77,
+   "like_pct": 97,
+   "universeId": 10764240948
+  }
+ },
+ {
+  "title": "Stop the Avalanche",
+  "parent": "Stop The Tsunami!",
+  "type": "SETTING",
+  "loop": "Wall up vs an avalanche",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Stop The Tsunami!",
+   "playing": 26920,
+   "age_d": 33,
+   "like_pct": 78,
+   "universeId": 10770463307
+  }
+ },
+ {
+  "title": "Squish a Squishy",
+  "parent": "Stack A Butter Squishy",
+  "type": "VERB",
+  "loop": "Squeeze squishies; rare ones pop out",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\u23f3 12H] \ud83e\uddc8 Stack A Butter Squishy [ASMR]",
+   "playing": 13965,
+   "age_d": 100,
+   "like_pct": 89,
+   "universeId": 10638886777
+  }
+ },
+ {
+  "title": "Sled for Cases",
+  "parent": "Jump for Cases",
+  "type": "VERB+SEASON",
+  "loop": "Sled down, grab cases, open",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Jump for Cases\ud83c\udfb2",
+   "playing": 14109,
+   "age_d": 52,
+   "like_pct": 96,
+   "universeId": 10767621216
+  }
+ },
+ {
+  "title": "Cozy Lucky Cocoa Order",
+  "parent": "Cozy Lucky Scoop Order",
+  "type": "NOUN+SEASON",
+  "loop": "Make cocoa orders; lucky toppings",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "\ud83c\udf66Cozy Lucky Scoop Order",
+   "playing": 13162,
+   "age_d": 25,
+   "like_pct": 90,
+   "universeId": 10771928551
+  },
+  "near": {
+   "name": "\ud83c\udf66Cozy Lucky Scoop Order",
+   "playing": 13162,
+   "age_d": 25,
+   "like_pct": 90,
+   "universeId": 10771928551
+  }
+ },
+ {
+  "title": "+1 Aura Glow Up",
+  "parent": "+1 Glow Up Evolution",
+  "type": "FANTASY+ANIME",
+  "loop": "Glow-up evolution with anime auras",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Aura Phonk Jump",
+   "playing": 271,
+   "age_d": 64,
+   "like_pct": 96,
+   "universeId": 10765902427
+  },
+  "near": {
+   "name": "+1 Glow Up Evolution",
+   "playing": 10374,
+   "age_d": 24,
+   "like_pct": 75,
+   "universeId": 10772200970
+  }
+ }
+]
