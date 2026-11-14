@@ -67,10 +67,14 @@ Every call gets checked against what happened. Use the hit rate to weight future
 | 2026-10-31 | **Sled For Eggs** demoted: the egg wave is too old | 2026-11-14 | For-Eggs copies halved (Bike 46K → 21K, Climb 46K → 20K) | ✅ |
 | 2026-10-31 | **Noun-swap copies die** (rule 6) | 2026-11-14 | Net a Fish 33K vs Net to Catch Fish 1; Throw a Seed 17K vs Throw A Seed copy 425 | ✅ |
 | 2026-10-31 | **Roll a Snowball**: December timing bet | 2026-11-14 | Still empty; two early-Nov snowball launches flopped (Biggest Snowball 29, 33% likes; Sled Riders 35) | ⏳ Pending: judge after a Dec launch |
+| 2026-11-14 | **Hatch Animals That Fish**: "open lane" | 2026-11-14 | A cross-check found Fish It (66K) already has pets that auto-catch fish as a perk | ❌ Missed: only titles and descriptions were checked |
 
 **New rule from the track record (rule 18):** only ride a wave whose originator is **still growing and ≥20K**. Waves led by a 5–10K originator die fast (Punch to Escape went from 7K to 700 in 14 days). A verb swap on a strong, rising parent can beat the parent (Sweep The Moon > Clean the Moon; Throw Food For Animals > every egg clone).
+
+**Rule 19 (from the Fish It miss):** before calling a lane open, check the **mechanics inside the top 3 games in the genre** (wiki or pets page), not just titles and descriptions. A big game often already has your idea as a side feature.
 
 ## Change log
 - 2026-10-31: first version, built from [[Live Pattern Report 2026-10-31]] (1,336 games), [[Growth Curves and Timing]] (345 CCU histories), [[Idea Ledger Round 1]] (105 ideas), [[Roblox Discovery Algorithm]] (34 sources) and a manual spot-check of "for eggs" and "fake a" searches. It overturned the earlier snippet-based [[Simple Action Loops Scorecard]], demoting Hatch a Kaiju and correcting My Anime Mine from a flop to a hit.
 - 2026-10-31: [[Idea Ledger Round 2 - Young Waves]] confirmed rules 4 and 6. Noun-swap and chained-title copies launched in the last 2 weeks sit at 12–186 CCU (Fake a Pet, Sell Popcorn, Ride and Steal a Pet).
 - 2026-11-14: added the prediction track record and rule 18 (only ride growing ≥20K originators), based on a 2-week chart diff (`Data/charts-2026-11-14-0811.json` vs `charts-2026-10-31-0854.json`).
+- 2026-11-14: rule 19 added after the Hatch Animals That Fish miss (Fish It's auto-catch pets).

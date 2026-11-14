@@ -11,7 +11,14 @@ status: draft
 
 All data is live from `tools/roblox_intel.py` and the RoWatcher history API on 2026-11-14 (Saturday). Raw data: `Data/sweep-fishing-2026-11-14.json` (325 games).
 
-## Verdict
+
+> [!warning] Correction (2026-11-14, same day), after a cross-check against another session
+> - **The lane is not open.** *Fish It* (about 66K CCU) already has hatch-from-egg pets that fish for you as a **side perk**: its Legendary pets (Capybara, Polar Bear, Red Panda; 8% hatch) auto-catch one fish every 65 s, and Starbound Pup "fishes alongside you" ([Fish It pets wiki](https://bloxodes.com/wiki/fish-it/pets), updated Oct 21). The core loop is still player fishing. **This note missed it** because it checked titles and descriptions, not the mechanics inside the top games.
+> - **Egg- and pet-titled games are falling** (the other session's scraper: egg −45%, pets −64%, Oct 15 → Nov 13). Those "hatch fish from eggs" games are a reskin graveyard (Ride A Fish went 3,310 → 6).
+> - **Fishing demand is *not* collapsing**, checked on the same two days with RoWatcher daily peaks: the top established fishing games are **−4%** (188.9K → 181.7K); **including Net a Fish! (0 → 41K) they're +18%**. The other session's −31% comes from title-matching 191 games, which counts many dying micro-clones.
+> - **Revised verdict: possible, but riskier than stated below.** The demand is there; the lane is only *partly* open. It needs pets-as-the-entire-workforce to be instantly distinguishable from Fish It's perk, and it must not look like an egg + fish reskin. Downgraded from "one of the stronger lanes".
+
+## Verdict (original, see the correction above)
 **Yes, it can succeed. It's one of the stronger lanes found so far,** because three things line up that rarely do:
 1. **The genre is huge and evergreen**, not a wave that will close.
 2. **The exact concept is unclaimed.**
