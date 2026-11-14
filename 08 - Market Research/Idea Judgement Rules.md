@@ -57,6 +57,20 @@ flowchart LR
 ```
 The engine is the asset. Each title is a cheap bet on a live wave, so a flop costs days, not months.
 
+## Prediction track record
+Every call gets checked against what happened. Use the hit rate to weight future calls.
+
+| Date called | Call | Checked | Outcome | Verdict |
+|---|---|---|---|---|
+| 2026-10-31 | **Polish/Mine the Moon**: open lane, verb swap on Clean the Moon (6.6K, 19d) | 2026-11-14 | Someone shipped **Sweep The Moon**: 21.7K at 21d, 98% likes, beating Clean the Moon (now 4.9K) | ✅ Lane was real (we didn't build it) |
+| 2026-10-31 | **Kick to Escape**: ride Punch to Escape (7K, 14d) | 2026-11-14 | Punch to Escape **collapsed to 700**; no Kick version exists | ✅ Glad we didn't build. ❌ The call was wrong: the wave was weak |
+| 2026-10-31 | **Sled For Eggs** demoted: the egg wave is too old | 2026-11-14 | For-Eggs copies halved (Bike 46K → 21K, Climb 46K → 20K) | ✅ |
+| 2026-10-31 | **Noun-swap copies die** (rule 6) | 2026-11-14 | Net a Fish 33K vs Net to Catch Fish 1; Throw a Seed 17K vs Throw A Seed copy 425 | ✅ |
+| 2026-10-31 | **Roll a Snowball**: December timing bet | 2026-11-14 | Still empty; two early-Nov snowball launches flopped (Biggest Snowball 29, 33% likes; Sled Riders 35) | ⏳ Pending: judge after a Dec launch |
+
+**New rule from the track record (rule 18):** only ride a wave whose originator is **still growing and ≥20K**. Waves led by a 5–10K originator die fast (Punch to Escape went from 7K to 700 in 14 days). A verb swap on a strong, rising parent can beat the parent (Sweep The Moon > Clean the Moon; Throw Food For Animals > every egg clone).
+
 ## Change log
 - 2026-10-31: first version, built from [[Live Pattern Report 2026-10-31]] (1,336 games), [[Growth Curves and Timing]] (345 CCU histories), [[Idea Ledger Round 1]] (105 ideas), [[Roblox Discovery Algorithm]] (34 sources) and a manual spot-check of "for eggs" and "fake a" searches. It overturned the earlier snippet-based [[Simple Action Loops Scorecard]], demoting Hatch a Kaiju and correcting My Anime Mine from a flop to a hit.
 - 2026-10-31: [[Idea Ledger Round 2 - Young Waves]] confirmed rules 4 and 6. Noun-swap and chained-title copies launched in the last 2 weeks sit at 12–186 CCU (Fake a Pet, Sell Popcorn, Ride and Steal a Pet).
+- 2026-11-14: added the prediction track record and rule 18 (only ride growing ≥20K originators), based on a 2-week chart diff (`Data/charts-2026-11-14-0811.json` vs `charts-2026-10-31-0854.json`).
