@@ -1,0 +1,1688 @@
+[
+ {
+  "title": "Cast a Hook",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83d\udea8UPD] Cast a Magnet",
+   "playing": 6801,
+   "age_d": 35,
+   "like_pct": 86,
+   "universeId": 10770026560
+  }
+ },
+ {
+  "title": "Throw a Spear",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Throw a Seed",
+   "playing": 16131,
+   "age_d": 6,
+   "like_pct": 96,
+   "universeId": 10775182046
+  },
+  "near": {
+   "name": "Throw Food For Animals",
+   "playing": 455287,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  }
+ },
+ {
+  "title": "Throw a Dart",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Throw a Dart \ud83c\udfaf",
+   "playing": 227,
+   "age_d": 28,
+   "like_pct": 74,
+   "universeId": 10771405632
+  },
+  "near": {
+   "name": "Throw a Seed",
+   "playing": 16280,
+   "age_d": 6,
+   "like_pct": 96,
+   "universeId": 10775182046
+  }
+ },
+ {
+  "title": "Throw a Shuriken",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Throw a Seed",
+   "playing": 16131,
+   "age_d": 6,
+   "like_pct": 96,
+   "universeId": 10775182046
+  }
+ },
+ {
+  "title": "Throw a Net",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Throw a Seed",
+   "playing": 16131,
+   "age_d": 6,
+   "like_pct": 96,
+   "universeId": 10775182046
+  },
+  "near": {
+   "name": "Throw Food For Animals",
+   "playing": 455287,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  }
+ },
+ {
+  "title": "Cast a Spell Far",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Launch a Harpoon",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83e\udd96] Harpoon a Fish",
+   "playing": 14196,
+   "age_d": 77,
+   "like_pct": 97,
+   "universeId": 10764240948
+  }
+ },
+ {
+  "title": "Throw a Rock",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Throw Food For Animals",
+   "playing": 455287,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  }
+ },
+ {
+  "title": "Throw a Snowball Far",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Throw A Football",
+   "playing": 125,
+   "age_d": 48,
+   "like_pct": 94,
+   "universeId": 10768235926
+  },
+  "near": null
+ },
+ {
+  "title": "Throw a Trident",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Throw Food For Animals",
+   "playing": 454042,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  }
+ },
+ {
+  "title": "Throw an Axe",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Throw An Axe",
+   "playing": 36,
+   "age_d": 38,
+   "like_pct": 96,
+   "universeId": 10769685595
+  },
+  "near": {
+   "name": "Throw Food For Animals",
+   "playing": 455287,
+   "age_d": 56,
+   "like_pct": 94,
+   "universeId": 10766972131
+  }
+ },
+ {
+  "title": "Toss a Coin Far",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Slingshot a Rock",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Slingshot A Car!",
+   "playing": 2,
+   "age_d": 38,
+   "like_pct": 88,
+   "universeId": 10769674561
+  },
+  "near": {
+   "name": "Cut a Rock",
+   "playing": 19774,
+   "age_d": 60,
+   "like_pct": 94,
+   "universeId": 10766468833
+  }
+ },
+ {
+  "title": "Fire an Arrow Far",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Cut a Crystal",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Steal A Crystal",
+   "playing": 3,
+   "age_d": 41,
+   "like_pct": 92,
+   "universeId": 10769258922
+  },
+  "near": {
+   "name": "Cut a Rock",
+   "playing": 19774,
+   "age_d": 60,
+   "like_pct": 94,
+   "universeId": 10766468833
+  }
+ },
+ {
+  "title": "Cut a Gem",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83d\udd25UPD] Cut a Gem",
+   "playing": 16,
+   "age_d": 174,
+   "like_pct": 97,
+   "universeId": 10210301177
+  },
+  "near": {
+   "name": "Cut a Rock",
+   "playing": 19774,
+   "age_d": 60,
+   "like_pct": 94,
+   "universeId": 10766468833
+  }
+ },
+ {
+  "title": "Cut a Log",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Cut a Rock",
+   "playing": 19774,
+   "age_d": 60,
+   "like_pct": 94,
+   "universeId": 10766468833
+  },
+  "near": {
+   "name": "Cut a Rock",
+   "playing": 19774,
+   "age_d": 60,
+   "like_pct": 94,
+   "universeId": 10766468833
+  }
+ },
+ {
+  "title": "Cut Open a Meteor",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Break a Geode",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\ud83c\udfb2 Break a Geode! [RNG]",
+   "playing": 0,
+   "age_d": 114,
+   "like_pct": 67,
+   "universeId": 10550185575
+  },
+  "near": {
+   "name": "Break and Steal an Egg",
+   "playing": 84220,
+   "age_d": 69,
+   "like_pct": 97,
+   "universeId": 10765288803
+  }
+ },
+ {
+  "title": "Slice a Fruit",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[NEW] Slice A Fruit \ud83c\udf49",
+   "playing": 0,
+   "age_d": 111,
+   "like_pct": 58,
+   "universeId": 10563956112
+  },
+  "near": {
+   "name": "[\ud83e\udebdUPD] Slice A Dummy!",
+   "playing": 1865,
+   "age_d": 61,
+   "like_pct": 92,
+   "universeId": 10766323637
+  }
+ },
+ {
+  "title": "Crack a Safe",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83c\udf30UPD] Crack THE Chestnuts",
+   "playing": 754,
+   "age_d": 39,
+   "like_pct": 93,
+   "universeId": 10769482388
+  }
+ },
+ {
+  "title": "Chop a Giant Tree",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Chop a GIANT Tree!",
+   "playing": 140,
+   "age_d": 26,
+   "like_pct": 83,
+   "universeId": 10771706392
+  },
+  "near": {
+   "name": "\ud83c\udf34 Chop Your Tree",
+   "playing": 346,
+   "age_d": 356,
+   "like_pct": 97,
+   "universeId": 9228045253
+  }
+ },
+ {
+  "title": "+1 Fruit Evolution",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Fruit Evolution ",
+   "playing": 97,
+   "age_d": 8,
+   "like_pct": 85,
+   "universeId": 10774804867
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Sword Evolution",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Sword Evolution",
+   "playing": 1,
+   "age_d": 123,
+   "like_pct": 82,
+   "universeId": 10497081500
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Car Evolution",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Car Evolution",
+   "playing": 16,
+   "age_d": 206,
+   "like_pct": 95,
+   "universeId": 10067150408
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Plane Evolution",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Clone Evolution",
+   "playing": 170,
+   "age_d": 81,
+   "like_pct": 94,
+   "universeId": 10760163096
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31643,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Knight Evolution",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Thor Evolution",
+   "playing": 26,
+   "age_d": 8,
+   "like_pct": 90,
+   "universeId": 10774802509
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Samurai Evolution",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Super Saiyan Evolution",
+   "playing": 147,
+   "age_d": 76,
+   "like_pct": 95,
+   "universeId": 10764394691
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31643,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Insect Evolution",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Ant Evolution \ud83d\udc1c",
+   "playing": 39,
+   "age_d": 43,
+   "like_pct": 83,
+   "universeId": 10768844188
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31643,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Fish Evolution",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Fish Evolution \ud83d\udc1f",
+   "playing": 0,
+   "age_d": 29,
+   "like_pct": 40,
+   "universeId": 10771090936
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31735,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Tree Evolution",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Bee Evolution \ud83d\udc1d",
+   "playing": 903,
+   "age_d": 162,
+   "like_pct": 96,
+   "universeId": 10272178661
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31643,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Snowman Evolution",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Dino Evolution",
+   "playing": 294,
+   "age_d": 96,
+   "like_pct": 90,
+   "universeId": 10664667515
+  },
+  "near": {
+   "name": "[\u2694\ufe0fW2] +1 Sukuna Evolution",
+   "playing": 20677,
+   "age_d": 16,
+   "like_pct": 84,
+   "universeId": 10773574214
+  }
+ },
+ {
+  "title": "+1 Toy Evolution",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Dino Evolution",
+   "playing": 294,
+   "age_d": 96,
+   "like_pct": 90,
+   "universeId": 10664667515
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31643,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Food Evolution",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Fat Evolution",
+   "playing": 12,
+   "age_d": 16,
+   "like_pct": 60,
+   "universeId": 10773570387
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31643,
+   "age_d": 40,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Sword Forge",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "[\u2692\ufe0f] +1 Sword Forge",
+   "playing": 2160,
+   "age_d": 81,
+   "like_pct": 95,
+   "universeId": 10758912149
+  },
+  "near": {
+   "name": "+1 Gun Forge",
+   "playing": 9062,
+   "age_d": 56,
+   "like_pct": 95,
+   "universeId": 10766957927
+  }
+ },
+ {
+  "title": "+1 Armor Forge",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83c\udf20UPD3] +1 Bow Forge",
+   "playing": 5242,
+   "age_d": 33,
+   "like_pct": 96,
+   "universeId": 10770433673
+  }
+ },
+ {
+  "title": "+1 Axe Forge",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "+1 Gun Forge",
+   "playing": 9062,
+   "age_d": 56,
+   "like_pct": 95,
+   "universeId": 10766957927
+  },
+  "near": {
+   "name": "+1 Gun Forge",
+   "playing": 9062,
+   "age_d": 56,
+   "like_pct": 95,
+   "universeId": 10766957927
+  }
+ },
+ {
+  "title": "+1 Bow Forge",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "[\ud83c\udf20UPD3] +1 Bow Forge",
+   "playing": 5244,
+   "age_d": 33,
+   "like_pct": 96,
+   "universeId": 10770433673
+  },
+  "near": {
+   "name": "+1 Gun Forge",
+   "playing": 9078,
+   "age_d": 56,
+   "like_pct": 95,
+   "universeId": 10766957927
+  }
+ },
+ {
+  "title": "+1 Hammer Forge",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Homerun Forge",
+   "playing": 818,
+   "age_d": 26,
+   "like_pct": 91,
+   "universeId": 10771687203
+  },
+  "near": {
+   "name": "[\ud83c\udf20UPD3] +1 Bow Forge",
+   "playing": 5242,
+   "age_d": 33,
+   "like_pct": 96,
+   "universeId": 10770433673
+  }
+ },
+ {
+  "title": "+1 Rocket Forge",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83c\udf20UPD3] +1 Bow Forge",
+   "playing": 5244,
+   "age_d": 33,
+   "like_pct": 96,
+   "universeId": 10770433673
+  }
+ },
+ {
+  "title": "+1 Magic Wand Forge",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "+1 Shield Forge",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "+1 Gun Forge",
+   "playing": 9062,
+   "age_d": 56,
+   "like_pct": 95,
+   "universeId": 10766957927
+  }
+ },
+ {
+  "title": "+1 Dig Deeper for Treasure",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": " Dig DEEPER for Treasure!",
+   "playing": 46,
+   "age_d": 67,
+   "like_pct": 90,
+   "universeId": 10765647854
+  },
+  "near": {
+   "name": "[WORLD 2] +1 Dig for Treasure",
+   "playing": 501,
+   "age_d": 122,
+   "like_pct": 97,
+   "universeId": 10502680202
+  }
+ },
+ {
+  "title": "+1 Dive Deeper for Treasure",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": " Dig DEEPER for Treasure!",
+   "playing": 46,
+   "age_d": 67,
+   "like_pct": 90,
+   "universeId": 10765647854
+  },
+  "near": {
+   "name": "[UPD] +1 Dive For Treasure",
+   "playing": 17,
+   "age_d": 33,
+   "like_pct": 79,
+   "universeId": 10770469792
+  }
+ },
+ {
+  "title": "+1 Melt Ice for Treasure",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Melt Ice for Treasure \ud83d\udd25",
+   "playing": 0,
+   "age_d": 50,
+   "like_pct": 77,
+   "universeId": 10767927948
+  },
+  "near": {
+   "name": "[UPD] +1 Melt Ice for Dinos!",
+   "playing": 1173,
+   "age_d": 62,
+   "like_pct": 99,
+   "universeId": 10766176458
+  }
+ },
+ {
+  "title": "+1 Burn Wood for Treasure",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Laser for Treasure",
+   "playing": 440,
+   "age_d": 28,
+   "like_pct": 63,
+   "universeId": 10771338259
+  },
+  "near": null
+ },
+ {
+  "title": "+1 Drain Lava for Treasure",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "[W4] +1 Drain Water for Treasure",
+   "playing": 6064,
+   "age_d": 25,
+   "like_pct": 98,
+   "universeId": 10772048283
+  },
+  "near": {
+   "name": "[W4] +1 Drain Water for Treasure",
+   "playing": 6064,
+   "age_d": 25,
+   "like_pct": 98,
+   "universeId": 10772048283
+  }
+ },
+ {
+  "title": "+1 Break Walls for Treasure",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Break Tape for Treasure",
+   "playing": 35,
+   "age_d": 105,
+   "like_pct": 85,
+   "universeId": 10603102418
+  },
+  "near": {
+   "name": "\ud83d\udcaa +1 Muscle to Break Walls",
+   "playing": 1750,
+   "age_d": 186,
+   "like_pct": 97,
+   "universeId": 10152905521
+  }
+ },
+ {
+  "title": "Raise a Baby Dragon",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Raise the Biggest Army",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Raise The Biggest Family",
+   "playing": 25188,
+   "age_d": 31,
+   "like_pct": 73,
+   "universeId": 10770699460
+  },
+  "near": {
+   "name": "Raise The Biggest Family",
+   "playing": 25188,
+   "age_d": 31,
+   "like_pct": 73,
+   "universeId": 10770699460
+  }
+ },
+ {
+  "title": "Raise a Monster",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Paint a Monster",
+   "playing": 381,
+   "age_d": 24,
+   "like_pct": 77,
+   "universeId": 10772086287
+  },
+  "near": {
+   "name": "Monster Maker",
+   "playing": 4586,
+   "age_d": 22,
+   "like_pct": 95,
+   "universeId": 10772440379
+  }
+ },
+ {
+  "title": "Raise a Superhero",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Build a Superhero",
+   "playing": 610,
+   "age_d": 16,
+   "like_pct": 89,
+   "universeId": 10773610400
+  },
+  "near": {
+   "name": "Superhero Universe",
+   "playing": 2676,
+   "age_d": 17,
+   "like_pct": 79,
+   "universeId": 10773433264
+  }
+ },
+ {
+  "title": "Raise a Ninja",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Train to be a Ninja!",
+   "playing": 0,
+   "age_d": 17,
+   "like_pct": 67,
+   "universeId": 10773393293
+  },
+  "near": {
+   "name": "Be Ninja to Steal Eggs \ud83e\udd77",
+   "playing": 1863,
+   "age_d": 37,
+   "like_pct": 85,
+   "universeId": 10769735991
+  }
+ },
+ {
+  "title": "Raise a Robot",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[2v2] Ragdoll Robot Boxing",
+   "playing": 1161,
+   "age_d": 25,
+   "like_pct": 85,
+   "universeId": 10772027067
+  }
+ },
+ {
+  "title": "Raise a Yeti",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Raise The Biggest Family",
+   "playing": 25188,
+   "age_d": 31,
+   "like_pct": 73,
+   "universeId": 10770699460
+  }
+ },
+ {
+  "title": "Raise the Strongest Kid",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Be a Basketball Legend",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\ud83c\udfc0 Be a Basketball Legend",
+   "playing": 3,
+   "age_d": 6,
+   "like_pct": 52,
+   "universeId": 10775194814
+  },
+  "near": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17460,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  }
+ },
+ {
+  "title": "Be a Football Legend",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17460,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  }
+ },
+ {
+  "title": "Be a Baseball Legend",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17550,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  }
+ },
+ {
+  "title": "Be a Hockey Legend",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\ud83c\udfd2Hockey Legends\ud83c\udfd2",
+   "playing": 48,
+   "age_d": 985,
+   "like_pct": 75,
+   "universeId": 5717515541
+  },
+  "near": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17460,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  }
+ },
+ {
+  "title": "Be a Tennis Legend",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17550,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  }
+ },
+ {
+  "title": "Be a Golf Legend",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17460,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  },
+  "near": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17460,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  }
+ },
+ {
+  "title": "Be a Boxing Legend",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17550,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  }
+ },
+ {
+  "title": "Be a Racing Legend",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17460,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  }
+ },
+ {
+  "title": "Build a Plane to Fly Far",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Build a Boat to Sail Far",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Build a Rocket to Go High",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Build A Rocket!",
+   "playing": 12,
+   "age_d": 30,
+   "like_pct": 80,
+   "universeId": 10770912954
+  },
+  "near": null
+ },
+ {
+  "title": "Build a Sled to Go Far",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[UPD \u2708\ufe0f] Build a Car to Go Far",
+   "playing": 9061,
+   "age_d": 66,
+   "like_pct": 83,
+   "universeId": 10765718479
+  }
+ },
+ {
+  "title": "Build a Kart to Go Far",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "[UPD \u2708\ufe0f] Build a Car to Go Far",
+   "playing": 9076,
+   "age_d": 66,
+   "like_pct": 83,
+   "universeId": 10765718479
+  },
+  "near": {
+   "name": "[UPD \u2708\ufe0f] Build a Car to Go Far",
+   "playing": 9076,
+   "age_d": 66,
+   "like_pct": 83,
+   "universeId": 10765718479
+  }
+ },
+ {
+  "title": "Build a Glider to Fly Far",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Build a Submarine to Go Deep",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Build a Train to Go Far",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Build A Train To Survive \ud83d\ude82",
+   "playing": 19,
+   "age_d": 123,
+   "like_pct": 21,
+   "universeId": 10500116818
+  },
+  "near": {
+   "name": "[UPD \u2708\ufe0f] Build a Car to Go Far",
+   "playing": 9076,
+   "age_d": 66,
+   "like_pct": 83,
+   "universeId": 10765718479
+  }
+ },
+ {
+  "title": "Roll an Army",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\ud83c\udfadRoll An Army!",
+   "playing": 450,
+   "age_d": 122,
+   "like_pct": 98,
+   "universeId": 10504837200
+  },
+  "near": {
+   "name": "Grow Your Army",
+   "playing": 1073,
+   "age_d": 34,
+   "like_pct": 86,
+   "universeId": 10770192373
+  }
+ },
+ {
+  "title": "Roll a Team",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[EVENT] \ud83c\udfc0Roll A Basketball Team",
+   "playing": 30,
+   "age_d": 87,
+   "like_pct": 77,
+   "universeId": 10735699263
+  }
+ },
+ {
+  "title": "Roll a Fighter",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\u2694\ufe0f] Roll A Fighter",
+   "playing": 0,
+   "age_d": 107,
+   "like_pct": 94,
+   "universeId": 10596284801
+  },
+  "near": {
+   "name": "Create a Robot Fighter",
+   "playing": 814,
+   "age_d": 49,
+   "like_pct": 84,
+   "universeId": 10768003706
+  }
+ },
+ {
+  "title": "Roll a Samurai",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Train a Samurai",
+   "playing": 4,
+   "age_d": 49,
+   "like_pct": 85,
+   "universeId": 10768081813
+  },
+  "near": {
+   "name": "[\ud83c\udf89UPD 3] Roll A Stickman!",
+   "playing": 5487,
+   "age_d": 64,
+   "like_pct": 96,
+   "universeId": 10765938934
+  }
+ },
+ {
+  "title": "Roll an Anime Fighter",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Train an Anime Fighter",
+   "playing": 0,
+   "age_d": 53,
+   "like_pct": 76,
+   "universeId": 10767540072
+  },
+  "near": {
+   "name": "[\u2694\ufe0f BLEACH PT. 3] Roll Anime to Fight!",
+   "playing": 494,
+   "age_d": 157,
+   "like_pct": 97,
+   "universeId": 10298144467
+  }
+ },
+ {
+  "title": "Roll a Knight",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Steal A Knight",
+   "playing": 6,
+   "age_d": 17,
+   "like_pct": 80,
+   "universeId": 10773259375
+  },
+  "near": {
+   "name": "Roll Army to Fight!",
+   "playing": 362,
+   "age_d": 81,
+   "like_pct": 86,
+   "universeId": 10759534802
+  }
+ },
+ {
+  "title": "Roll a Wizard",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Wizard West",
+   "playing": 218,
+   "age_d": 926,
+   "like_pct": 90,
+   "universeId": 5939817752
+  }
+ },
+ {
+  "title": "Roll a Squad",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Build a Football Squad",
+   "playing": 246,
+   "age_d": 152,
+   "like_pct": 78,
+   "universeId": 10331015398
+  }
+ },
+ {
+  "title": "Jujutsu Fishing",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83c\udf83] Jujutsu Shenanigans",
+   "playing": 81173,
+   "age_d": 1672,
+   "like_pct": 86,
+   "universeId": 3508322461
+  }
+ },
+ {
+  "title": "Anime Fruit Evolution",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[2X] Anime Fruit Evolution",
+   "playing": 63,
+   "age_d": 6,
+   "like_pct": 83,
+   "universeId": 10775108529
+  },
+  "near": {
+   "name": "+1 Power Fruit Evolution",
+   "playing": 13756,
+   "age_d": 51,
+   "like_pct": 97,
+   "universeId": 10767749891
+  }
+ },
+ {
+  "title": "+1 Cursed Energy",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83c\udf0dUPDATE 1] +1 Cursed Energy Evolution",
+   "playing": 13,
+   "age_d": 14,
+   "like_pct": 71,
+   "universeId": 10773857376
+  }
+ },
+ {
+  "title": "Throw a Cursed Spear",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Cut a Cursed Rock",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Cut a Rock",
+   "playing": 19862,
+   "age_d": 60,
+   "like_pct": 94,
+   "universeId": 10766468833
+  },
+  "near": {
+   "name": "Cut a Rock",
+   "playing": 19862,
+   "age_d": 60,
+   "like_pct": 94,
+   "universeId": 10766468833
+  }
+ },
+ {
+  "title": "Raise an Anime Hero",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Be a Shinobi Legend",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\u26bd Be a Soccer Legend",
+   "playing": 17550,
+   "age_d": 32,
+   "like_pct": 96,
+   "universeId": 10770566869
+  }
+ },
+ {
+  "title": "Roll a Cursed Technique",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Trending Dance Battle",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\u2694\ufe0f Dance Battle",
+   "playing": 20,
+   "age_d": 114,
+   "like_pct": 86,
+   "universeId": 10548658712
+  },
+  "near": {
+   "name": "Trending Emote Dance",
+   "playing": 12932,
+   "age_d": 83,
+   "like_pct": 88,
+   "universeId": 10752743876
+  }
+ },
+ {
+  "title": "Makeup Glow Up",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Makeup Salon\ud83d\udc84",
+   "playing": 9924,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769514597
+  },
+  "near": null
+ },
+ {
+  "title": "Name Plate Generator",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "LICENSE PLATE GENERATOR",
+   "playing": 8976,
+   "age_d": 37,
+   "like_pct": 97,
+   "universeId": 10769793590
+  },
+  "near": {
+   "name": "LICENSE PLATE GENERATOR",
+   "playing": 8976,
+   "age_d": 37,
+   "like_pct": 97,
+   "universeId": 10769793590
+  }
+ },
+ {
+  "title": "Outfit Rating Showdown",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Hairstyle Generator",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Car Wrap Generator",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Tattoo Generator",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Tattoo to Get Rich \ud83c\udfa8",
+   "playing": 6490,
+   "age_d": 31,
+   "like_pct": 64,
+   "universeId": 10770753184
+  }
+ },
+ {
+  "title": "Rap Battle Showdown",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Tattoo Artist Simulator",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Chef Simulator",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[UPD] Ice Fishing Simulator \ud83d\udc1f",
+   "playing": 9021,
+   "age_d": 1194,
+   "like_pct": 90,
+   "universeId": 4960950398
+  }
+ },
+ {
+  "title": "Nail Salon Simulator",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Nail Salon Tycoon! \ud83d\udc85",
+   "playing": 407,
+   "age_d": 531,
+   "like_pct": 94,
+   "universeId": 7812773438
+  }
+ },
+ {
+  "title": "Mechanic Simulator",
+  "parent": "r6",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\ud83d\udd27 Mechanic Legends [UPD\ud83c\udfc1]",
+   "playing": 3876,
+   "age_d": 225,
+   "like_pct": 92,
+   "universeId": 9979684281
+  }
+ }
+]
