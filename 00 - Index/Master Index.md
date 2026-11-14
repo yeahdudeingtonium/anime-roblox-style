@@ -98,6 +98,9 @@ Every note in the vault, grouped by section. Check [[Owner Decisions]] first, th
 - [[Roblox Discovery Algorithm]]: how Home/RFY, the charts and search rank games; the 16+ launch gate; a 10-point test
 - [[Live Pattern Report 2026-10-31]]: 1,336 live games mined for title, theme, age and update patterns
 - [[Growth Curves and Timing]]: 345 CCU histories; days to 1K/10K, half-life, flop signatures
+- [[Mutation Shortlist 2026-11-14]]: **current picks**. Throw Snowballs For Animals, Spitball the Teacher, Sell Stolen Loot (with how each plays)
+- [[Mutation Playbook]]: 171 games in 13 lineages; which kinds of change win, fun principles, timing
+- [[Steam Mobile Loop Ports 2026-11]]: 23 Steam/mobile loops, Roblox port status, port-survival rules
 - [[Idea Ledger Round 2 - Young Waves]]: ideas on waves under 30 days old; Kick to Escape is the best timing bet
 - [[Idea Ledger Round 1]]: 105 ideas checked against live Roblox; Top 15 with the test scores
 - [[Simple Action Loops Scorecard]]: 12 simple one-action loops graded on 6 axes, with Hatch a Kaiju as the top pick (2026-10-31)

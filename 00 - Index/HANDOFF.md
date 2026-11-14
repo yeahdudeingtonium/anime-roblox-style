@@ -15,7 +15,10 @@ Read this first in any new session. Then read [[Owner Decisions]] and [[Idea Jud
   - The RoWatcher history API also works: `https://rowatcher.com/api/v1/games/<universeId>/history?from=2025-12-01`
 - **The owner has their own scraper and data** (location unknown). Merge it into `08 - Market Research/Data/` when found.
 
-## Current decision in progress
+## Update 2026-11-14
+The current shortlist is [[Mutation Shortlist 2026-11-14]]. #1 is **Throw Snowballs For Animals** (the winter mutation of Throw Food For Animals, 440K and rising, with roll-to-charge as the supporting change). Kick to Escape is dropped (its parent collapsed). Plain Roll a Snowball is folded into #1.
+
+## Earlier decision (2026-10-31)
 The owner likes **Roll a Snowball** (December timing) and is open to **Kick to Escape**. They asked **how each would be played**. Next step: write a full game-design spec for both into `09 - Game Designs/`. Cover the core loop, controls, the first 60 s, the minute-3 goal, progression, the risk lever, monetization and the MVP scope, and score each on the 10-point test.
 
 ### Evidence gathered for Roll a Snowball (2026-10-31)
