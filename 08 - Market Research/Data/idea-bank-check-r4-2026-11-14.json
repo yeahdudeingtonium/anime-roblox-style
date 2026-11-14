@@ -1,0 +1,1838 @@
+[
+ {
+  "title": "+1 Dragon Evolution",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Dragon Evolution",
+   "playing": 366,
+   "age_d": 51,
+   "like_pct": 92,
+   "universeId": 10767822219
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31696,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Shark Evolution",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Shark Evolution",
+   "playing": 14,
+   "age_d": 80,
+   "like_pct": 42,
+   "universeId": 10761699329
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31696,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Werewolf Evolution",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[UPD\ud83c\udf83] +1 Werewolf Evolution",
+   "playing": 265,
+   "age_d": 21,
+   "like_pct": 66,
+   "universeId": 10772655444
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31696,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Vampire Evolution",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "+1 Vampire Evolution",
+   "playing": 1479,
+   "age_d": 45,
+   "like_pct": 92,
+   "universeId": 10768595206
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31696,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Robot Evolution",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "\ud83e\udd16 +1 Robot Evolution",
+   "playing": 1320,
+   "age_d": 26,
+   "like_pct": 92,
+   "universeId": 10771761547
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31633,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Titan Evolution",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "[\u26a1] +1 Titan Evolution! ",
+   "playing": 2143,
+   "age_d": 39,
+   "like_pct": 91,
+   "universeId": 10769541317
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31696,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Demon Evolution",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Dragon Evolution",
+   "playing": 366,
+   "age_d": 51,
+   "like_pct": 92,
+   "universeId": 10767822219
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31696,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Angel Evolution",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Ant Evolution \ud83d\udc1c",
+   "playing": 49,
+   "age_d": 43,
+   "like_pct": 83,
+   "universeId": 10768844188
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31633,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Zombie Evolution",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Zombie Evolution",
+   "playing": 301,
+   "age_d": 72,
+   "like_pct": 84,
+   "universeId": 10764849430
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31696,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Alien Evolution",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Age Evolution",
+   "playing": 8,
+   "age_d": 90,
+   "like_pct": 78,
+   "universeId": 10718212509
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31696,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Kaiju Evolution",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Kaiju Evolution",
+   "playing": 30,
+   "age_d": 128,
+   "like_pct": 92,
+   "universeId": 10468581783
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31633,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Ghost Evolution",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "[\ud83d\udc79] +1 Ghoul Evolution",
+   "playing": 6473,
+   "age_d": 18,
+   "like_pct": 88,
+   "universeId": 10773097147
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31696,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Wizard Evolution",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Wizard Evolution",
+   "playing": 6,
+   "age_d": 107,
+   "like_pct": 68,
+   "universeId": 10593162322
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31633,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Hero Evolution",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Hero Evolution",
+   "playing": 6,
+   "age_d": 23,
+   "like_pct": 85,
+   "universeId": 10772320187
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31696,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Snow Monster Evolution",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Monster Evolution",
+   "playing": 5,
+   "age_d": 69,
+   "like_pct": 90,
+   "universeId": 10765351576
+  },
+  "near": {
+   "name": "+1 Monster Evolution",
+   "playing": 5,
+   "age_d": 69,
+   "like_pct": 90,
+   "universeId": 10765351576
+  }
+ },
+ {
+  "title": "+1 Muscle Every Second",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Muscle Every Second \ud83d\udcaa",
+   "playing": 0,
+   "age_d": 381,
+   "like_pct": 99,
+   "universeId": 9051747821
+  },
+  "near": {
+   "name": "\ud83d\udcaa +1 Muscle to Break Walls",
+   "playing": 1765,
+   "age_d": 186,
+   "like_pct": 97,
+   "universeId": 10152905521
+  }
+ },
+ {
+  "title": "+1 Horns",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31633,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "+1 Eye Laser",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "+1 Laser Size \ud83d\udca5",
+   "playing": 47,
+   "age_d": 57,
+   "like_pct": 73,
+   "universeId": 10766874967
+  }
+ },
+ {
+  "title": "+1 Arm Every Second",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Fat Every Second \ud83c\udf54",
+   "playing": 13,
+   "age_d": 1398,
+   "like_pct": 95,
+   "universeId": 4290156271
+  },
+  "near": {
+   "name": "+1 Spider Arm\ud83d\udd77\ufe0f",
+   "playing": 16450,
+   "age_d": 25,
+   "like_pct": 98,
+   "universeId": 10771997908
+  }
+ },
+ {
+  "title": "+1 Head Size",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "+1 Size Per Step",
+   "playing": 1350,
+   "age_d": 83,
+   "like_pct": 92,
+   "universeId": 10755740733
+  }
+ },
+ {
+  "title": "+1 Height Every Second",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Height Every Second",
+   "playing": 9,
+   "age_d": 905,
+   "like_pct": 95,
+   "universeId": 6020068683
+  },
+  "near": {
+   "name": "+1 Height Roller Coaster",
+   "playing": 94,
+   "age_d": 309,
+   "like_pct": 86,
+   "universeId": 9525628925
+  }
+ },
+ {
+  "title": "+1 Wing Size",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "+1 Size Per Step",
+   "playing": 1350,
+   "age_d": 83,
+   "like_pct": 92,
+   "universeId": 10755740733
+  }
+ },
+ {
+  "title": "+1 Fist Size",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "+1 Size Per Step",
+   "playing": 1350,
+   "age_d": 83,
+   "like_pct": 92,
+   "universeId": 10755740733
+  }
+ },
+ {
+  "title": "+1 Brain Size",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "+1 Aura Size",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Laser Size \ud83d\udca5",
+   "playing": 47,
+   "age_d": 57,
+   "like_pct": 73,
+   "universeId": 10766874967
+  },
+  "near": {
+   "name": "+1 Aura Per Click",
+   "playing": 2392,
+   "age_d": 206,
+   "like_pct": 99,
+   "universeId": 10067258922
+  }
+ },
+ {
+  "title": "+1 Teeth",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31633,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "Roll a Pet",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\ud83c\udfb2 Roll a Pet",
+   "playing": 1,
+   "age_d": 36,
+   "like_pct": 69,
+   "universeId": 10769893224
+  },
+  "near": {
+   "name": "[\ud83c\udf83] Spin A Pet",
+   "playing": 1691,
+   "age_d": 47,
+   "like_pct": 86,
+   "universeId": 10768322898
+  }
+ },
+ {
+  "title": "Roll a Superpower",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Steal A Superpower",
+   "playing": 2,
+   "age_d": 39,
+   "like_pct": 45,
+   "universeId": 10769568123
+  },
+  "near": {
+   "name": "[\u26a1] Steal a Superpower!",
+   "playing": 19731,
+   "age_d": 34,
+   "like_pct": 99,
+   "universeId": 10770228857
+  }
+ },
+ {
+  "title": "Roll a Car",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Roll A Car!",
+   "playing": 26,
+   "age_d": 92,
+   "like_pct": 78,
+   "universeId": 10694714204
+  },
+  "near": {
+   "name": "[9 HOURS] \ud83d\udcadDream Car Collection ",
+   "playing": 3240,
+   "age_d": 96,
+   "like_pct": 94,
+   "universeId": 10667357873
+  }
+ },
+ {
+  "title": "Roll a Sword",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Lift a Sword",
+   "playing": 4,
+   "age_d": 61,
+   "like_pct": 82,
+   "universeId": 10766360897
+  },
+  "near": {
+   "name": "[\u2692\ufe0f] +1 Sword Forge",
+   "playing": 2172,
+   "age_d": 81,
+   "like_pct": 95,
+   "universeId": 10758912149
+  }
+ },
+ {
+  "title": "Roll a Hero",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\u2694\ufe0f BLEACH PT. 3] Roll Anime to Fight!",
+   "playing": 501,
+   "age_d": 157,
+   "like_pct": 97,
+   "universeId": 10298144467
+  }
+ },
+ {
+  "title": "Roll a Monster",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Roll to be Monster",
+   "playing": 198,
+   "age_d": 36,
+   "like_pct": 95,
+   "universeId": 10769866447
+  },
+  "near": {
+   "name": "Monster Maker",
+   "playing": 4434,
+   "age_d": 22,
+   "like_pct": 95,
+   "universeId": 10772440379
+  }
+ },
+ {
+  "title": "Roll a Dragon",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[UPD] Be a Dragon Ball",
+   "playing": 4087,
+   "age_d": 234,
+   "like_pct": 97,
+   "universeId": 9935665660
+  }
+ },
+ {
+  "title": "Roll Your Class",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "\ud83e\udd21 Class Clowns",
+   "playing": 5088,
+   "age_d": 17,
+   "like_pct": 74,
+   "universeId": 10773282691
+  }
+ },
+ {
+  "title": "Roll a Weapon",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Roll For Weapons \ud83c\udfb2",
+   "playing": 2,
+   "age_d": 350,
+   "like_pct": 62,
+   "universeId": 9259685974
+  },
+  "near": {
+   "name": "[UPD] WEAPON SIMULATOR",
+   "playing": 158,
+   "age_d": 386,
+   "like_pct": 92,
+   "universeId": 9015856507
+  }
+ },
+ {
+  "title": "Roll a Football Player",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Roll a Character",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Build An Anime Character",
+   "playing": 4355,
+   "age_d": 41,
+   "like_pct": 70,
+   "universeId": 10769279468
+  }
+ },
+ {
+  "title": "Roll a Fruit",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Drop a Fruit",
+   "playing": 98,
+   "age_d": 196,
+   "like_pct": 95,
+   "universeId": 10109877123
+  },
+  "near": {
+   "name": "+1 Roll Ice Cream",
+   "playing": 180,
+   "age_d": 71,
+   "like_pct": 97,
+   "universeId": 10764980068
+  }
+ },
+ {
+  "title": "Steal a Car",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Steal A Car",
+   "playing": 649,
+   "age_d": 70,
+   "like_pct": 90,
+   "universeId": 10765153945
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 996374,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal a Dragon",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83d\udc7d] Steal A Dragon Egg",
+   "playing": 482,
+   "age_d": 28,
+   "like_pct": 85,
+   "universeId": 10771435207
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 996374,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal a Phone",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83c\udf0c] Steal A Phone",
+   "playing": 122,
+   "age_d": 431,
+   "like_pct": 97,
+   "universeId": 8668547750
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 996374,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal a Shark",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Steal A Fish",
+   "playing": 194,
+   "age_d": 518,
+   "like_pct": 96,
+   "universeId": 7907828295
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 996374,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal a Robot",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Hack and Steal a Robot",
+   "playing": 85,
+   "age_d": 28,
+   "like_pct": 71,
+   "universeId": 10771312916
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 996374,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal a Gem",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Steal Gems",
+   "playing": 67,
+   "age_d": 58,
+   "like_pct": 79,
+   "universeId": 10766676839
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 996374,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal a Monster",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": " Steal A Sea Monster",
+   "playing": 21,
+   "age_d": 448,
+   "like_pct": 73,
+   "universeId": 8519425923
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 996374,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal a Sneaker",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 996374,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal a Plush",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Steal A Plane",
+   "playing": 1880,
+   "age_d": 38,
+   "like_pct": 91,
+   "universeId": 10769672145
+  },
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 996374,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Steal a Football Player",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83c\udfc8] Steal A Football Player",
+   "playing": 0,
+   "age_d": 468,
+   "like_pct": 97,
+   "universeId": 8333843575
+  },
+  "near": {
+   "name": "[UPD] Steal A Soccer Player",
+   "playing": 2466,
+   "age_d": 66,
+   "like_pct": 98,
+   "universeId": 10765733246
+  }
+ },
+ {
+  "title": "Steal a Gaming Setup",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Steal a Unicorn",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Steal An Egg",
+   "playing": 996374,
+   "age_d": 112,
+   "like_pct": 91,
+   "universeId": 10563114921
+  }
+ },
+ {
+  "title": "Swim For Cases",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Jump for Cases\ud83c\udfb2",
+   "playing": 14129,
+   "age_d": 52,
+   "like_pct": 96,
+   "universeId": 10767621216
+  },
+  "near": {
+   "name": "Jump for Cases\ud83c\udfb2",
+   "playing": 14129,
+   "age_d": 52,
+   "like_pct": 96,
+   "universeId": 10767621216
+  }
+ },
+ {
+  "title": "Climb For Cases",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Climb For Animals Eggs\ud83e\udd5a",
+   "playing": 18770,
+   "age_d": 68,
+   "like_pct": 99,
+   "universeId": 10765490774
+  },
+  "near": {
+   "name": "Climb For Animals Eggs\ud83e\udd5a",
+   "playing": 18770,
+   "age_d": 68,
+   "like_pct": 99,
+   "universeId": 10765490774
+  }
+ },
+ {
+  "title": "Skate For Eggs",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Skate for Eggs",
+   "playing": 1,
+   "age_d": 69,
+   "like_pct": 83,
+   "universeId": 10765315837
+  },
+  "near": {
+   "name": "Skate for Animals!",
+   "playing": 3338,
+   "age_d": 67,
+   "like_pct": 84,
+   "universeId": 10765629147
+  }
+ },
+ {
+  "title": "Drive For Eggs",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Drive For Eggs",
+   "playing": 19,
+   "age_d": 49,
+   "like_pct": 65,
+   "universeId": 10768050604
+  },
+  "near": {
+   "name": "[\ud83d\udd78\ufe0f] Swing For Eggs",
+   "playing": 1162,
+   "age_d": 78,
+   "like_pct": 84,
+   "universeId": 10763764817
+  }
+ },
+ {
+  "title": "Fly For Eggs",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83e\udd8b] Fly for Eggs",
+   "playing": 1,
+   "age_d": 61,
+   "like_pct": 85,
+   "universeId": 10766382513
+  },
+  "near": {
+   "name": "[\u2744\ufe0f] Be Flash For Eggs",
+   "playing": 6943,
+   "age_d": 19,
+   "like_pct": 98,
+   "universeId": 10773033667
+  }
+ },
+ {
+  "title": "Bounce For Eggs",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Bounce For Eggs!",
+   "playing": 19,
+   "age_d": 23,
+   "like_pct": 60,
+   "universeId": 10772357271
+  },
+  "near": {
+   "name": "[\u2744\ufe0f] Be Flash For Eggs",
+   "playing": 6943,
+   "age_d": 19,
+   "like_pct": 98,
+   "universeId": 10773033667
+  }
+ },
+ {
+  "title": "Glide For Eggs",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": " Glide For Eggs",
+   "playing": 35,
+   "age_d": 47,
+   "like_pct": 89,
+   "universeId": 10768396931
+  },
+  "near": {
+   "name": "Ride Mobs For Eggs",
+   "playing": 5595,
+   "age_d": 43,
+   "like_pct": 86,
+   "universeId": 10768838846
+  }
+ },
+ {
+  "title": "Parkour For Eggs",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Parkour For Eggs!",
+   "playing": 8,
+   "age_d": 41,
+   "like_pct": 69,
+   "universeId": 10769246086
+  },
+  "near": {
+   "name": "Run For Eggs",
+   "playing": 6266,
+   "age_d": 51,
+   "like_pct": 97,
+   "universeId": 10767735339
+  }
+ },
+ {
+  "title": "Run For Cases",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Jump for Cases\ud83c\udfb2",
+   "playing": 14129,
+   "age_d": 52,
+   "like_pct": 96,
+   "universeId": 10767621216
+  },
+  "near": {
+   "name": "Jump for Cases\ud83c\udfb2",
+   "playing": 14129,
+   "age_d": 52,
+   "like_pct": 96,
+   "universeId": 10767621216
+  }
+ },
+ {
+  "title": "Ski For Cases",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Jump for Cases\ud83c\udfb2",
+   "playing": 14129,
+   "age_d": 52,
+   "like_pct": 96,
+   "universeId": 10767621216
+  }
+ },
+ {
+  "title": "Open Lucky Cases",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83c\udf42] Open Cases!",
+   "playing": 322,
+   "age_d": 54,
+   "like_pct": 83,
+   "universeId": 10767337363
+  }
+ },
+ {
+  "title": "Break a Lucky Block",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\u26cf\ufe0f Break a Lucky Block!",
+   "playing": 711,
+   "age_d": 336,
+   "like_pct": 94,
+   "universeId": 9344307274
+  },
+  "near": {
+   "name": "[4x\ud83c\udf40] Kick a Lucky Block",
+   "playing": 13572,
+   "age_d": 220,
+   "like_pct": 95,
+   "universeId": 10004244222
+  }
+ },
+ {
+  "title": "Spin a Lucky Wheel",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Spin a Wheel",
+   "playing": 434,
+   "age_d": 13,
+   "like_pct": 60,
+   "universeId": 10774088242
+  },
+  "near": {
+   "name": "Spin a Wheel",
+   "playing": 434,
+   "age_d": 13,
+   "like_pct": 60,
+   "universeId": 10774088242
+  }
+ },
+ {
+  "title": "Lucky Chest Opening",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Crack Lucky Eggs",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Escape Tsunami For Lucky Eggs",
+   "playing": 257,
+   "age_d": 292,
+   "like_pct": 84,
+   "universeId": 9626629800
+  }
+ },
+ {
+  "title": "Lucky Gift Box",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Pull a Lucky Card",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Pull a Lucky Fish",
+   "playing": 4551,
+   "age_d": 177,
+   "like_pct": 95,
+   "universeId": 10195997258
+  },
+  "near": {
+   "name": "Pull a Lucky Fish",
+   "playing": 4551,
+   "age_d": 177,
+   "like_pct": 95,
+   "universeId": 10195997258
+  }
+ },
+ {
+  "title": "Mine Lucky Ores",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Mine Lucky Blocks",
+   "playing": 1059,
+   "age_d": 86,
+   "like_pct": 58,
+   "universeId": 10743274098
+  },
+  "near": {
+   "name": "Mine Lucky Blocks",
+   "playing": 1059,
+   "age_d": 86,
+   "like_pct": 58,
+   "universeId": 10743274098
+  }
+ },
+ {
+  "title": "Sell Pizza",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Sell Pizzas \ud83c\udf55",
+   "playing": 260,
+   "age_d": 53,
+   "like_pct": 96,
+   "universeId": 10767434145
+  },
+  "near": {
+   "name": "Sell Fries! [Anomaly] \ud83c\udf5f",
+   "playing": 29443,
+   "age_d": 53,
+   "like_pct": 85,
+   "universeId": 10767380385
+  }
+ },
+ {
+  "title": "Sell Burgers",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Sell Burgers",
+   "playing": 6,
+   "age_d": 108,
+   "like_pct": 81,
+   "universeId": 10589369349
+  },
+  "near": {
+   "name": "Sell Fries! [Anomaly] \ud83c\udf5f",
+   "playing": 29443,
+   "age_d": 53,
+   "like_pct": 85,
+   "universeId": 10767380385
+  }
+ },
+ {
+  "title": "Sell Ice Cream",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Sell Ice Cream \ud83c\udf66",
+   "playing": 269,
+   "age_d": 160,
+   "like_pct": 88,
+   "universeId": 10284380969
+  },
+  "near": {
+   "name": "[\ud83c\udf68CH2] Eat THE Ice Cream ",
+   "playing": 8146,
+   "age_d": 36,
+   "like_pct": 91,
+   "universeId": 10769850160
+  }
+ },
+ {
+  "title": "Sell Sneakers",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Sell Fries! [Anomaly] \ud83c\udf5f",
+   "playing": 29443,
+   "age_d": 53,
+   "like_pct": 85,
+   "universeId": 10767380385
+  }
+ },
+ {
+  "title": "Sell Diamonds",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Sell Fries! [Anomaly] \ud83c\udf5f",
+   "playing": 29443,
+   "age_d": 53,
+   "like_pct": 85,
+   "universeId": 10767380385
+  }
+ },
+ {
+  "title": "Sell Hot Dogs",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Money Printer Tycoon",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "[\ud83d\udcb8] Money Printer Tycoon!",
+   "playing": 528,
+   "age_d": 266,
+   "like_pct": 97,
+   "universeId": 9765294056
+  },
+  "near": {
+   "name": "[\ud83d\udcb8] Money Printer Tycoon!",
+   "playing": 528,
+   "age_d": 266,
+   "like_pct": 97,
+   "universeId": 9765294056
+  }
+ },
+ {
+  "title": "Bank Tycoon",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Mega Bank Tycoon!\ud83d\udcb8",
+   "playing": 2,
+   "age_d": 910,
+   "like_pct": 92,
+   "universeId": 5997929740
+  },
+  "near": {
+   "name": "Trading Tycoon",
+   "playing": 2397,
+   "age_d": 50,
+   "like_pct": 94,
+   "universeId": 10767912502
+  }
+ },
+ {
+  "title": "Phone Store Tycoon",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Phone Store Tycoon \ud83d\udcf1",
+   "playing": 166,
+   "age_d": 531,
+   "like_pct": 94,
+   "universeId": 7818137963
+  },
+  "near": {
+   "name": "Phone Store Tycoon \ud83d\udcf1",
+   "playing": 166,
+   "age_d": 531,
+   "like_pct": 94,
+   "universeId": 7818137963
+  }
+ },
+ {
+  "title": "Gaming Cafe Tycoon",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "[\ud83d\udcbb] My Gaming Cafe!",
+   "playing": 68,
+   "age_d": 183,
+   "like_pct": 99,
+   "universeId": 10168229420
+  }
+ },
+ {
+  "title": "Grow Bigger Every Second",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Grow BIG Every Second!",
+   "playing": 1,
+   "age_d": 268,
+   "like_pct": 89,
+   "universeId": 9755073677
+  },
+  "near": {
+   "name": "Grow BIG Every Second!",
+   "playing": 1,
+   "age_d": 268,
+   "like_pct": 89,
+   "universeId": 9755073677
+  }
+ },
+ {
+  "title": "Get Richer Every Second",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Get Richer Every Second",
+   "playing": 2,
+   "age_d": 1421,
+   "like_pct": 68,
+   "universeId": 4211062040
+  },
+  "near": {
+   "name": "Click To Get Richer",
+   "playing": 4,
+   "age_d": 1184,
+   "like_pct": 79,
+   "universeId": 4997576846
+  }
+ },
+ {
+  "title": "Get Faster Every Second",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "+1 Fat Every Second \ud83c\udf54",
+   "playing": 11,
+   "age_d": 1398,
+   "like_pct": 95,
+   "universeId": 4290156271
+  },
+  "near": {
+   "name": "Every second you get 1 Speed (Obby)",
+   "playing": 201,
+   "age_d": 1245,
+   "like_pct": 95,
+   "universeId": 4782257047
+  }
+ },
+ {
+  "title": "Gain Muscle Every Second",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Gain Size Every Second",
+   "playing": 6,
+   "age_d": 260,
+   "like_pct": 90,
+   "universeId": 9802485460
+  },
+  "near": {
+   "name": "Gain Size Every Second",
+   "playing": 6,
+   "age_d": 260,
+   "like_pct": 90,
+   "universeId": 9802485460
+  }
+ },
+ {
+  "title": "Get Taller Every Second",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Every Second You Get +1 Jump",
+   "playing": 42,
+   "age_d": 1510,
+   "like_pct": 93,
+   "universeId": 3967853925
+  }
+ },
+ {
+  "title": "Get Stronger Every Click",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Grow a Giant Pet",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Grow A Giant Pet",
+   "playing": 1,
+   "age_d": 215,
+   "like_pct": 79,
+   "universeId": 10030006102
+  },
+  "near": {
+   "name": "Grow a Pet",
+   "playing": 5,
+   "age_d": 26,
+   "like_pct": 79,
+   "universeId": 10771692521
+  }
+ },
+ {
+  "title": "Grow Your Aura",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Grow Your Aura",
+   "playing": 0,
+   "age_d": 279,
+   "like_pct": 68,
+   "universeId": 9690546997
+  },
+  "near": {
+   "name": "AURA X",
+   "playing": 4297,
+   "age_d": 21,
+   "like_pct": 90,
+   "universeId": 10772611738
+  }
+ },
+ {
+  "title": "Hatch Lucky Pets",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Be a Lucky Egg and Hatch",
+   "playing": 32,
+   "age_d": 71,
+   "like_pct": 89,
+   "universeId": 10765051511
+  }
+ },
+ {
+  "title": "Hatch Dragon Eggs",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Hatch a Dragon! \ud83d\udc09",
+   "playing": 6,
+   "age_d": 161,
+   "like_pct": 97,
+   "universeId": 10275884200
+  },
+  "near": {
+   "name": "Hatch a Dragon! \ud83d\udc09",
+   "playing": 6,
+   "age_d": 161,
+   "like_pct": 97,
+   "universeId": 10275884200
+  }
+ },
+ {
+  "title": "Hatch Shiny Pets",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Pet Evolution",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Pet Evolution\ud83c\udf1f",
+   "playing": 0,
+   "age_d": 624,
+   "like_pct": 87,
+   "universeId": 7302956307
+  },
+  "near": {
+   "name": "[\u2694\ufe0fUPD] +1 Venom Evolution",
+   "playing": 31719,
+   "age_d": 39,
+   "like_pct": 97,
+   "universeId": 10769464063
+  }
+ },
+ {
+  "title": "Fuse Pets",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Train Pets for Eggs",
+   "playing": 5190,
+   "age_d": 46,
+   "like_pct": 93,
+   "universeId": 10768449395
+  }
+ },
+ {
+  "title": "Train Your Pet",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "Train Pets for Eggs",
+   "playing": 5197,
+   "age_d": 46,
+   "like_pct": 93,
+   "universeId": 10768449395
+  }
+ },
+ {
+  "title": "Huge Pet Simulator",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Pet Simulator X! \ud83d\udc3e",
+   "playing": 1085,
+   "age_d": 2121,
+   "like_pct": 91,
+   "universeId": 2316994223
+  },
+  "near": {
+   "name": "\ud83c\udfad [MINIGAMES] Pet Simulator 99! \ud83c\udf83",
+   "playing": 31670,
+   "age_d": 1742,
+   "like_pct": 95,
+   "universeId": 3317771874
+  }
+ },
+ {
+  "title": "Hatch Mythic Pets",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Punch Power Simulator",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "Punch Simulator",
+   "playing": 6,
+   "age_d": 14,
+   "like_pct": 59,
+   "universeId": 10773887671
+  },
+  "near": {
+   "name": "[\ud83d\ude80] Power Grid Simulator \u26a1",
+   "playing": 878,
+   "age_d": 52,
+   "like_pct": 84,
+   "universeId": 10767682750
+  }
+ },
+ {
+  "title": "Lift Weights",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "+1 Lift Rock for Treasure",
+   "playing": 3945,
+   "age_d": 62,
+   "like_pct": 96,
+   "universeId": 10766135603
+  }
+ },
+ {
+  "title": "Click for Money",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": {
+   "name": "+1 Money Per Click \ud83d\udcb8",
+   "playing": 1517,
+   "age_d": 62,
+   "like_pct": 89,
+   "universeId": 10766212164
+  }
+ },
+ {
+  "title": "Train to Be Strongest",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "OPEN",
+  "taken": null,
+  "near": null
+ },
+ {
+  "title": "Speed Clicker",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-HIT",
+  "taken": {
+   "name": "Speed Clicker \u26a1",
+   "playing": 1318,
+   "age_d": 683,
+   "like_pct": 93,
+   "universeId": 7005891584
+  },
+  "near": {
+   "name": "+1 Speed Keyboard Escape | Candy & Chocolate",
+   "playing": 30297,
+   "age_d": 299,
+   "like_pct": 97,
+   "universeId": 9584852943
+  }
+ },
+ {
+  "title": "Kick Power Simulator",
+  "parent": "r4",
+  "type": "-",
+  "loop": "-",
+  "status": "TAKEN-FLOP",
+  "taken": {
+   "name": "\u26bd Kick Power Simulator",
+   "playing": 0,
+   "age_d": 184,
+   "like_pct": 83,
+   "universeId": 10163030644
+  },
+  "near": {
+   "name": "[\ud83c\udf0dUPD] +1 Kick Power \u26bd",
+   "playing": 906,
+   "age_d": 21,
+   "like_pct": 80,
+   "universeId": 10772556867
+  }
+ }
+]
